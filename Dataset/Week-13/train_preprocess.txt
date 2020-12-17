@@ -624,7 +624,7 @@ kamera	O
 cctv	B-IND
 .	O
 
-''	O
+'	O
 pt	B-IND
 kereta	I-IND
 api	I-IND
@@ -14150,7 +14150,7 @@ pada	O
 1936	O
 .	O
 
-''	O
+'	O
 juventus	B-IND
 menggenapi	O
 prediksi	O
@@ -19827,7 +19827,7 @@ sangat	O
 serius	O
 .	O
 
-''	O
+'	O
 kia	B-IND
 motors	I-IND
 america	I-IND
@@ -20061,7 +20061,7 @@ maret	O
 2016	O
 .	O
 
-''	O
+'	O
 atletico	B-IND
 madrid	I-IND
 membuktikan	O
@@ -23727,7 +23727,7 @@ tutur	O
 ketut	O
 .	O
 
-''	O
+'	O
 turis	O
 terbanyak	O
 yang	O
@@ -38469,7 +38469,7 @@ padi	O
 terancam	O
 puso	O
 
-''	O
+'	O
 microsoft	B-IND
 research	I-IND
 ,	O
@@ -39279,7 +39279,7 @@ internal	O
 ppp	O
 .	O
 
-''	O
+'	O
 bank	B-IND
 perkreditan	I-IND
 rakyat	I-IND
@@ -39834,7 +39834,7 @@ milik	O
 cavaliers	B-IND
 .	O
 
-''	O
+'	O
 hanung	B-PPL
 bramantyo	I-PPL
 bersama	O
@@ -47101,7 +47101,7 @@ sulawesi	B-PLC
 selatan	I-PLC
 .	O
 
-''	O
+'	O
 kincir.com	B-IND
 ,	O
 situs	O
@@ -52068,7 +52068,7 @@ dalam	O
 memproses	O
 lanjutannya	O
 ,	O
-''	O
+'	O
 ujar	O
 fajar	B-PPL
 bustomi	I-PPL
@@ -52667,7 +52667,7 @@ pembuatan	O
 paspor	O
 .	O
 
-''	O
+'	O
 trio	B-IND
 promotor	I-IND
 ,	O
@@ -54367,7 +54367,7 @@ partai	O
 lain	O
 .	O
 
-''	O
+'	O
 agung	B-PPL
 lawerissa	I-PPL
 setiawan	I-PPL
@@ -59875,7 +59875,7 @@ ujar	O
 maruarar	B-PPL
 .	O
 
-''	O
+'	O
 kementerian	O
 hukum	O
 dan	O
@@ -64716,7 +64716,7 @@ bekerja	O
 dengan	O
 lancar	O
 ,	O
-''	O
+'	O
 kata	O
 abu	B-PPL
 zahra	I-PPL
@@ -67341,7 +67341,7 @@ yang	O
 datang	O
 .	O
 
-''	O
+'	O
 gareth	B-PPL
 h.	I-PPL
 evans	I-PPL
@@ -68169,7 +68169,7 @@ mahkamah	O
 agung	O
 .	O
 
-''	O
+'	O
 tahun	O
 lalu	O
 ,	O
@@ -68179,7 +68179,7 @@ tidak	O
 semeriah	O
 ini	O
 ,	O
-''	O
+'	O
 kata	O
 abu	B-PPL
 zahra	I-PPL
@@ -71702,7 +71702,7 @@ seperti	O
 itu	O
 .	O
 
-''	O
+'	O
 guruh	B-PPL
 soekarno	I-PPL
 putra	I-PPL
@@ -75073,7 +75073,7 @@ kepada	O
 kompas	B-IND
 .	O
 
-''	O
+'	O
 tempat	O
 kami	O
 tinggal	O
@@ -75128,7 +75128,7 @@ tidak	O
 terjadi	O
 apa-apa	O
 ,	O
-''	O
+'	O
 paparnya	O
 saat	O
 dijumpai	O
@@ -83449,7 +83449,7 @@ jabatan	O
 ujarnya	O
 .	O
 
-''	O
+'	O
 mandala	B-IND
 airlines	I-IND
 menambah	O
@@ -91369,7 +91369,7 @@ berkum­pul	O
 dengan	O
 keluarga	O
 ,	O
-''	O
+'	O
 jelasnya	O
 .	O
 
@@ -94492,7 +94492,7 @@ perubahan	O
 #amovementforindonesia	O
 #ami2018	O
 
-''	O
+'	O
 timnas	B-IND
 indonesia	I-IND
 u-19	I-IND
@@ -97877,7 +97877,7 @@ kedaulatan	O
 energi	O
 .	O
 
-''	O
+'	O
 karen	B-PPL
 ,	O
 shaun	B-PPL
@@ -98993,7 +98993,7 @@ dan	O
 sebagainya	O
 .	O
 
-''	O
+'	O
 the	B-EVT
 66th	I-EVT
 iaa	I-EVT
@@ -101245,7 +101245,7 @@ sabtu	O
 )	O
 siang	O
 
-''	O
+'	O
 kementerian	O
 perhubungan	O
 (	O
@@ -103296,7 +103296,7 @@ keyakinan	O
 masing-masing	O
 .	O
 
-''	O
+'	O
 merlin	B-IND
 ,	O
 lembaga	O
@@ -134648,7 +134648,7 @@ kepada	O
 beritagar	B-IND
 .	I-IND
 
-''	O
+'	O
 johnson	B-IND
 &	O
 amp	O
@@ -139535,7 +139535,7 @@ di	O
 beijing	B-PLC
 .	O
 
-''	O
+'	O
 bank	B-IND
 indonesia	I-IND
 merilis	O
@@ -159343,7 +159343,7 @@ choice	O
 award	O
 .	O
 
-''	O
+'	O
 kaesang	B-PPL
 pangarep	I-PPL
 (	O
@@ -160224,7 +160224,7 @@ per	O
 orang	O
 .	O
 
-''	O
+'	O
 appleinsider	B-IND
 ,	O
 senin	O
