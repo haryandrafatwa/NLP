@@ -194,7 +194,7 @@ menjadi	O
 awal	O
 dan	O
 akan	O
-"	O
+`	O
 menghindari	O
 penyerbuan	O
 pada	O
@@ -204,7 +204,7 @@ pertama	O
 di	O
 pasar	O
 .	O
-"	O
+`	O
 
 budiyanto	O
 juga	O
@@ -393,7 +393,7 @@ tahun	O
 silam	O
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 menyarankan	O
@@ -405,7 +405,7 @@ jujur	O
 tahukah	O
 anda	O
 .	O
-"	O
+`	O
 
 dirinya	O
 juga	O
@@ -471,7 +471,7 @@ daging	B-FNB
 ayam	I-FNB
 .	O
 
-"	O
+`	O
 kemarin	O
 ,	O
 presiden	O
@@ -500,11 +500,11 @@ ia	O
 belum	O
 selesaikan	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
-"	O
+`	O
 kami	O
 menanam	O
 padi	O
@@ -519,7 +519,7 @@ kemarau	O
 areal	O
 persawahan	O
 dibiarkan,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -624,7 +624,7 @@ kamera	O
 cctv	B-IND
 .	O
 
-"'	O
+`'	O
 pt	B-IND
 kereta	I-IND
 api	I-IND
@@ -702,7 +702,7 @@ faktor	O
 sby	B-PPL
 .	O
 
-"	O
+`	O
 kalau	O
 (	O
 minta	O
@@ -712,7 +712,7 @@ itu	O
 bisa	O
 saja	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -802,7 +802,7 @@ pada	O
 2001	O
 .	O
 
-"	O
+`	O
 sulit	O
 untuk	O
 diikuti	O
@@ -813,7 +813,7 @@ beberapa	O
 penyebab	O
 evolusi	O
 .	O
-"	O
+`	O
 
 bom	O
 jakarta	B-PLC
@@ -1093,7 +1093,7 @@ konsekuensi	O
 apapun	O
 .	O
 
-"	O
+`	O
 keputusan	O
 resmi	O
 saja	O
@@ -1117,7 +1117,7 @@ untuk	O
 memilih	O
 siapa	O
 pembantunya,	O
-"	O
+`	O
 kata	O
 saan	B-PPL
 .	O
@@ -1346,7 +1346,7 @@ serangan	O
 balik	O
 .	O
 
-"	O
+`	O
 fraksi	O
 pkb	O
 mengajak	O
@@ -1377,7 +1377,7 @@ bebas	O
 dari	O
 kecurangan	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -1416,7 +1416,7 @@ penonton	O
 bahwa	O
 itu	O
 merupakan	O
-"	O
+`	O
 konser	O
 terakhir	O
 di	O
@@ -1424,7 +1424,7 @@ dalam	O
 hidup	O
 nya	O
 ,	O
-"	O
+`	O
 dan	O
 meninggalkan	O
 panggung	O
@@ -1717,7 +1717,7 @@ trio	O
 spanyol	B-PLC
 .	O
 
-"	O
+`	O
 pendekatan	O
 nya	O
 adalah	O
@@ -1731,7 +1731,7 @@ apa	O
 yang	O
 dibangun	O
 ,	O
-"	O
+`	O
 kata	O
 walesa	B-PLC
 mengatakan	O
@@ -1739,7 +1739,7 @@ tentang	O
 presiden	O
 .	O
 
-"	O
+`	O
 saya	O
 mengucapkan	O
 banyak	O
@@ -1754,7 +1754,7 @@ malam	O
 istimewa	O
 ini	O
 .	O
-"	O
+`	O
 tutup	O
 danilla	B-PPL
 setelah	O
@@ -1966,7 +1966,7 @@ drum	O
 )	O
 .	O
 
-"	O
+`	O
 seorang	O
 yang	O
 hebat	O
@@ -1979,7 +1979,7 @@ kebaikan	O
 orang	O
 lain	O
 ,	O
-"	O
+`	O
 tambah	O
 nya	O
 .	O
@@ -2194,7 +2194,7 @@ yang	O
 spektakuler	O
 .	O
 
-"	O
+`	O
 hari	O
 ini	O
 adalah	O
@@ -2220,9 +2220,9 @@ yang	O
 sangat	O
 mengerikan	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 ceritanya	O
 nggak	O
 hanya	O
@@ -2256,7 +2256,7 @@ semua	O
 harus	O
 nonton	O
 ,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -2412,7 +2412,7 @@ per	O
 100.000	O
 .	O
 
-"	O
+`	O
 yang	O
 paling	O
 ditunggu	O
@@ -2435,7 +2435,7 @@ pun	O
 akan	O
 dihargai	O
 ,	O
-"	O
+`	O
 kata	O
 happy	B-PPL
 .	O
@@ -2614,7 +2614,7 @@ melawan	O
 petugas	O
 .	O
 
-"	O
+`	O
 soal	O
 ada	O
 penyangkalan	O
@@ -2627,7 +2627,7 @@ serahkan	O
 kepada	O
 proses	O
 hukum	O
-"	O
+`	O
 kata	O
 julian	B-PPL
 .	O
@@ -2855,7 +2855,7 @@ corruption	O
 watch	O
 .	O
 
-"	O
+`	O
 jadi	O
 untuk	O
 pemilihan	O
@@ -2874,7 +2874,7 @@ di	O
 tingkat	O
 pusat	O
 ,	O
-"	O
+`	O
 kata	O
 leonardy	B-PPL
 .	O
@@ -2940,7 +2940,7 @@ bhayangkara	B-IND
 fc	I-IND
 .	O
 
-"	O
+`	O
 masih	O
 buruknya	O
 perkembangan	O
@@ -2950,7 +2950,7 @@ tetap	O
 menjadi	O
 risiko	O
 utama,	O
-"	O
+`	O
 ujar	O
 dia	O
 .	O
@@ -3213,10 +3213,10 @@ bahwa	O
 mereka	O
 menyerang	O
 sebuah	O
-"	O
+`	O
 kantor	O
 perwakilan	O
-"	O
+`	O
 bukan	O
 nya	O
 sebuah	O
@@ -3288,7 +3288,7 @@ sesuai	O
 peraturan	O
 daerah	O
 .	O
-"	O
+`	O
 saya	O
 hanya	O
 menjalankan	O
@@ -3299,19 +3299,19 @@ tidak	O
 berizin	O
 harus	O
 dicabut,	O
-"	O
+`	O
 ujar	O
 vicky	B-PPL
 ,	O
 sabtu	O
 .	O
 
-"	O
+`	O
 saya	O
 nyaman-nyaman	O
 saja	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -3425,7 +3425,7 @@ juli	O
 nanti	O
 .	O
 
-"	O
+`	O
 dan	O
 saya	O
 kenal	O
@@ -3441,7 +3441,7 @@ karakter	O
 dan	O
 integritasnya	O
 ,	O
-"	O
+`	O
 papar	O
 ota	B-PPL
 .	O
@@ -3536,7 +3536,7 @@ menyeret	O
 jajarannya	O
 .	O
 
-"	O
+`	O
 di	O
 apbn	O
 murni	O
@@ -3559,7 +3559,7 @@ rp	O
 1,3	O
 triliun	O
 ,	O
-"	O
+`	O
 jelas	O
 dolfie	B-PPL
 kepada	O
@@ -3743,7 +3743,7 @@ maupun	O
 supermarket	O
 .	O
 
-"	O
+`	O
 kekuatan	O
 bergantung	O
 banyaknya	O
@@ -3752,7 +3752,7 @@ dan	O
 kerawanan	O
 lingkungan	O
 ,	O
-"	O
+`	O
 ucapnya	O
 .	O
 
@@ -3885,7 +3885,7 @@ sebelum	O
 berlatih	O
 .	O
 
-"	O
+`	O
 banyak	O
 orang	O
 yang	O
@@ -3964,7 +3964,7 @@ unggulan	O
 kebanggaan	O
 bangsa	O
 ,	O
-"	O
+`	O
 kata	O
 menteri	O
 sosial	O
@@ -3978,7 +3978,7 @@ jakarta	B-PLC
 jumat	O
 .	O
 
-"	O
+`	O
 saat	O
 ini	O
 ,	O
@@ -4012,7 +4012,7 @@ eropa	B-PLC
 dan	O
 amerika	B-PLC
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -4255,13 +4255,13 @@ hak	O
 asasi	O
 manusia	O
 sebagai	O
-"	O
+`	O
 pelanggaran	O
 hukum	O
 kemanusiaan	O
 internasional	O
 .	O
-"	O
+`	O
 
 joko	B-PPL
 widodo	I-PPL
@@ -4327,16 +4327,16 @@ dana	O
 kampanye	O
 .	O
 
-"	O
+`	O
 mudah-mudahan	O
 pelakunya	O
 tertangkap	O
 secepatnya,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
-"	O
+`	O
 dia	O
 memberi	O
 aib	O
@@ -4364,7 +4364,7 @@ tidak	O
 memerlukan	O
 nya	O
 lagi	O
-"	O
+`	O
 ia	O
 mengumumkan	O
 .	O
@@ -4517,7 +4517,7 @@ beberapa	O
 jam	O
 .	O
 
-"	O
+`	O
 partai	O
 kami	O
 tetap	O
@@ -4537,7 +4537,7 @@ diawasi	O
 oleh	O
 ukp4	O
 ,	O
-"	O
+`	O
 jelasnya	O
 lagi	O
 .	O
@@ -4599,7 +4599,7 @@ de	I-PPL
 luca	I-PPL
 .	O
 
-"	O
+`	O
 wajar	O
 saja	O
 jika	O
@@ -4614,7 +4614,7 @@ menkum	O
 dan	O
 ham	O
 ,	O
-"	O
+`	O
 ungkapnya	O
 .	O
 
@@ -4846,7 +4846,7 @@ dilakukan	O
 kpu	O
 .	O
 
-"	O
+`	O
 apa	O
 yang	O
 disikapi	O
@@ -4859,7 +4859,7 @@ menteri	O
 jadi	O
 harap	O
 dibedakan,	O
-"	O
+`	O
 sambungnya	O
 .	O
 
@@ -4953,14 +4953,14 @@ hardiknas	B-EVT
 2017	I-EVT
 mengusung	O
 tema	O
-"	O
+`	O
 percepat	O
 pendidikan	O
 yang	O
 merata	O
 dan	O
 berkualitas	O
-"	O
+`	O
 .	O
 
 pemerintah	O
@@ -5131,7 +5131,7 @@ tahun	O
 ini	O
 .	O
 
-"	O
+`	O
 meskipun	O
 kami	O
 sedih	O
@@ -5153,7 +5153,7 @@ negara	O
 dan	O
 agama	O
 .	O
-"	O
+`	O
 
 kepada	O
 wartawan	O
@@ -5487,9 +5487,9 @@ wistan	I-PPL
 mengaku	O
 ,	O
 besi	O
-"	O
+`	O
 menghilang	O
-"	O
+`	O
 di	O
 pasar	B-PPL
 medan	I-PPL
@@ -5550,7 +5550,7 @@ ciputra	B-PPL
 jakarta	B-PLC
 .	O
 
-"	O
+`	O
 yang	O
 bilang	O
 ramai-ramai	O
@@ -5577,7 +5577,7 @@ masih	O
 presiden	O
 pks	O
 ,	O
-"	O
+`	O
 tukasnya	O
 .	O
 
@@ -5766,14 +5766,14 @@ gelap	O
 narkotika	O
 .	O
 
-"	O
+`	O
 sekarang	O
 ruangannya	O
 di	O
 -	O
 police	O
 line,	O
-"	O
+`	O
 kata	O
 sumber	O
 tersebut	O
@@ -5811,7 +5811,7 @@ dengan	O
 inti	O
 .	O
 
-"	O
+`	O
 tol	B-PLC
 bsd	I-PLC
 ke	O
@@ -5825,7 +5825,7 @@ air	O
 sudah	O
 tidak	O
 ada,	O
-"	O
+`	O
 kata	O
 petugas	O
 jasa	B-IND
@@ -6281,10 +6281,10 @@ kendaraan	O
 ,	O
 dia	O
 memiliki	O
-"	O
+`	O
 sedikit	O
 keyakinan	O
-"	O
+`	O
 bahwa	O
 tentara	O
 khawatir	O
@@ -6640,7 +6640,7 @@ di	O
 bandung	B-PLC
 .	O
 
-"	O
+`	O
 golkar	O
 menerima	O
 kekalahan	O
@@ -6659,7 +6659,7 @@ dalam	O
 pesta	O
 demokrasi	O
 ,	O
-"	O
+`	O
 kata	O
 wakil	O
 sekretaris	O
@@ -6711,7 +6711,7 @@ calvin	B-PPL
 kristanto	I-PPL
 .	O
 
-"	O
+`	O
 dia	O
 mendampingi	O
 gough	B-PLC
@@ -6735,7 +6735,7 @@ itu	O
 dan	O
 setelah	O
 1975	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -6776,7 +6776,7 @@ bulan	B-EVT
 ramadhan	I-EVT
 .	O
 
-"	O
+`	O
 sejak	O
 pintu	O
 tol	B-PLC
@@ -6787,7 +6787,7 @@ sekitar	O
 700	O
 meter	O
 ,	O
-"	O
+`	O
 kata	O
 riska	B-PPL
 ,	O
@@ -7102,7 +7102,7 @@ tangerang	B-PLC
 selatan	I-PLC
 .	O
 
-"	O
+`	O
 caranya	O
 kenapa	O
 harus	O
@@ -7125,12 +7125,12 @@ harus	O
 dengan	O
 mencoret	O
 ,	O
-"	O
+`	O
 ujar	O
 priyo	B-PPL
 .	O
 
-"	O
+`	O
 ini	O
 realitas	O
 politik	O
@@ -7151,7 +7151,7 @@ proses	O
 yang	O
 transparan	O
 ,	O
-"	O
+`	O
 kata	O
 anas	B-PPL
 dalam	O
@@ -7184,7 +7184,7 @@ menteri	O
 estonia	B-PLC
 mengatakan	O
 ,	O
-"	O
+`	O
 belum	O
 ada	O
 pengaturan	O
@@ -7208,7 +7208,7 @@ tanggal	O
 10	O
 mei	O
 .	O
-"	O
+`	O
 
 terdapat	O
 pula	O
@@ -7285,7 +7285,7 @@ membantah	O
 tudingan	O
 itu	O
 .	O
-"	O
+`	O
 tidak	O
 benar	O
 berita	O
@@ -7307,7 +7307,7 @@ tampang	O
 suka	O
 nampar	O
 ,	O
-"	O
+`	O
 tutur	O
 denny	B-PPL
 .	O
@@ -7393,7 +7393,7 @@ wib	O
 )	O
 .	O
 
-"	O
+`	O
 sedangkan	O
 reformasi	O
 aspek	O
@@ -7408,7 +7408,7 @@ dan	O
 kondisi	O
 lingkungan	O
 ,	O
-"	O
+`	O
 ucapnya	O
 menegaskan	O
 .	O
@@ -7474,7 +7474,7 @@ fiskal	O
 terakhir	O
 .	O
 
-"	O
+`	O
 demi	O
 pembenahan	O
 lapas	O
@@ -7484,7 +7484,7 @@ lapas	O
 dari	O
 peredaran	O
 narkoba,	O
-"	O
+`	O
 lanjut	O
 anggota	O
 komisi	O
@@ -7527,13 +7527,13 @@ di	O
 dalam	O
 lapas	O
 .	O
-"	O
+`	O
 kami	O
 dukung	O
 upaya	O
 itu	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -7663,7 +7663,7 @@ ces	I-EVT
 2014	I-EVT
 .	O
 
-"	O
+`	O
 untuk	O
 keterbukaan	O
 publik	O
@@ -7690,7 +7690,7 @@ kita	O
 izinkan	O
 mereka	O
 ,	O
-"	O
+`	O
 timpal	O
 haswandi	B-PPL
 .	O
@@ -7743,7 +7743,7 @@ insider	I-IND
 )	O
 .	O
 
-"	O
+`	O
 kemungkinan	O
 tersangka	O
 baru	O
@@ -7762,7 +7762,7 @@ lain	O
 yang	O
 terlibat	O
 ,	O
-"	O
+`	O
 kata	O
 johan	B-PPL
 .	O
@@ -7864,7 +7864,7 @@ wajib	O
 pajak	O
 .	O
 
-"	O
+`	O
 permintaan	O
 beliau	O
 kan	O
@@ -7915,7 +7915,7 @@ tidak	O
 punya	O
 leadership	O
 bagaimana	O
-?"	O
+?`	O
 ujar	O
 sutiyoso	B-PPL
 .	O
@@ -7994,7 +7994,7 @@ pada	O
 2016	O
 .	O
 
-"	O
+`	O
 tidak	O
 benar	O
 itu	O
@@ -8015,7 +8015,7 @@ dia	O
 mengalami	O
 depresi	O
 ,	O
-"	O
+`	O
 jawab	O
 yos	B-PPL
 .	O
@@ -8056,7 +8056,7 @@ yang	O
 sama	O
 .	O
 
-"	O
+`	O
 ini	O
 kesempatan	O
 untuk	O
@@ -8084,7 +8084,7 @@ untuk	O
 serap	O
 besar-besaran	O
 ,	O
-"	O
+`	O
 tegasnya	O
 .	O
 (	O
@@ -8246,10 +8246,10 @@ kota	O
 ini	O
 dengan	O
 sebutan	O
-"	O
+`	O
 kota	B-PLC
 amoy	I-PLC
-"	O
+`	O
 .	O
 
 meski	O
@@ -8278,7 +8278,7 @@ cukup	O
 baik	O
 .	O
 
-"	O
+`	O
 pemahaman	O
 penyebab	O
 kejadian	O
@@ -8296,7 +8296,7 @@ pada	O
 kejadian	O
 ini	O
 .	O
-"	O
+`	O
 
 tim	O
 cimol	O
@@ -8358,7 +8358,7 @@ rokok	O
 beraroma	O
 .	O
 
-"	O
+`	O
 untuk	O
 gempa	O
 susulan	O
@@ -8367,7 +8367,7 @@ besar	O
 tidak	O
 ada	O
 ,	O
-"	O
+`	O
 pungkasnya	O
 .	O
 
@@ -8384,7 +8384,7 @@ mandushev	B-PPL
 terus	O
 mengatakan	O
 ,	O
-"	O
+`	O
 karena	O
 planet	O
 cukup	O
@@ -8403,7 +8403,7 @@ ekor	O
 menyerupai	O
 komet	O
 .	O
-"	O
+`	O
 
 roti	B-FNB
 parotta	I-FNB
@@ -8760,7 +8760,7 @@ bertukar	O
 pikiran	O
 .	O
 
-"	O
+`	O
 bagi	O
 kami	O
 dalam	O
@@ -8780,7 +8780,7 @@ apapun	O
 pak	O
 sby	B-PPL
 ,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
@@ -8801,7 +8801,7 @@ nya	O
 ,	O
 berkata	O
 ,	O
-"	O
+`	O
 mereka	O
 akan	O
 menjadi	O
@@ -8837,7 +8837,7 @@ selama	O
 partisipasi	O
 mereka	O
 .	O
-"	O
+`	O
 
 dikatakannya	O
 ,	O
@@ -8916,7 +8916,7 @@ new	B-PLC
 mexico	I-PLC
 .	O
 
-"	O
+`	O
 tapi	O
 sejak	O
 pileg	B-EVT
@@ -8933,7 +8933,7 @@ tersebut	O
 tidak	O
 terjadi	O
 ,	O
-"	O
+`	O
 ucapnya	O
 .	O
 
@@ -9144,7 +9144,7 @@ yang	O
 bersangkutan	O
 .	O
 
-"	O
+`	O
 poin	O
 kita	O
 ,	O
@@ -9207,7 +9207,7 @@ yang	O
 paling	O
 korup	O
 ,	O
-"	O
+`	O
 ujar	O
 benny	B-PPL
 dalam	O
@@ -9336,7 +9336,7 @@ ke	O
 gawang	O
 .	O
 
-"	O
+`	O
 kita	O
 masuk	O
 ke	O
@@ -9360,7 +9360,7 @@ ya	O
 kita	O
 tunggu	O
 ,	O
-"	O
+`	O
 kata	O
 plt	O
 deputi	O
@@ -9563,7 +9563,7 @@ juni	O
 nanti	O
 .	O
 
-"	O
+`	O
 partai	O
 ini	O
 pernah	O
@@ -9592,12 +9592,12 @@ negara	O
 yang	O
 disegani	O
 ,	O
-"	O
+`	O
 kata	O
 tantowi	B-PPL
 .	O
 
-"	O
+`	O
 sistem	O
 pemilu	O
 kita	O
@@ -9617,7 +9617,7 @@ fraksi	O
 juga	O
 menginginkan	O
 terbuka,	O
-"	O
+`	O
 kata	O
 wakil	O
 sekjen	O
@@ -9679,13 +9679,13 @@ ribuan	O
 orang	O
 .	O
 
-"	O
+`	O
 lobi-lobi	O
 akan	O
 kami	O
 jalankan	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -9892,7 +9892,7 @@ oktarina	B-PPL
 putri	I-PPL
 .	O
 
-"	O
+`	O
 kenyataan	O
 nya	O
 adalah	O
@@ -9909,7 +9909,7 @@ untuk	O
 bergerak	O
 maju	O
 .	O
-"	O
+`	O
 
 saya	O
 ingin	O
@@ -9971,7 +9971,7 @@ rokok	O
 aroma	O
 .	O
 
-"	O
+`	O
 kpu	O
 digugat	O
 karena	O
@@ -9980,7 +9980,7 @@ konsekuensi	O
 dari	O
 institusi	O
 .	O
-"	O
+`	O
 firman	B-PPL
 belum	O
 menjelaskan	O
@@ -10052,9 +10052,9 @@ paregreg	I-EVT
 daerah	O
 wirabhumi	B-PLC
 seperti	O
-"	O
+`	O
 terlepas	O
-"	O
+`	O
 dari	O
 kontrol	O
 majapahit	O
@@ -10121,7 +10121,7 @@ keyakinan	O
 saksi	O
 .	O
 
-"	O
+`	O
 mendukung	O
 seluruh	O
 kebijakan	O
@@ -10145,7 +10145,7 @@ kinerja	O
 kabinet	O
 dilakukan	O
 ukp4	O
-"	O
+`	O
 jelas	O
 salim	B-PPL
 .	O
@@ -10281,7 +10281,7 @@ wardhana	I-PPL
 tahun	O
 .	O
 
-"	O
+`	O
 saya	O
 melihat	O
 bahwa	O
@@ -10304,7 +10304,7 @@ transparan	O
 dan	O
 terbuka	O
 .	O
-"	O
+`	O
 
 menurut	O
 rotten	B-IND
@@ -10358,11 +10358,11 @@ fest	I-EVT
 akan	O
 mengangkat	O
 tema	O
-"	O
+`	O
 under	O
 the	O
 sea	O
-"	O
+`	O
 yang	O
 akan	O
 dilaksanakan	O
@@ -10432,7 +10432,7 @@ mesin	O
 sebelumnya	O
 .	O
 
-"	O
+`	O
 kantong	O
 -	O
 kantong	O
@@ -10442,7 +10442,7 @@ akan	O
 )	O
 disiapkan	O
 ,	O
-"	O
+`	O
 ucap	O
 budiyanto	B-PPL
 dalam	O
@@ -11047,14 +11047,14 @@ masyarakat	O
 di	O
 dunia	O
 
-"	O
+`	O
 lagi pula	O
 ,	O
 apakah	O
 kpk	O
 pasti	O
 benar	O
-?"	O
+?`	O
 ujar	O
 dia	O
 .	O
@@ -11093,7 +11093,7 @@ klub	O
 calderwood	B-PPL
 membalas	O
 :	O
-"	O
+`	O
 saya	O
 akan	O
 melihat	O
@@ -11101,7 +11101,7 @@ ada	O
 ide	O
 apa	O
 .	O
-"	O
+`	O
 
 mahfudz	B-PPL
 siddiq	I-PPL
@@ -11339,7 +11339,7 @@ dipaparkan	O
 pocketnow	B-IND
 .	O
 
-"	O
+`	O
 alasan	O
 penganiayaan	O
 karena	O
@@ -11354,7 +11354,7 @@ pagi	O
 di	O
 lingkungan	O
 rutan,	O
-"	O
+`	O
 kata	O
 yoris	B-PPL
 .	O
@@ -11425,19 +11425,19 @@ hits	O
 dangdut	O
 seperti	O
 ,	O
-"	O
+`	O
 pandangan	B-IND
 pertama	I-IND
 ,	O
-"	O
+`	O
 judi	B-IND
-"	O
+`	O
 ,	O
 dan	O
-"	O
+`	O
 kopi	B-IND
 dangdut	I-IND
-"	O
+`	O
 dibawakan	O
 pada	O
 hello	B-EVT
@@ -11491,7 +11491,7 @@ akhir	O
 2015	O
 .	O
 
-"	O
+`	O
 apakah	O
 majelis	O
 memberi	O
@@ -11524,7 +11524,7 @@ siapa	O
 ini	O
 saksinya	O
 ,	O
-"	O
+`	O
 kata	O
 adnan	B-PPL
 di	O
@@ -11806,7 +11806,7 @@ video	O
 netflix	B-IND
 .	O
 
-"	O
+`	O
 golkar	O
 itu	O
 satu	O
@@ -11819,7 +11819,7 @@ oleh	O
 siapa	O
 juga	O
 .	O
-"	O
+`	O
 
 gsm	O
 /	O
@@ -12082,7 +12082,7 @@ ol	B-PPL
 12	O
 )	O
 
-"	O
+`	O
 pekan	O
 depan	O
 kita	O
@@ -12112,7 +12112,7 @@ di	O
 lapangan	O
 ini	O
 ,	O
-"	O
+`	O
 ungkap	O
 ridha	B-PPL
 .	O
@@ -12212,7 +12212,7 @@ dimiliki	O
 ikea	B-IND
 .	O
 
-"	O
+`	O
 kami	O
 memberi	O
 batas	O
@@ -12242,7 +12242,7 @@ dia	O
 tidak	O
 koob-pplatif	O
 ,	O
-"	O
+`	O
 kata	O
 ahmad	B-PPL
 ramadhan	I-PPL
@@ -12387,9 +12387,9 @@ partai	O
 berlambang	O
 ka'bah	O
 tersebut	O
-"	O
+`	O
 aman	O
-"	O
+`	O
 dari	O
 reshuffle	O
 .	O
@@ -12543,7 +12543,7 @@ jumat	O
 6/4/2012)	O
 .	O
 
-"	O
+`	O
 dengan	O
 segala	O
 hormat	O
@@ -12563,7 +12563,7 @@ orde	O
 baru	O
 saja	O
 ,	O
-"	O
+`	O
 kata	O
 megawati	B-PPL
 di	O
@@ -12659,7 +12659,7 @@ melakukan	O
 kriminalisasi	O
 .	O
 
-"	O
+`	O
 kami	O
 berasumsi	O
 ini	O
@@ -12667,7 +12667,7 @@ adalah	O
 murni	O
 kecelakaan	O
 .	O
-"	O
+`	O
 kata	O
 menteri	O
 pertahanan	O
@@ -12784,13 +12784,13 @@ ol	B-PPL
 12	O
 )	O
 
-"	O
+`	O
 korban	O
 meninggal	O
 1	O
 orang	O
 ,	O
-"	O
+`	O
 tulis	O
 tmc	O
 ,	O
@@ -12817,7 +12817,7 @@ dilansir	O
 dw.com	B-IND
 .	O
 
-"	O
+`	O
 sangat	O
 naif	O
 kalau	O
@@ -12838,11 +12838,11 @@ kalau	O
 tidak	O
 dievaluasi	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
-"	O
+`	O
 kalau	O
 enggak	O
 berubah	O
@@ -12850,7 +12850,7 @@ bukan	O
 ppp	O
 namanya	O
 ,	O
-"	O
+`	O
 kata	O
 ketua	O
 dpp	O
@@ -13127,7 +13127,7 @@ akademi	O
 militer	O
 .	O
 
-"	O
+`	O
 menurut	O
 saya	O
 itu	O
@@ -13159,7 +13159,7 @@ ini	O
 sangat	O
 kejam	O
 ,	O
-"	O
+`	O
 ujar	O
 dia	O
 .	O
@@ -13407,9 +13407,9 @@ lembut	O
 dia	O
 mengaku	O
 telah	O
-"	O
+`	O
 ditipu	O
-"	O
+`	O
 untuk	O
 tetap	O
 bertahan	O
@@ -13433,24 +13433,24 @@ bagian	O
 nya	O
 ,	O
 bukanlah	O
-"	O
+`	O
 badan	O
 pembuat	O
 keputusan	O
-"	O
+`	O
 ,	O
 dan	O
 bahwa	O
 parlemen	O
 hanyalah	O
 sebuah	O
-"	O
+`	O
 stempel	O
 karet	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 itu	O
 menjadi	O
 siprit	O
@@ -13493,12 +13493,12 @@ pilihan	O
 utama	O
 masyarakat	O
 ,	O
-"	O
+`	O
 ujarnya	O
 yakin	O
 .	O
 
-"	O
+`	O
 antara	O
 surya	B-PPL
 paloh	I-PPL
@@ -13518,7 +13518,7 @@ mereka	O
 tetap	O
 berteman	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -13569,7 +13569,7 @@ times	I-IND
 dia	O
 juga	O
 mencatat	O
-"	O
+`	O
 saya	O
 menaruh	O
 perhatian	O
@@ -13589,7 +13589,7 @@ di	O
 keluarga	O
 dekat	O
 .	O
-"	O
+`	O
 
 c	O
 .	O
@@ -13757,7 +13757,7 @@ ibukota	O
 pristina	B-PLC
 .	O
 
-"	O
+`	O
 tindakan	O
 menampar	O
 itu	O
@@ -13780,7 +13780,7 @@ negara	O
 untuk	O
 ditindak,	O
 ,	O
-"	O
+`	O
 kata	O
 oc	B-PPL
 kaligis	I-PPL
@@ -13987,7 +13987,7 @@ lokasi	O
 peluncurannya	O
 .	O
 
-"	O
+`	O
 manakala	O
 parpol	O
 yang	O
@@ -14004,7 +14004,7 @@ koalisi	O
 partai	O
 telah	O
 berakhir	O
-"	O
+`	O
 demikian	O
 petikan	O
 poin	O
@@ -14150,7 +14150,7 @@ pada	O
 1936	O
 .	O
 
-"'	O
+`'	O
 juventus	B-IND
 menggenapi	O
 prediksi	O
@@ -14187,7 +14187,7 @@ wib	O
 )	O
 .	O
 
-"	O
+`	O
 ini	O
 kan	O
 politik	O
@@ -14215,7 +14215,7 @@ soal	O
 seperti	O
 ini	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -14272,7 +14272,7 @@ tendangan	O
 sudut	O
 .	O
 
-"	O
+`	O
 saya	O
 melihat	O
 wilayah	O
@@ -14306,7 +14306,7 @@ etnis	O
 dan	O
 ekonomis	O
 .	O
-"	O
+`	O
 
 dream	O
 -	O
@@ -14597,7 +14597,7 @@ kemudian	O
 dibahas	O
 bersama	O
 ,	O
-"	O
+`	O
 kata	O
 ida	B-PPL
 fauziah	I-PPL
@@ -14850,7 +14850,7 @@ tarif	O
 bus	O
 .	O
 
-"	O
+`	O
 jika	O
 harga	O
 minyak	O
@@ -14873,7 +14873,7 @@ persen	O
 dari	O
 pdb	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -15147,7 +15147,7 @@ kunjungan	O
 mereka	O
 .	O
 
-"	O
+`	O
 kita	O
 akan	O
 bawa	O
@@ -15162,7 +15162,7 @@ usah	O
 di	O
 voting	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -15203,17 +15203,17 @@ transj	B-IND
 dihentikan	O
 pengoperasiannya	O
 .	O
-"	O
+`	O
 kami	O
 masih	O
 terus	O
 memantau	O
 perkembangannya,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
-"	O
+`	O
 sudah	O
 dua	O
 kali	O
@@ -15229,7 +15229,7 @@ yang	O
 bersangkutan	O
 tidak	O
 ada,	O
-"	O
+`	O
 ujar	O
 adi	B-PLC
 ketika	O
@@ -15646,7 +15646,7 @@ malang	O
 tersebut	O
 .	O
 
-"	O
+`	O
 jepang	B-PLC
 telah	O
 meminta	O
@@ -15656,7 +15656,7 @@ untuk	O
 tidak	O
 meluncurkan	O
 roket,	O
-"	O
+`	O
 katanya	O
 .	O
 pihaknya	O
@@ -15698,7 +15698,7 @@ balleny	I-PLC
 antartika	I-PLC
 .	O
 
-"	O
+`	O
 tiba-tiba	O
 ,	O
 sekelompok	O
@@ -15709,7 +15709,7 @@ langsung	O
 mengeroyok	O
 korban,	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -15754,7 +15754,7 @@ tahun	O
 terakhir	O
 .	O
 
-"	O
+`	O
 terjadi	O
 faktur-faktur	O
 fiktif	O
@@ -15774,7 +15774,7 @@ diterima	O
 kas	O
 negara	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -15929,12 +15929,12 @@ mengatakan	O
 kerusakan	O
 bisa	O
 berupa	O
-"	O
+`	O
 ringan	O
 sampai	O
 sedang	O
 .	O
-"	O
+`	O
 
 begitu	O
 kira-kira	O
@@ -15972,7 +15972,7 @@ di	O
 lehernya	O
 .	O
 
-"	O
+`	O
 gas	O
 hidrokarbon	O
 terbakar	O
@@ -15994,7 +15994,7 @@ yang	O
 tidak	O
 merusak	O
 .	O
-"	O
+`	O
 
 salah	O
 satu	O
@@ -16067,7 +16067,7 @@ anak	O
 prambors	B-IND
 .	O
 
-"	O
+`	O
 yang	O
 dikhawatirkan	O
 terkait	O
@@ -16085,7 +16085,7 @@ pembatasan	O
 anggaran	O
 berkampanye	O
 ,	O
-"	O
+`	O
 ungkap	O
 hidayat	B-PPL
 ,	O
@@ -16170,7 +16170,7 @@ yang	O
 memadai	O
 .	O
 
-"	O
+`	O
 saya	O
 dengan	O
 senang	O
@@ -16242,13 +16242,13 @@ yang	O
 dianggap	O
 kontroversial	O
 dan	O
-"	O
+`	O
 anti	O
 pemerintah	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 ya	O
 karena	O
 kebetulan	O
@@ -16270,7 +16270,7 @@ minta	O
 teman-teman	O
 wilayah	O
 ,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -16343,7 +16343,7 @@ di	O
 sejumlah	O
 kalangan	O
 ,	O
-"	O
+`	O
 kata	O
 presiden	O
 yudhoyono	B-PPL
@@ -16384,7 +16384,7 @@ dilaporkan	O
 uefa	O
 .	O
 
-"	O
+`	O
 kita	O
 tidak	O
 perlu	O
@@ -16451,7 +16451,7 @@ free	I-EVT
 night	I-EVT
 .	O
 
-"	O
+`	O
 toh	O
 sebagian besar	O
 riset	O
@@ -16466,7 +16466,7 @@ bagi	O
 menurunnya	O
 potensi	O
 residivisme,	O
-"	O
+`	O
 terang	O
 reza	B-PPL
 .	O
@@ -16489,7 +16489,7 @@ calon	O
 presiden	O
 .	O
 
-"	O
+`	O
 dengan	O
 demikian	O
 pemerintah	O
@@ -16502,7 +16502,7 @@ di	O
 neraca	O
 apbn	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -16580,7 +16580,7 @@ tahun	O
 1992	O
 .	O
 
-"	O
+`	O
 sebab	O
 yang	O
 diminta	O
@@ -16601,7 +16601,7 @@ oleh	O
 badan	O
 kehormatan	O
 ,	O
-"	O
+`	O
 kata	O
 wakil	O
 ketua	O
@@ -16618,7 +16618,7 @@ september	O
 2011	O
 .	O
 
-"	O
+`	O
 kami	O
 berdua	O
 tersanjung	O
@@ -16640,7 +16640,7 @@ mundur	O
 selangkah	O
 pun	O
 ,	O
-"	O
+`	O
 kata	O
 bibit	B-PPL
 seusai	O
@@ -16678,15 +16678,15 @@ harga	O
 besi	O
 terakhir	O
 sebelum	O
-"	O
+`	O
 menghilang	O
-"	O
+`	O
 sudah	O
 mencapai	O
 rp45,000	O
 .	O
 
-"	O
+`	O
 tidak	O
 ada	O
 alasan	O
@@ -16709,7 +16709,7 @@ di	O
 bawah	O
 standar	O
 ,	O
-"	O
+`	O
 kata	O
 irgan	B-PPL
 ,	O
@@ -16764,7 +16764,7 @@ super	O
 marvel	B-IND
 .	O
 
-"	O
+`	O
 saya	O
 meyakini	O
 denny	B-PPL
@@ -16780,7 +16780,7 @@ cara	O
 kasar	O
 dengan	O
 memukul,	O
-"	O
+`	O
 ujar	O
 didi	B-PPL
 .	O
@@ -16879,19 +16879,19 @@ sebuah	O
 replika	O
 baru	O
 dari	O
-"	O
+`	O
 dewi	O
 demokrasi	O
-"	O
+`	O
 dan	O
 pahatan	O
 yang	O
 disebut	O
-"	O
+`	O
 relief	O
 pembantaian	O
 tiananmen	B-PLC
-"	O
+`	O
 ,	O
 yang	O
 ditempatkan	O
@@ -16965,7 +16965,7 @@ andy	B-PPL
 warhol	I-PPL
 .	O
 
-"	O
+`	O
 presiden	O
 kayanya	O
 lagi	O
@@ -16983,7 +16983,7 @@ kita	O
 tahu	O
 ujungnya	O
 ,	O
-"	O
+`	O
 ujar	O
 boni	B-PPL
 dalam	O
@@ -17028,7 +17028,7 @@ mencapai	O
 persen	O
 .	O
 
-"	O
+`	O
 sama	O
 sekali	O
 tidak	O
@@ -17054,7 +17054,7 @@ ada	O
 niatan	O
 untuk	O
 memberontak,	O
-"	O
+`	O
 kata	O
 amir	O
 .	O
@@ -17103,7 +17103,7 @@ rp	O
 191,6	O
 miliar	O
 .	O
-"	O
+`	O
 kan	O
 sudah	O
 disampaikan	O
@@ -17112,11 +17112,11 @@ kemarin	O
 tidak	O
 ada	O
 itu,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
-"	O
+`	O
 dari	O
 hasil	O
 lembaga	O
@@ -17127,7 +17127,7 @@ kita	O
 ambil	O
 langkah-langkah	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -17217,7 +17217,7 @@ dengan	O
 komprehensif	O
 .	O
 
-"	O
+`	O
 kita	O
 melihat	O
 negara	O
@@ -17233,7 +17233,7 @@ semakin	O
 memojokkan	O
 kita	O
 ,	O
-"	O
+`	O
 ucap	O
 fadli	B-PPL
 .	O
@@ -17264,7 +17264,7 @@ nil	B-PPL
 maizar	I-PPL
 .	O
 
-"	O
+`	O
 saat	O
 ini	O
 masih	O
@@ -17272,7 +17272,7 @@ terus	O
 kita	O
 selidiki	O
 terus,	O
-"	O
+`	O
 kata	O
 kadiv	O
 humas	O
@@ -17370,7 +17370,7 @@ nasional	O
 amerika	B-PLC
 .	O
 
-"	O
+`	O
 kita	O
 imbau	O
 semua	O
@@ -17379,7 +17379,7 @@ berhati	O
 -	O
 hati	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -17568,7 +17568,7 @@ kabupaten	B-PLC
 nganjuk	I-PLC
 .	O
 
-"	O
+`	O
 tersangka	O
 tetap	O
 melakukan	O
@@ -17584,7 +17584,7 @@ kerugiannya	O
 mencapai	O
 miliaran	O
 rupiah,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -17739,7 +17739,7 @@ babak	O
 pertama	O
 .	O
 
-"	O
+`	O
 tidak	O
 lagi	O
 memantau	O
@@ -17760,7 +17760,7 @@ senapan	O
 angin	O
 beserta	O
 amunisinya	O
-"	O
+`	O
 kata	O
 kapolres	O
 palu	B-PLC
@@ -17792,9 +17792,9 @@ meresahkan	O
 masyarakat	O
 seperti	O
 melalui	O
-"	O
+`	O
 telemarketing	O
-"	O
+`	O
 dapat	O
 dikenakan	O
 sanksi	O
@@ -17945,7 +17945,7 @@ harus	O
 dituntaskan	O
 .	O
 
-"	O
+`	O
 pak	O
 jokowi	B-PPL
 dan	O
@@ -17954,12 +17954,12 @@ baru	O
 menyampaikan	O
 kriteria	O
 ,	O
-"	O
+`	O
 ujar	O
 yuddy	B-PPL
 .	O
 
-"	O
+`	O
 metode	O
 yang	O
 dipilih	O
@@ -17980,12 +17980,12 @@ dari	O
 sekadar	O
 overdosis	O
 ,	O
-"	O
+`	O
 kata	O
 bath	B-PPL
 .	O
 
-"	O
+`	O
 hari	O
 ini	O
 adalah	O
@@ -18011,7 +18011,7 @@ yang	O
 sangat	O
 mengerikan	O
 .	O
-"	O
+`	O
 
 saat	O
 ini	O
@@ -18194,7 +18194,7 @@ kali	O
 ini	O
 mengangkat	O
 tema	O
-"	O
+`	O
 antara	O
 aku	O
 ,	O
@@ -18202,10 +18202,10 @@ kita	O
 ,	O
 dan	O
 semesta	O
-"	O
+`	O
 .	O
 
-"	O
+`	O
 bukan	O
 karena	O
 saya	O
@@ -18229,9 +18229,9 @@ the	O
 post	O
 bekerja	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 bahwa	O
 tidak	O
 ada	O
@@ -18250,7 +18250,7 @@ hukum	O
 melainkan	O
 moral	O
 ,	O
-"	O
+`	O
 kata	O
 ganjar	B-PPL
 saat	O
@@ -18381,7 +18381,7 @@ di	O
 koalisi	O
 besar	O
 ?	O
-"	O
+`	O
 memang	O
 sebelumnya	O
 ada	O
@@ -18414,7 +18414,7 @@ karena	O
 adanya	O
 kepentingan	O
 ,	O
-"	O
+`	O
 kata	O
 ketua	O
 dpr	O
@@ -18461,7 +18461,7 @@ presiden	O
 sby	B-PPL
 .	O
 
-"	O
+`	O
 memang	O
 peristiwa	O
 pemukulan	O
@@ -18478,7 +18478,7 @@ itu	O
 kita	O
 bentuk	O
 tpf,	O
-"	O
+`	O
 terang	O
 politisi	O
 partai	O
@@ -18735,7 +18735,7 @@ banyak	O
 lagi	O
 .	O
 
-"	O
+`	O
 mudah-mudahan	O
 dengan	O
 pertemuan	O
@@ -18765,7 +18765,7 @@ kih	O
 dengan	O
 kmp	O
 ,	O
-"	O
+`	O
 kata	O
 basarah	B-PPL
 .	O
@@ -18843,7 +18843,7 @@ pasangan	O
 siri	O
 .	O
 
-"	O
+`	O
 tidak	O
 hanya	O
 dari	O
@@ -18864,7 +18864,7 @@ pun	O
 harus	O
 profesional	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -18909,7 +18909,7 @@ menjadi	O
 kabur	O
 .	O
 
-"	O
+`	O
 jokowi	B-PPL
 tidak	O
 mungkin	O
@@ -18918,7 +18918,7 @@ memenuhi	O
 undangan	O
 tersebut	O
 ,	O
-"	O
+`	O
 kata	O
 wakil	O
 sekretaris	O
@@ -19229,7 +19229,7 @@ ekspor	O
 kembali	O
 .	O
 
-"	O
+`	O
 dan	O
 karena	O
 usia	O
@@ -19261,7 +19261,7 @@ untuk	O
 menyambung	O
 hidup	O
 ,	O
-"	O
+`	O
 sambung	O
 dia	O
 .	O
@@ -19500,7 +19500,7 @@ si	O
 jago	O
 merah	O
 
-"	O
+`	O
 kami	O
 inginkan	O
 calon	O
@@ -19537,7 +19537,7 @@ membenahi	O
 partai	O
 saja	O
 ,	O
-"	O
+`	O
 ucap	O
 made	B-PPL
 .	O
@@ -19717,7 +19717,7 @@ tentara	O
 rusia	B-PLC
 .	O
 
-"	O
+`	O
 masing	O
 -	O
 masing	O
@@ -19729,7 +19729,7 @@ atas	O
 tahun	O
 penjara	O
 ,	O
-"	O
+`	O
 kata	O
 achmad	B-PPL
 .	O
@@ -19827,7 +19827,7 @@ sangat	O
 serius	O
 .	O
 
-"'	O
+`'	O
 kia	B-IND
 motors	I-IND
 america	I-IND
@@ -20061,7 +20061,7 @@ maret	O
 2016	O
 .	O
 
-"'	O
+`'	O
 atletico	B-IND
 madrid	I-IND
 membuktikan	O
@@ -20303,7 +20303,7 @@ senin	O
 )	O
 .	O
 
-"	O
+`	O
 saya	O
 kira	O
 tidak	O
@@ -20338,7 +20338,7 @@ bisa	O
 saja	O
 muncul	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -20355,7 +20355,7 @@ persatuan	O
 pembangunan	O
 .	O
 
-"	O
+`	O
 ya	O
 sama	O
 dong	O
@@ -20363,7 +20363,7 @@ dong	O
 masak	O
 dibedakan	O
 ,	O
-"	O
+`	O
 ujar	O
 joko	B-PPL
 widodo	I-PPL
@@ -20586,10 +20586,10 @@ khartoum	B-PLC
 ,	O
 mengatakan	O
 terdapat	O
-"	O
+`	O
 ancaman	O
 potensial	O
-"	O
+`	O
 pada	O
 penerbangan	O
 antara	O
@@ -20704,7 +20704,7 @@ angin	O
 kencang	O
 .	O
 
-"	O
+`	O
 10	O
 metal	O
 detector	O
@@ -20719,7 +20719,7 @@ gereja	O
 besar	O
 di	O
 semarang,	B-PLC
-"	O
+`	O
 kata	O
 napitupulu	B-PPL
 saat	O
@@ -20772,7 +20772,7 @@ tahun	O
 perjalanannya	O
 .	O
 
-"	O
+`	O
 code	O
 of	O
 conduct	O
@@ -20791,12 +20791,12 @@ presiden	O
 saja	O
 mengambil	O
 keputusan,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
 .	O
-"denny	B-PPL
+`denny	B-PPL
 kentara	O
 tidak	O
 disukai	O
@@ -20812,11 +20812,11 @@ agar	O
 dia	O
 bisa	O
 dijungkalkan,	O
-"	O
+`	O
 sambungnya	O
 .	O
 
-"	O
+`	O
 terus	O
 terang	O
 pimpinan	O
@@ -20864,7 +20864,7 @@ itu	O
 dalam	O
 demokrasi	O
 ,	O
-"	O
+`	O
 kata	O
 fachry	B-PPL
 hamzah	I-PPL
@@ -21263,7 +21263,7 @@ wong	O
 kito	O
 .	O
 
-"	O
+`	O
 kita	O
 lihat	O
 nanti	O
@@ -21293,7 +21293,7 @@ dalam	O
 video	O
 tersebut	O
 ,	O
-"	O
+`	O
 kajati	O
 kalteng	B-PLC
 .	O
@@ -21449,7 +21449,7 @@ menyebarluaskan	O
 )	O
 .	O
 
-"	O
+`	O
 untuk	O
 konversi	O
 dari	O
@@ -21478,7 +21478,7 @@ dengan	O
 memberikan	O
 data	O
 operasional	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -22187,7 +22187,7 @@ ini	O
 disegel	O
 .	O
 
-"	O
+`	O
 belum	O
 apa-apa	O
 pks	O
@@ -22196,7 +22196,7 @@ dikeroyok	O
 seperti	O
 ini	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -22368,7 +22368,7 @@ sebesar	O
 2gb	O
 .	O
 
-"	O
+`	O
 gugat	O
 bos	O
 .	O
@@ -22393,7 +22393,7 @@ dan	O
 bisa	O
 sampai	O
 ribuan	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -22510,7 +22510,7 @@ uud	O
 1945	O
 .	O
 
-"	O
+`	O
 kondisi	O
 myanmar	B-PLC
 cukup	O
@@ -22537,7 +22537,7 @@ juga	O
 beberapa	O
 bumn	O
 lainnya,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -22775,7 +22775,7 @@ sebagai	O
 saksi	O
 .	O
 
-"	O
+`	O
 jadi	O
 anggota	O
 kita	O
@@ -22787,7 +22787,7 @@ luka	O
 akibat	O
 tindakan	O
 anarki,	O
-"	O
+`	O
 lanjutnya	O
 .	O
 
@@ -22892,7 +22892,7 @@ ditangkap	O
 polisi	O
 .	O
 
-"	O
+`	O
 kita	O
 wajibkan	O
 mampu	O
@@ -22917,7 +22917,7 @@ persyaratan	O
 yang	O
 sama	O
 ,	O
-"	O
+`	O
 kata	O
 kepala	O
 pusat	O
@@ -23028,9 +23028,9 @@ artis	O
 yang	O
 kerap	O
 tampil	O
-"	O
+`	O
 berani	O
-"	O
+`	O
 .	O
 
 namun	O
@@ -23097,7 +23097,7 @@ di	O
 dalamnya	O
 .	O
 
-"	O
+`	O
 kita	O
 sepakat	O
 ,	O
@@ -23116,7 +23116,7 @@ tenang	O
 harus	O
 cool	O
 ,	O
-"	O
+`	O
 ungkap	O
 tifatul	B-PPL
 ,	O
@@ -23271,7 +23271,7 @@ augusto	B-PPL
 fernandez	I-PPL
 .	O
 
-"	O
+`	O
 nanti	O
 dengan	O
 semua	O
@@ -23288,7 +23288,7 @@ menteri	O
 saja	O
 belum	O
 ,	O
-"	O
+`	O
 ucap	O
 jokowi	B-PPL
 .	O
@@ -24108,7 +24108,7 @@ berpangkat	O
 serka	O
 .	O
 
-"	O
+`	O
 kader	O
 pkb	O
 yang	O
@@ -24122,7 +24122,7 @@ waktunya	O
 untuk	O
 kabinet	O
 ,	O
-"	O
+`	O
 kata	O
 cak	B-PPL
 imin	I-PPL
@@ -24193,7 +24193,7 @@ yang	O
 jarang	O
 terjadi	O
 ,	O
-"	O
+`	O
 kami	O
 mengutuk	O
 tindakan	O
@@ -24207,7 +24207,7 @@ dari	O
 konstitusi	O
 kami	O
 ,	O
-"	O
+`	O
 saat	O
 merespons	O
 pertanyaan	O
@@ -24423,7 +24423,7 @@ langkah	O
 serupa	O
 .	O
 
-"	O
+`	O
 kalau	O
 tes	O
 rambut	O
@@ -24446,7 +24446,7 @@ sudah	O
 nggak	O
 terdeteksi	O
 lagi,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -24524,12 +24524,12 @@ turut	O
 pula	O
 menghadirkan	O
 kegiatan	O
-"	O
+`	O
 art	O
 &	O
 sensory	B-PPL
 festivity	I-PPL
-"	O
+`	O
 hasil	O
 kerjasama	O
 antara	O
@@ -24542,7 +24542,7 @@ children	O
 center	O
 .	O
 
-"	O
+`	O
 golkar	O
 mengucapkan	O
 selamat	O
@@ -24564,7 +24564,7 @@ ada	O
 di	O
 jabar	B-PLC
 ,	O
-"	O
+`	O
 kata	O
 nurul	B-PPL
 .	O
@@ -24640,7 +24640,7 @@ tunggakan	O
 pajaknya	O
 .	O
 
-"	O
+`	O
 kalau	O
 peluru	O
 karet	O
@@ -24662,7 +24662,7 @@ meriam	O
 air-red	O
 )	O
 ,	O
-"	O
+`	O
 ujar	O
 sutarman	B-PPL
 .	O
@@ -24857,7 +24857,7 @@ kepemimpinan	O
 nasional	O
 .	O
 
-"	O
+`	O
 masalah	O
 keamanan	O
 tidak	O
@@ -24875,7 +24875,7 @@ semua	O
 berjalan	O
 baik	O
 ,	O
-"	O
+`	O
 ujar	O
 akbar	B-PPL
 di	O
@@ -24920,7 +24920,7 @@ di	O
 ibu	O
 kota	O
 
-"	O
+`	O
 yang	O
 pasti	O
 sejumlah	O
@@ -24948,12 +24948,12 @@ masih	O
 bakal	O
 calon	O
 ,	O
-"	O
+`	O
 tutur	O
 hidayat	B-PPL
 .	O
 
-"	O
+`	O
 jujur	O
 saya	O
 akui	O
@@ -24976,7 +24976,7 @@ sudah	O
 memaafkan	O
 masalah	O
 ini,	O
-"	O
+`	O
 kata	O
 d	B-PPL
 sihombing	I-PPL
@@ -25239,12 +25239,12 @@ fenomena	O
 alam	O
 gerhana	O
 bulan	O
-"	O
+`	O
 super	O
 blue	B-PPL
 blood	I-PPL
 moon	I-PPL
-"	O
+`	O
 .	O
 
 akhir	O
@@ -25337,7 +25337,7 @@ oracle	B-PLC
 arena	I-PLC
 .	O
 
-"	O
+`	O
 saya	O
 sudah	O
 sangat	O
@@ -25350,7 +25350,7 @@ yang	O
 di	O
 dalam	O
 ,	O
-"	O
+`	O
 jawab	O
 lutfi	B-PPL
 .	O
@@ -25429,7 +25429,7 @@ perumnas	I-PLC
 iii	I-PLC
 .	O
 
-"	O
+`	O
 pkb	O
 sangat	O
 setuju	O
@@ -25457,7 +25457,7 @@ jelas	O
 asal	O
 muasalnya	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -25940,7 +25940,7 @@ harimurti	I-PPL
 yudhoyono	I-PPL
 .	O
 
-"	O
+`	O
 ini	O
 pekerjaan	O
 provokatif	O
@@ -25954,7 +25954,7 @@ pa	O
 menjadi	O
 tong	O
 sampah,	O
-"	O
+`	O
 tegas	O
 mantan	O
 petinggi	O
@@ -25969,7 +25969,7 @@ mr/ol	O
 3	O
 )	O
 
-"	O
+`	O
 (mereka	O
 )	O
 memposting	O
@@ -25990,7 +25990,7 @@ tokoh	O
 terkemuka	O
 di	O
 tunisia	B-PLC
-"	O
+`	O
 imbuh	O
 nefti	B-PPL
 .	O
@@ -26391,7 +26391,7 @@ sejenis	O
 nya	O
 .	O
 
-"	O
+`	O
 pasar	O
 dan	O
 banyak	O
@@ -26414,7 +26414,7 @@ berangsur	O
 kembali	O
 normal	O
 ,	O
-"	O
+`	O
 kata	O
 juru	O
 bicara	O
@@ -26509,7 +26509,7 @@ pekan	O
 lalu	O
 .	O
 
-"	O
+`	O
 dibutuhkan	O
 kesabaran	O
 politik	O
@@ -26518,7 +26518,7 @@ sesuatunya	O
 menjadi	O
 masak	O
 ,	O
-"	O
+`	O
 ucapnya	O
 .	O
 
@@ -26714,7 +26714,7 @@ ke	O
 kanada	B-PLC
 .	O
 
-"	O
+`	O
 sunter	B-PLC
 -	O
 tanjung	B-PLC
@@ -26787,7 +26787,7 @@ baru	O
 nissan	B-IND
 .	O
 
-"	O
+`	O
 mudah-mudahan	O
 ini	O
 menjadi	O
@@ -26811,7 +26811,7 @@ kepentingan	O
 kita	O
 bersama	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -26957,7 +26957,7 @@ boleh	O
 terganggu	O
 .	O
 
-"	O
+`	O
 jika	O
 pemerintah	O
 memutuskan	O
@@ -26985,7 +26985,7 @@ malaysia	B-PLC
 dan	O
 singapura	B-PLC
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -27047,7 +27047,7 @@ menganggu	O
 pak	O
 jokowi	B-PPL
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -27066,7 +27066,7 @@ tahun	O
 2016	O
 .	O
 
-"	O
+`	O
 pegawai	O
 dari	O
 pemadam	O
@@ -27079,7 +27079,7 @@ berada	O
 di	O
 lokasi	O
 .	O
-"	O
+`	O
 
 itu	O
 pula	O
@@ -27093,7 +27093,7 @@ ikut	O
 bicara	O
 .	O
 
-"	O
+`	O
 saya	O
 senang	O
 sekali	O
@@ -27123,7 +27123,7 @@ dari	O
 asia	B-PLC
 tenggara	I-PLC
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -27286,7 +27286,7 @@ jumat	O
 )	O
 .	O
 
-"	O
+`	O
 kita	O
 (	O
 transj	B-IND
@@ -27307,7 +27307,7 @@ bus	O
 tidak	O
 bisa	O
 tembus,	O
-"	O
+`	O
 lanjut	O
 akbar	B-PPL
 .	O
@@ -27333,7 +27333,7 @@ mengajarkan	O
 psikologi	O
 .	O
 
-"	O
+`	O
 semua	O
 tidak	O
 ada	O
@@ -27363,7 +27363,7 @@ ekspresi	O
 bukan	O
 substansi	O
 ,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -27576,7 +27576,7 @@ freeport	B-IND
 berjalan	O
 .	O
 
-"	O
+`	O
 kenapa	O
 tidak	O
 lapor	O
@@ -27586,7 +27586,7 @@ fraksi	O
 atau	O
 partai	O
 ,	O
-"	O
+`	O
 katanya	O
 kepada	O
 tempo	B-IND
@@ -27617,7 +27617,7 @@ hakim	O
 statman	B-PPL
 berkata	O
 ,	O
-"	O
+`	O
 pengadilan	O
 crown	O
 menyatakan	O
@@ -27629,7 +27629,7 @@ yang	O
 mendukung	O
 ini	O
 .	O
-"	O
+`	O
 
 sebelum	O
 menjadi	O
@@ -27679,12 +27679,12 @@ negeri	O
 dalam	O
 konser	O
 bertajuk	O
-"	O
+`	O
 padi	B-EVT
 reborn-welcome	I-EVT
 home	I-EVT
 concert	I-EVT
-"	O
+`	O
 ,	O
 grup	O
 band	O
@@ -27735,13 +27735,13 @@ pembangunan	O
 wisma	O
 atlet	O
 .	O
-"	O
+`	O
 dia	O
 dimintai	O
 keterangan	O
 untuk	O
 itu,	O
-"	O
+`	O
 ujar	O
 kabag	O
 pemberitaan	O
@@ -27779,7 +27779,7 @@ damai	O
 dalam	O
 keberagaman	O
 
-"	O
+`	O
 ini	O
 berlaku	O
 untuk	O
@@ -27791,7 +27791,7 @@ salah satu	O
 partai	O
 saja	O
 ,	O
-"	O
+`	O
 ungkap	O
 ketum	O
 dpp	O
@@ -27873,7 +27873,7 @@ benzema	B-PPL
 ronaldo	B-PPL
 .	O
 
-"	O
+`	O
 saya	O
 sangat	O
 menikmati	O
@@ -27890,7 +27890,7 @@ musim	O
 berikut	O
 nya	O
 .	O
-"	O
+`	O
 
 tiga	O
 foto	O
@@ -28172,7 +28172,7 @@ apbn	O
 sejak	O
 2007	O
 .	O
-"	O
+`	O
 ini	O
 tidak	O
 terlepas	O
@@ -28180,7 +28180,7 @@ dari	O
 konfigurasi	O
 politik	O
 kepentingan,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -28290,7 +28290,7 @@ hingga	O
 sekarang	O
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 menyarankan	O
@@ -28302,7 +28302,7 @@ jujur	O
 tahukah	O
 anda	O
 .	O
-"	O
+`	O
 
 wisuda	B-EVT
 memang	O
@@ -28707,7 +28707,7 @@ juru	O
 bicara	O
 mengatakan	O
 :	O
-"	O
+`	O
 wanita	O
 yang	O
 meninggal	O
@@ -28726,7 +28726,7 @@ dalam	O
 kejadian	O
 itu	O
 .	O
-"	O
+`	O
 
 era	O
 yeltsin	B-PPL
@@ -28884,7 +28884,7 @@ titik	O
 putih	O
 .	O
 
-"	O
+`	O
 diimbau	O
 kepada	O
 masyarakat	O
@@ -28903,12 +28903,12 @@ untuk	O
 tetap	O
 tertib	O
 ,	O
-"	O
+`	O
 pungkas	O
 budiyanto	B-PPL
 .	O
 
-"	O
+`	O
 sangat	O
 menguntungkan	O
 .	O
@@ -28923,7 +28923,7 @@ lokasi	O
 lokasi	O
 seperti	O
 ini,	O
-"	O
+`	O
 kata	O
 didik	B-PPL
 menanggapi	O
@@ -29225,7 +29225,7 @@ dengan	O
 israel	B-PLC
 .	O
 
-"	O
+`	O
 dugderan	B-EVT
 adalah	O
 tradisi	O
@@ -29243,7 +29243,7 @@ awal	O
 bulan	B-EVT
 puasa	I-EVT
 ,	O
-"	O
+`	O
 kata	O
 wali	O
 kota	B-EVT
@@ -29404,7 +29404,7 @@ bubur	B-FNB
 ayam	I-FNB
 .	O
 
-"	O
+`	O
 jika	O
 kita	O
 tidak	O
@@ -29412,11 +29412,11 @@ melakukan	O
 tindakan	O
 lebih	O
 ,	O
-"	O
+`	O
 myers	B-PPL
 melanjutkan	O
 ,	O
-"	O
+`	O
 planet	O
 ini	O
 akan	O
@@ -29437,9 +29437,9 @@ setiap	O
 5	O
 tahun	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 internal	O
 dpd	O
 sulsel	B-PLC
@@ -29467,7 +29467,7 @@ harian	I-EVT
 soal	O
 itu	O
 ,	O
-"	O
+`	O
 kata	O
 sudding	B-PPL
 kepada	O
@@ -29479,7 +29479,7 @@ senin	O
 )	O
 .	O
 
-"	O
+`	O
 sampai	O
 penguasa	O
 tertinggi	O
@@ -29497,7 +29497,7 @@ mungkin	O
 memberikan	O
 hasil	O
 ,	O
-"	O
+`	O
 kata	O
 boris	B-PPL
 polozhy	I-PPL
@@ -29509,7 +29509,7 @@ moskow	B-PLC
 kemarin	O
 .	O
 
-"	O
+`	O
 bukan	O
 diperiksa	O
 hanya	O
@@ -29524,7 +29524,7 @@ jajarannya	O
 siap	O
 memberikan	O
 informasi,	O
-"	O
+`	O
 ujar	O
 alex	B-PPL
 yang	O
@@ -29652,7 +29652,7 @@ farrar	I-PPL
 seorang	O
 blogger	O
 mengatakan	O
-"	O
+`	O
 sangat	O
 kacau	O
 bagi	O
@@ -29666,7 +29666,7 @@ begitu	O
 banyak	O
 tekanan	O
 .	O
-"	O
+`	O
 
 itu	O
 adalah	O
@@ -30090,7 +30090,7 @@ diri	O
 sendiri	O
 .	O
 
-"	O
+`	O
 kita	O
 sedang	O
 berada	O
@@ -30104,7 +30104,7 @@ masal	O
 berbagai	O
 spesies	O
 .	O
-"	O
+`	O
 
 tribunnews	O
 .	O
@@ -30276,7 +30276,7 @@ hanya	O
 1	O
 .	O
 
-"	O
+`	O
 apakah	O
 anda	O
 akan	O
@@ -30303,7 +30303,7 @@ muka	O
 atau	O
 cari	O
 perhatian,	O
-"	O
+`	O
 terangnya	O
 .	O
 
@@ -30316,14 +30316,14 @@ kroasia	B-PLC
 dan	O
 slovenia	B-PLC
 membentuk	O
-"	O
+`	O
 kerajaan	O
 serbia	B-PLC
 ,	O
 kroasia	B-PLC
 dan	O
 slovenia	B-PLC
-"	O
+`	O
 ,	O
 yang	O
 kemudian	O
@@ -30394,12 +30394,12 @@ poin	O
 11	O
 .	O
 
-"	O
+`	O
 ini	O
 bubur	B-FNB
 ayam	I-FNB
 ,	O
-"	O
+`	O
 ujar	O
 polisi	O
 tersebut	O
@@ -30521,7 +30521,7 @@ sepanjang	O
 2016	O
 .	O
 
-"	O
+`	O
 tentu	O
 tidak	O
 sebatas	O
@@ -30551,7 +30551,7 @@ kepemimpinan	O
 yang	O
 sukses	O
 itu	O
-"	O
+`	O
 terangnya	O
 .	O
 
@@ -30675,7 +30675,7 @@ nba	I-EVT
 2001	I-EVT
 .	O
 
-"	O
+`	O
 semoga	O
 piala	O
 presiden	O
@@ -30700,7 +30700,7 @@ untuk	O
 asian	O
 games	O
 ,	O
-"	O
+`	O
 kata	O
 pria	O
 asal	O
@@ -30802,7 +30802,7 @@ sangat	O
 cepat	O
 .	O
 
-"	O
+`	O
 kita	O
 justru	O
 senang	O
@@ -30825,7 +30825,7 @@ di	O
 wisma	B-PLC
 negara	I-PLC
 ,	O
-"	O
+`	O
 jelas	O
 lukman	B-PPL
 .	O
@@ -31060,13 +31060,13 @@ kota	O
 sukabumi	B-PLC
 .	O
 
-"	O
+`	O
 itu	O
 urusan	O
 rumah	O
 tangganya	O
 pks,	O
-"	O
+`	O
 kata	O
 ketua	O
 dpp	O
@@ -31184,10 +31184,10 @@ amerika	B-PLC
 serikat	I-PLC
 mengatakan	O
 bahwa	O
-"	O
+`	O
 ekstrimis	O
 regional	O
-"	O
+`	O
 mungkin	O
 menargetkan	O
 penerbangan	O
@@ -31334,7 +31334,7 @@ komplek	B-PLC
 pemakaman	I-PLC
 tavanjuka	I-PLC
 
-"	O
+`	O
 saya	O
 tadi	O
 lagi	O
@@ -31360,7 +31360,7 @@ dan	O
 kasur	O
 )	O
 ,	O
-"	O
+`	O
 kata	O
 hari	B-PPL
 ,	O
@@ -31568,7 +31568,7 @@ dan	O
 biru	O
 .	O
 
-"	O
+`	O
 jadi	O
 mahkamah	O
 partai	O
@@ -31590,7 +31590,7 @@ ppp	O
 makin	O
 meruncing	O
 ,	O
-"	O
+`	O
 kata	O
 ubedillah	B-PPL
 kepada	O
@@ -31643,7 +31643,7 @@ nutrisi	O
 berkualitas	O
 .	O
 
-"	O
+`	O
 kami	O
 tidak	O
 bisa	O
@@ -31665,7 +31665,7 @@ berlangsung	O
 di	O
 irak	B-PLC
 ,	O
-"	O
+`	O
 kata	O
 bapak	O
 sean	B-PLC
@@ -31745,7 +31745,7 @@ buatan	O
 qualcomm	B-IND
 .	O
 
-"	O
+`	O
 kami	O
 tidak	O
 pernah	O
@@ -31772,7 +31772,7 @@ mengeluarkan	O
 surat izin	O
 sakit	O
 ,	O
-"	O
+`	O
 katanya	O
 di	O
 gedung	B-PLC
@@ -31865,7 +31865,7 @@ peralatan	O
 kesehatan	O
 .	O
 
-"	O
+`	O
 ya	O
 sebel	O
 sih	O
@@ -31891,7 +31891,7 @@ malaysia	B-PLC
 dan	O
 hong	B-PLC
 kong	I-PLC
-"	O
+`	O
 ungkapnya	O
 .	O
 
@@ -31913,7 +31913,7 @@ toowoomba	O
 army	O
 .	O
 
-"	O
+`	O
 kami	O
 tidak	O
 bisa	O
@@ -31935,7 +31935,7 @@ berlangsung	O
 di	O
 irak	B-PLC
 ,	O
-"	O
+`	O
 kata	O
 anggota	O
 kelompok	O
@@ -32098,13 +32098,13 @@ mil	O
 tetapi	O
 usgs	O
 mengatakan	O
-"	O
+`	O
 dalam	O
 keadaan	O
 yang	O
 buruk	O
 .	O
-"	O
+`	O
 
 tanggapanmu	O
 ?	O
@@ -32352,11 +32352,11 @@ apa	O
 yang	O
 disebut	O
 serangan	O
-"	O
+`	O
 hijau	B-EVT
 atas	I-EVT
 biru	I-EVT
-"	O
+`	O
 oleh	O
 timpalan	O
 afghanistan	B-PLC
@@ -32984,7 +32984,7 @@ di	O
 dalamnya	O
 .	O
 
-"	O
+`	O
 jadi	O
 kedua	O
 warga	O
@@ -32996,7 +32996,7 @@ dan	O
 tengkorak	O
 manusia	O
 ,	O
-"	O
+`	O
 ujar	O
 sopian	B-PPL
 di	O
@@ -33086,7 +33086,7 @@ dasar	O
 )	O
 .	O
 
-"	O
+`	O
 pak	O
 sby	B-PPL
 juga	O
@@ -33104,7 +33104,7 @@ jabatan	O
 politik	O
 tertentu	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -33216,7 +33216,7 @@ perimbangan	O
 politik	O
 .	O
 
-"	O
+`	O
 terjadi	O
 penurunan	O
 aktivitas	O
@@ -33231,7 +33231,7 @@ ini	O
 terjadi	O
 96	O
 kali,	O
-"	O
+`	O
 kata	O
 sekretaris	O
 bpbd	O
@@ -33270,7 +33270,7 @@ babak	O
 pertama	O
 .	O
 
-"	O
+`	O
 saya	O
 ada	O
 7	O
@@ -33293,7 +33293,7 @@ bisa	O
 saya	O
 jelaskan	O
 ,	O
-"	O
+`	O
 kata	O
 asyary	B-PPL
 ,	O
@@ -33851,7 +33851,7 @@ peziarah	O
 jumat	B-EVT
 agung	I-EVT
 .	O
-"	O
+`	O
 kami	O
 masih	O
 mengembangkan	O
@@ -33860,7 +33860,7 @@ untuk	O
 menentukan	O
 calon	O
 tersangka,	O
-"	O
+`	O
 ujarnya	O
 .	O
 (	O
@@ -33960,7 +33960,7 @@ kebersihan	O
 tubuh	O
 .	O
 
-"	O
+`	O
 marini	B-PPL
 memang	O
 mengalami	O
@@ -33980,7 +33980,7 @@ dari	O
 raut	O
 wajahnya	O
 ,	O
-"	O
+`	O
 ujar	O
 orang	O
 b-ppltama	O
@@ -34051,7 +34051,7 @@ retail	I-IND
 indonesia	I-IND
 .	O
 
-"	O
+`	O
 ketentuan	O
 pasal	O
 ini	O
@@ -34070,7 +34070,7 @@ yang	O
 lex	O
 generalis	O
 ,	O
-"	O
+`	O
 ucapnya	O
 .	O
 
@@ -34418,7 +34418,7 @@ paloh	I-PPL
 itu	O
 .	O
 
-"	O
+`	O
 ada	O
 2	O
 pintu	O
@@ -34438,7 +34438,7 @@ sekitar	O
 pintu	O
 air	O
 ,	O
-"	O
+`	O
 tambah	O
 apip	B-PPL
 .	O
@@ -34516,7 +34516,7 @@ kabar	O
 bohong	O
 .	O
 
-"	O
+`	O
 keputusan	O
 presiden	O
 jokowi	B-PPL
@@ -34545,7 +34545,7 @@ dengan	O
 segala	O
 risikonya	O
 ,	O
-"	O
+`	O
 kata	O
 hasanuddin	B-PPL
 dalam	O
@@ -34657,7 +34657,7 @@ di	O
 golden	B-EVT
 globes	I-EVT
 
-"	O
+`	O
 korban	O
 b-ppltama	O
 kali	O
@@ -34672,7 +34672,7 @@ sawah	O
 untuk	O
 mencangkul	O
 ,	O
-"	O
+`	O
 kata	O
 kepala	O
 desa	B-PLC
@@ -35020,7 +35020,7 @@ perlu	O
 digaji	O
 .	O
 
-"	O
+`	O
 semoga	O
 piala	B-EVT
 presiden	I-EVT
@@ -35045,7 +35045,7 @@ untuk	O
 asian	B-EVT
 games	I-EVT
 ,	O
-"	O
+`	O
 kata	O
 pria	O
 asal	O
@@ -35471,7 +35471,7 @@ ritel	O
 peranti	O
 elektronik	O
 .	O
-"	O
+`	O
 google	B-IND
 tidak	O
 memiliki	O
@@ -35489,7 +35489,7 @@ mengenai	O
 hal	O
 itu	O
 ,	O
-"	O
+`	O
 papar	O
 rubin	B-PPL
 saat	O
@@ -35520,7 +35520,7 @@ bonus	O
 ganda	O
 .	O
 
-"	O
+`	O
 soal	O
 pilpres	O
 besok	O
@@ -35552,7 +35552,7 @@ tetap	O
 dpt	O
 )	O
 ,	O
-"	O
+`	O
 kata	O
 gus	B-PPL
 dur	I-PPL
@@ -35581,7 +35581,7 @@ dari	O
 perancis	B-PLC
 .	O
 
-"	O
+`	O
 ya	O
 ,	O
 kita	O
@@ -35629,7 +35629,7 @@ mereka	O
 ke	O
 sana	O
 ,	O
-"	O
+`	O
 ujar	O
 johnethan	B-PPL
 ,	O
@@ -35817,7 +35817,7 @@ setahun	O
 belakangan	O
 .	O
 
-"	O
+`	O
 saya	O
 enggak	O
 takut	O
@@ -35829,7 +35829,7 @@ hak	O
 prerogatif	O
 presiden	O
 ,	O
-"	O
+`	O
 ujar	O
 tifatul	B-PPL
 ,	O
@@ -35842,13 +35842,13 @@ usai	O
 peluncuran	B-EVT
 buku	I-EVT
 biografi	I-EVT
-"	O
+`	O
 sepanjang	I-EVT
 jalan	I-EVT
 dakwah	I-EVT
 tifatul	I-EVT
 sembiring	I-EVT
-"	O
+`	O
 di	O
 jakarta	B-PLC
 .	O
@@ -35885,7 +35885,7 @@ rhoma	B-PPL
 irama	I-PPL
 .	O
 
-"	O
+`	O
 presiden	O
 harus	O
 kita	O
@@ -35909,7 +35909,7 @@ plus	O
 dan	O
 minusnya	O
 ,	O
-"	O
+`	O
 kata	O
 tifatul	B-PPL
 .	O
@@ -35923,7 +35923,7 @@ agar	O
 menteri	O
 puan	B-PPL
 lebih	O
-banyak"sekelompok	O
+banyak`sekelompok	O
 ilmuwan	O
 berhasil	O
 menciptakan	O
@@ -36138,7 +36138,7 @@ tidak	O
 tahu	O
 .	O
 
-"	O
+`	O
 sebuah	O
 sepeda	O
 motor	O
@@ -36155,7 +36155,7 @@ afganistan	B-PLC
 dengan	O
 kecepatan	O
 tinggi	O
-"	O
+`	O
 ,	O
 kata	O
 kolonel	O
@@ -36447,7 +36447,7 @@ bahwa	O
 tersangka	O
 pelaku	O
 kejahatan	O
-"	O
+`	O
 telah	O
 ditangkap	O
 dan	O
@@ -36455,9 +36455,9 @@ akan	O
 ditahan	O
 untuk	O
 ditanyai	O
-"	O
+`	O
 dan	O
-"	O
+`	O
 penyelidikan	O
 akan	O
 berlanjut	O
@@ -36467,7 +36467,7 @@ sifat	O
 perangkat	O
 nya	O
 .	O
-"	O
+`	O
 
 politisi	O
 partai	O
@@ -36566,7 +36566,7 @@ ke	O
 atas	O
 .	O
 
-"	O
+`	O
 saya	O
 rasa	O
 juga	O
@@ -36591,7 +36591,7 @@ berdaulat	O
 dalam	O
 bidang	O
 politik,	O
-"	O
+`	O
 papar	O
 anggota	O
 komisi	O
@@ -36623,7 +36623,7 @@ bagi	O
 partainya	O
 .	O
 
-"	O
+`	O
 kita	O
 ingin	O
 mendengarkan	O
@@ -36635,7 +36635,7 @@ grass	O
 root	O
 kami	O
 ,	O
-"	O
+`	O
 ujar	O
 presiden	O
 pks	O
@@ -36872,9 +36872,9 @@ di	O
 cina	B-PLC
 atau	O
 disingkat	O
-"	O
+`	O
 aliansi	O
-"	O
+`	O
 ,	O
 telah	O
 gagal	O
@@ -37062,7 +37062,7 @@ di	O
 daerah	O
 mengatakan	O
 bahwa	O
-"	O
+`	O
 banjir	O
 dan	O
 kekeringan	O
@@ -37074,7 +37074,7 @@ melawan	O
 kemiskinan	O
 selama	O
 .	O
-"	O
+`	O
 
 bahkan	O
 satelit	O
@@ -37246,7 +37246,7 @@ sekretaris	O
 jenderal	O
 .	O
 
-"	O
+`	O
 ini	O
 yang	O
 dibutuhkan	O
@@ -37255,7 +37255,7 @@ jawaban	O
 dari	O
 pemerintah	O
 ,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -37350,7 +37350,7 @@ kita	O
 bisa	O
 belajar	O
 ,	O
-"	O
+`	O
 ucap	O
 poppy	B-PPL
 dharsono	I-PPL
@@ -37417,7 +37417,7 @@ minggu	O
 8/4	O
 )	O
 .	O
-"	O
+`	O
 ya	O
 ,	O
 terpaksa	O
@@ -37435,7 +37435,7 @@ harus	O
 masuk	O
 kantor	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 (	O
@@ -37719,7 +37719,7 @@ cahaya	O
 lampu	O
 .	O
 
-"	O
+`	O
 sampai	O
 hari	O
 ini	O
@@ -37748,7 +37748,7 @@ dan	O
 itu	O
 bisa	O
 spekulatif	O
-"	O
+`	O
 ujar	O
 yusril	B-PPL
 .	O
@@ -37850,7 +37850,7 @@ mengakhiri	O
 masa	O
 jabatannya	O
 ,	O
-"	O
+`	O
 dengan	O
 catatan	O
 dan	O
@@ -37862,7 +37862,7 @@ khusnul	O
 khatimah	O
 )	O
 .	O
-"	O
+`	O
 
 tapi	O
 melalui	O
@@ -38173,7 +38173,7 @@ aturan	O
 lainnya	O
 .	O
 
-"	O
+`	O
 terlepas	O
 dari	O
 doktrin	O
@@ -38194,7 +38194,7 @@ dalam	O
 undang-undang	O
 tersebut	O
 .	O
-"	O
+`	O
 namun	O
 menurut	O
 maruarar	B-PPL
@@ -38329,7 +38329,7 @@ km	O
 jam	O
 .	O
 
-"	O
+`	O
 hasil	O
 pemeriksaan	O
 ,	O
@@ -38344,7 +38344,7 @@ napi	O
 kalau	O
 ada	O
 operasi,	O
-"	O
+`	O
 jelas	O
 benny	B-PPL
 .	O
@@ -38469,7 +38469,7 @@ padi	O
 terancam	O
 puso	O
 
-"'	O
+`'	O
 microsoft	B-IND
 research	I-IND
 ,	O
@@ -38968,10 +38968,10 @@ badan	O
 ekonomi	O
 kreatif	O
 ,	O
-"	O
+`	O
 hello	B-EVT
 dangdut	I-EVT
-"	O
+`	O
 akhirnya	O
 dilaksanakan	O
 di	O
@@ -39011,7 +39011,7 @@ enggan	O
 menjawabnya	O
 .	O
 
-"	O
+`	O
 saya	O
 ditendang	O
 ajudannya	O
@@ -39036,7 +39036,7 @@ di	O
 lengan	O
 saya	O
 ,	O
-"	O
+`	O
 kata	O
 korban	O
 sembari	O
@@ -39070,7 +39070,7 @@ wars	I-IND
 )	O
 .	O
 
-"	O
+`	O
 kalau	O
 diberi	O
 kemudahan	O
@@ -39088,7 +39088,7 @@ untuk	O
 membangun	O
 pabrik	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -39279,7 +39279,7 @@ internal	O
 ppp	O
 .	O
 
-"'	O
+`'	O
 bank	B-IND
 perkreditan	I-IND
 rakyat	I-IND
@@ -39313,7 +39313,7 @@ pada	O
 pertandingan	O
 ini	O
 :	O
-"	O
+`	O
 ini	O
 adalah	O
 hari	O
@@ -39336,7 +39336,7 @@ kelompok	O
 pemain	O
 ini	O
 .	O
-"	O
+`	O
 
 warung	O
 bakso	B-FNB
@@ -39382,7 +39382,7 @@ rp130	O
 juta	O
 .	O
 
-"	O
+`	O
 ini	O
 saatnya	O
 masyarakat	O
@@ -39398,7 +39398,7 @@ tanah	O
 air	O
 kami	O
 .	O
-"	O
+`	O
 
 setelah	O
 kematian	O
@@ -39415,7 +39415,7 @@ digantikan	O
 dengan	O
 pesan	O
 :	O
-"	O
+`	O
 kami	O
 baru	O
 saja	O
@@ -39427,7 +39427,7 @@ rock	O
 and	O
 roll	O
 .	O
-"	O
+`	O
 
 tribunnews	B-IND
 .	I-IND
@@ -39686,7 +39686,7 @@ dari	O
 merdeka.com	B-IND
 .	O
 
-"	O
+`	O
 sebanyak	O
 640	O
 orang	O
@@ -39708,7 +39708,7 @@ ini	O
 situasinya	O
 kondusif	O
 ,	O
-"	O
+`	O
 papar	O
 bachtiar	B-PPL
 .	O
@@ -39813,12 +39813,12 @@ penyelenggaraan	O
 ffi	B-EVT
 .	O
 
-"	O
+`	O
 korbannya	O
 telah	O
 bermunculan	O
 ,	O
-"	O
+`	O
 kata	O
 eva	B-PPL
 .	O
@@ -39834,7 +39834,7 @@ milik	O
 cavaliers	B-IND
 .	O
 
-"'	O
+`'	O
 hanung	B-PPL
 bramantyo	I-PPL
 bersama	O
@@ -39884,12 +39884,12 @@ sejumlah	O
 proyek	O
 .	O
 
-"	O
+`	O
 tunggu	O
 sebentar	O
 lagi	O
 ,	O
-"	O
+`	O
 kata	O
 hinca	B-PPL
 .	O
@@ -39904,7 +39904,7 @@ raksasa	O
 dunia	O
 .	O
 
-"	O
+`	O
 kejaksaan	O
 akan	O
 secepatnya	O
@@ -39921,7 +39921,7 @@ pengadilan	O
 negeri	O
 medan	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -40016,7 +40016,7 @@ dilansir	O
 kompas	B-IND
 .	O
 
-"	O
+`	O
 mohon	O
 ini	O
 dipahami	O
@@ -40027,7 +40027,7 @@ demi	O
 keselamatan	O
 jiwa	O
 manusia	O
-"	O
+`	O
 kata	O
 ramadhan	B-PPL
 .	O
@@ -40178,7 +40178,7 @@ di	O
 epl	B-EVT
 .	O
 
-"	O
+`	O
 kami	O
 telah	O
 melakukan	O
@@ -40187,12 +40187,12 @@ dengan	O
 sejumlah	O
 pihak	O
 .	O
-"	O
+`	O
 
 tersangka	O
 pria	O
 kemudian	O
-"	O
+`	O
 menggunakan	O
 sandera	O
 lagi	O
@@ -40205,7 +40205,7 @@ dalam	O
 kendaraan	O
 lain	O
 ,	O
-"	O
+`	O
 kata	O
 hansell	B-PPL
 .	O
@@ -40487,7 +40487,7 @@ tim	O
 tamu	O
 .	O
 
-"	O
+`	O
 dalam	O
 saat	O
 -	O
@@ -40509,7 +40509,7 @@ yang	O
 tengah	O
 putus	O
 asa,	O
-"	O
+`	O
 kata	O
 papademos	B-PPL
 .	O
@@ -40577,7 +40577,7 @@ tanpa	O
 kelayakan	O
 .	O
 
-"	O
+`	O
 saya	O
 sangat	O
 menghormati	O
@@ -40592,7 +40592,7 @@ daerah	O
 pemilihan	O
 kita	O
 ,	O
-"	O
+`	O
 kata	O
 lawan	O
 politik	O
@@ -40705,7 +40705,7 @@ dibekali	O
 surat	O
 tugas	O
 .	O
-"	O
+`	O
 kami	O
 berharap	O
 masyarakat	O
@@ -40716,7 +40716,7 @@ kelancaran	O
 tugas	O
 tim	O
 p2tl,	O
-"	O
+`	O
 tambahnya	O
 .	O
 (	O
@@ -40969,7 +40969,7 @@ k	B-PPL
 53	O
 .	O
 
-"	O
+`	O
 dasar	O
 gugatan	O
 yaitu	O
@@ -40990,7 +40990,7 @@ pemilu	B-EVT
 juli	O
 2014	O
 ,	O
-"	O
+`	O
 kata	O
 firman	B-PPL
 saat	O
@@ -41079,7 +41079,7 @@ versa	I-IND
 150	I-IND
 .	O
 
-"	O
+`	O
 saya	O
 memahami	O
 apa	O
@@ -41095,7 +41095,7 @@ yang	O
 mereka	O
 inginkan	O
 .	O
-"	O
+`	O
 
 wawancara	O
 dengan	O
@@ -41214,7 +41214,7 @@ pada	O
 juli	O
 .	O
 
-"	O
+`	O
 diharapkan	O
 tidak	O
 berapa	O
@@ -41223,7 +41223,7 @@ bisa	O
 kita	O
 ungkapkan	O
 ,	O
-"	O
+`	O
 ujar	O
 saud	B-PPL
 .	O
@@ -41293,18 +41293,18 @@ bahwa	O
 saluran	O
 pipa	O
 nya	O
-"	O
+`	O
 cacat	O
-"	O
+`	O
 dan	O
-"	O
+`	O
 bom	O
 waktu	O
 yang	O
 siap	O
 meledak	O
 .	O
-"	O
+`	O
 
 mayweather	B-PPL
 yang	O
@@ -41412,7 +41412,7 @@ e-commerce	O
 lokal	O
 .	O
 
-"	O
+`	O
 belum	O
 sampai	O
 sana	O
@@ -41424,7 +41424,7 @@ lagi	O
 setelah	O
 ini	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -41461,7 +41461,7 @@ pemilihan	O
 rektor	O
 .	O
 
-"	O
+`	O
 kami	O
 serahkan	O
 pada	O
@@ -41476,7 +41476,7 @@ menghalangi	O
 justru	O
 membantu	O
 ,	O
-"	O
+`	O
 tambahnya	O
 .	O
 
@@ -41723,7 +41723,7 @@ rusdi	B-PPL
 kirana	I-PPL
 .	O
 
-"	O
+`	O
 tidak	O
 pernah	O
 ada	O
@@ -41739,7 +41739,7 @@ lihat	O
 saja	O
 perkembangannya	O
 bagaimana	O
-"	O
+`	O
 tandasnya	O
 .	O
 
@@ -41804,7 +41804,7 @@ wilayah	O
 jabodetabeka	B-PLC
 .	O
 
-"	O
+`	O
 mereka	O
 harus	O
 punya	O
@@ -41825,7 +41825,7 @@ tetap	O
 akan	O
 tenggelam	O
 ,	O
-"	O
+`	O
 ujar	O
 lely	B-PPL
 
@@ -41954,13 +41954,13 @@ dalam	O
 acara	O
 peluncuran	O
 bukunya	O
-"	O
+`	O
 sepanjang	O
 jalan	B-PLC
 dakwah	I-PLC
 tifatul	I-PLC
 sembiring	I-PLC
-"	O
+`	O
 di	O
 gedung	B-PLC
 indosat	I-PLC
@@ -42207,7 +42207,7 @@ depan	O
 menjadi	O
 penting	O
 .	O
-"	O
+`	O
 ketidakjelasan	O
 hanya	O
 membuat	O
@@ -42216,7 +42216,7 @@ semakin	O
 tidak	O
 menentu	O
 ,	O
-"	O
+`	O
 kata	O
 nesirky	B-PPL
 .	O
@@ -42280,7 +42280,7 @@ pembabatan	O
 padi	O
 .	O
 
-"	O
+`	O
 ini	O
 harus	O
 jadi	O
@@ -42316,7 +42316,7 @@ dan	O
 menteri	O
 perumahan	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -42369,7 +42369,7 @@ disaster	I-IND
 artist	I-IND
 .	O
 
-"	O
+`	O
 kita	O
 sudah	O
 bekerja	O
@@ -42403,7 +42403,7 @@ kasian	O
 jadi	O
 korban	O
 ,	O
-"	O
+`	O
 kata	O
 rusdy	B-PPL
 .	O
@@ -42427,7 +42427,7 @@ tahun	O
 2015	O
 .	O
 
-"	O
+`	O
 memang	O
 rawan	O
 banjir	O
@@ -42447,7 +42447,7 @@ sampai	O
 meter	O
 kemaren	O
 ,	O
-"	O
+`	O
 ujar	O
 salah satu	O
 b-pplawat	O
@@ -42690,7 +42690,7 @@ menghentikan	O
 mereka	O
 .	O
 
-"	O
+`	O
 saya	O
 serukan	O
 kepada	O
@@ -42719,9 +42719,9 @@ kritik	O
 karena	O
 materi	O
 kampanyenya	O
-"	O
+`	O
 menjual	O
-"	O
+`	O
 masa	O
 kejayaan	O
 dan	O
@@ -42919,14 +42919,14 @@ hari	O
 ini	O
 .	O
 
-"	O
+`	O
 begitu	O
 masuk	O
 saya	O
 langsung	O
 ditampar	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -43415,11 +43415,11 @@ ui	I-PPL
 )	O
 dengan	O
 tema	O
-"	O
+`	O
 jazzing	O
 through	O
 decades	O
-"	O
+`	O
 .	O
 
 berdasarkan	O
@@ -43591,7 +43591,7 @@ tahun	O
 2012	O
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 ingin	O
@@ -43629,7 +43629,7 @@ my	I-IND
 hand	I-IND
 .	O
 
-"	O
+`	O
 ada	O
 80	O
 gram	O
@@ -43648,7 +43648,7 @@ irisan	O
 banana	B-FNB
 bread	I-FNB
 ,	O
-"	O
+`	O
 kata	O
 susie	B-PPL
 .	O
@@ -43929,12 +43929,12 @@ antariksa	O
 korea	O
 ,	O
 dan	O
-"	O
+`	O
 mungkin	O
 yang	O
 pertama	O
 dari	O
-jenisnya"	O
+jenisnya`	O
 ,	O
 kata	O
 juru	O
@@ -43963,15 +43963,15 @@ mengatakan	O
 kelompok	O
 tersebut	O
 berupaya	O
-"	O
+`	O
 mengkapitalisasi	O
 kecelakaan	O
 tragis	O
-"	O
+`	O
 dan	O
 salah	O
 memahami	O
-"	O
+`	O
 komitmen	O
 focxonn	B-IND
 terhadap	O
@@ -43981,7 +43981,7 @@ keselamatan	O
 pekerja	O
 kami	O
 .	O
-"	O
+`	O
 
 namun	O
 kelompok	O
@@ -44014,7 +44014,7 @@ libya	B-PLC
 barat	I-PLC
 .	O
 
-"	O
+`	O
 atau	O
 barangkali	O
 ada	O
@@ -44037,7 +44037,7 @@ lima	O
 tahun	O
 mendatang	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -44259,7 +44259,7 @@ ketika	O
 itu	O
 .	O
 
-"	O
+`	O
 kami	O
 ingin	O
 meluruskan	O
@@ -44284,7 +44284,7 @@ siapa pun	O
 orang	O
 itu	O
 ,	O
-"	O
+`	O
 ujar	O
 dia	O
 .	O
@@ -44308,7 +44308,7 @@ sebuah	O
 tragedi	O
 .	O
 
-"	O
+`	O
 suara	O
 pkb	O
 adalah	O
@@ -44346,7 +44346,7 @@ juga	O
 konstituennya	O
 dari mana	O
 ,	O
-"	O
+`	O
 ujar	O
 marwan	B-PPL
 di	O
@@ -44358,14 +44358,14 @@ selasa	O
 )	O
 .	O
 
-"	O
+`	O
 baik	O
 secara	O
 yudisial	O
 maupun	O
 nonyudisial	O
 ,	O
-"	O
+`	O
 ujar	O
 komisioner	O
 komnas	O
@@ -44465,7 +44465,7 @@ di	O
 atas	O
 .	O
 
-"	O
+`	O
 ketika	O
 mencalonkan	O
 diri	O
@@ -44478,7 +44478,7 @@ tugas	O
 sebagai	O
 menteri	O
 ,	O
-"	O
+`	O
 kata	O
 amir	B-PPL
 ketika	O
@@ -45047,7 +45047,7 @@ dengan	O
 lokasi	O
 industri	O
 
-"	O
+`	O
 dana	O
 bos	O
 yang	O
@@ -45070,7 +45070,7 @@ rp710.000	O
 b-ppl	O
 tahun	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -45133,7 +45133,7 @@ itu	O
 jatuh	O
 .	O
 
-"	O
+`	O
 siap	O
 tidak	O
 siap	O
@@ -45151,7 +45151,7 @@ dilihat	O
 harus	O
 bagaimana	O
 menghadapinya,	O
-"	O
+`	O
 ucap	O
 tifatul	B-PPL
 .	O
@@ -45239,7 +45239,7 @@ masalah	O
 kesejahteraan	O
 hakim	O
 .	O
-"	O
+`	O
 dpr	O
 akan	O
 membahas	O
@@ -45249,7 +45249,7 @@ peningkatan	O
 kesejahteraan	O
 hakim	O
 ,	O
-"	O
+`	O
 papar	O
 priyo	B-PPL
 .	O
@@ -45542,14 +45542,14 @@ tentang	O
 serikat	O
 buruh	O
 nya	O
-"	O
+`	O
 ini	O
 bukan	O
 lagi	O
 serikat	O
 saya	O
 .	O
-"	O
+`	O
 
 derek	B-PPL
 cuff	I-PPL
@@ -45560,7 +45560,7 @@ kepolisian	O
 kent	B-PLC
 berkata	O
 ,	O
-"	O
+`	O
 jangan	O
 lupakan	O
 bahwa	O
@@ -45590,7 +45590,7 @@ kepuasan	O
 diri	O
 sendiri	O
 .	O
-"	O
+`	O
 
 piala	B-EVT
 presiden	O
@@ -45614,7 +45614,7 @@ bali	B-PLC
 united	O
 .	O
 
-"	O
+`	O
 tiket	O
 ka	B-IND
 argomuria	I-IND
@@ -45632,7 +45632,7 @@ jakarta	B-PLC
 sudah	O
 habis	O
 terjual,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -45849,12 +45849,12 @@ turut	O
 pula	O
 menghadirkan	O
 kegiatan	O
-"	O
+`	O
 art	B-EVT
 &	I-EVT
 sensory	I-EVT
 festivity	I-EVT
-"	O
+`	O
 hasil	O
 kerjasama	O
 antara	O
@@ -46236,7 +46236,7 @@ penyederhanaan	O
 parpol	O
 .	O
 
-"	O
+`	O
 jangan	O
 jadi	O
 korban	O
@@ -46249,7 +46249,7 @@ saja	O
 jagokan	O
 dia	O
 ,	O
-"	O
+`	O
 kata	O
 ruhut	B-PPL
 .	O
@@ -46363,7 +46363,7 @@ bertajuk	O
 frakta	O
 .	O
 
-"	O
+`	O
 selain	O
 lucu	O
 ,	O
@@ -46388,7 +46388,7 @@ juga	O
 gila	O
 sih	O
 ,	O
-"	O
+`	O
 ungkap	O
 mira	B-PPL
 lesmana	I-PPL
@@ -46397,7 +46397,7 @@ riri	B-PPL
 riza	I-PPL
 .	O
 
-"	O
+`	O
 apalagi	O
 dia	O
 juga	O
@@ -46410,7 +46410,7 @@ pdi	O
 perjuangan	O
 )	O
 ,	O
-"	O
+`	O
 ungkap	O
 politisi	O
 anggota	O
@@ -46642,7 +46642,7 @@ salemba	B-PLC
 jakarta	B-PLC
 .	O
 
-"	O
+`	O
 jika	O
 apple	B-IND
 memutuskan	O
@@ -46664,7 +46664,7 @@ ke	O
 kostumer	O
 kami	O
 ,	O
-"	O
+`	O
 dell	B-PPL
 menulis	O
 di	O
@@ -46673,7 +46673,7 @@ ke	O
 kirkpatrick	B-PPL
 .	O
 
-"	O
+`	O
 akan	O
 ada	O
 aktivitas	O
@@ -46686,7 +46686,7 @@ beberapa	O
 saat	O
 mendatang	O
 .	O
-"	O
+`	O
 
 peluncuran	O
 roket	O
@@ -47101,7 +47101,7 @@ sulawesi	B-PLC
 selatan	I-PLC
 .	O
 
-"'	O
+`'	O
 kincir.com	B-IND
 ,	O
 situs	O
@@ -47344,7 +47344,7 @@ daya	O
 manusia	O
 .	O
 
-"	O
+`	O
 berdasarkan	O
 data	O
 yang	O
@@ -47377,7 +47377,7 @@ suara	O
 bunyi	O
 dentuman	O
 ,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -47729,7 +47729,7 @@ akibat	O
 lemparan	O
 baru	O
 .	O
-"	O
+`	O
 itu	O
 toko	O
 di	O
@@ -47739,7 +47739,7 @@ kali	I-PLC
 baru	I-PLC
 timur	I-PLC
 ,	O
-"	O
+`	O
 ujar	O
 dia	O
 .	O
@@ -47803,7 +47803,7 @@ awar-awar	I-PLC
 hariyono	B-PPL
 .	O
 
-"	O
+`	O
 ada	O
 delapan	O
 orang	O
@@ -47813,7 +47813,7 @@ tersebut	O
 dan	O
 semuanya	O
 tewas,	O
-"	O
+`	O
 tutur	O
 farahi	B-PPL
 yang	O
@@ -48418,7 +48418,7 @@ dan	O
 bertahan	O
 .	O
 
-"	O
+`	O
 agar	O
 tidak	O
 terjadi	O
@@ -48444,7 +48444,7 @@ kami	O
 tetap	O
 siaga	O
 penuh,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -48767,7 +48767,7 @@ pornografi	O
 anak	O
 .	O
 
-"	O
+`	O
 saya	O
 belum	O
 tahu	O
@@ -48786,7 +48786,7 @@ hak	O
 prerogatif	O
 presiden	O
 ,	O
-"	O
+`	O
 ujar	O
 priyo	B-PPL
 di	O
@@ -49091,7 +49091,7 @@ barat	I-PLC
 mengering	O
 .	O
 
-"	O
+`	O
 pertama	O
 itu	O
 ,	O
@@ -49114,7 +49114,7 @@ untuk	O
 menegakkan	O
 silaturahmi	O
 ,	O
-"	O
+`	O
 kata	O
 tantowi	B-PPL
 di	O
@@ -49238,7 +49238,7 @@ selain	O
 itu	O
 tidak boleh	O
 ,	O
-"	O
+`	O
 kata	O
 tritarayati	B-PPL
 .	O
@@ -49305,7 +49305,7 @@ dibanding	O
 chelsea	B-IND
 .	O
 
-"	O
+`	O
 sudah	O
 ada	O
 dari	O
@@ -49327,7 +49327,7 @@ pada	O
 hari-hari	O
 kerja	O
 ,	O
-"	O
+`	O
 tegas	O
 agung	B-PPL
 kepada	O
@@ -49348,7 +49348,7 @@ selasa	O
 )	O
 .	O
 
-"	O
+`	O
 hal	O
 yang	O
 telah	O
@@ -49366,7 +49366,7 @@ berlimpah	O
 hari	O
 ini	O
 .	O
-"	O
+`	O
 
 kalau	O
 ketahuan	O
@@ -49478,7 +49478,7 @@ eka	I-PPL
 putra	I-PPL
 .	O
 
-"	O
+`	O
 abu	O
 dari	O
 letusan	O
@@ -49517,12 +49517,12 @@ pembahasan	O
 soal	O
 koalisi	O
 .	O
-"	O
+`	O
 kami	O
 bahas	O
 pemenangan	O
 pilkada	B-EVT
-"	O
+`	O
 ucapnya	O
 singkat	O
 .	O
@@ -49540,7 +49540,7 @@ yang	O
 tutup	O
 .	O
 
-"	O
+`	O
 selamat	O
 malam	O
 ,	O
@@ -49550,7 +49550,7 @@ di	O
 mata	B-PLC
 gibran	O
 ,	O
-"	O
+`	O
 kata	O
 gibran	B-PPL
 saat	O
@@ -49758,7 +49758,7 @@ kalangan	O
 profesional	O
 .	O
 
-"	O
+`	O
 wajar	O
 lah	O
 dipo	B-PPL
@@ -49776,7 +49776,7 @@ dia	O
 bela	O
 presiden	O
 ,	O
-"	O
+`	O
 ujar	O
 mahfudz	B-PPL
 di	O
@@ -49791,7 +49791,7 @@ sabtu	O
 )	O
 .	O
 
-"	O
+`	O
 banyak	O
 yang	O
 minta	O
@@ -49812,7 +49812,7 @@ ke	O
 pak	O
 sby	B-PPL
 ,	O
-"	O
+`	O
 kata	O
 ruhut	B-PPL
 .	O
@@ -49899,7 +49899,7 @@ bukan	O
 orang	O
 b-ppl	O
 sesi,	O
-"	O
+`	O
 kata	O
 suntana	B-PPL
 .	O
@@ -50177,7 +50177,7 @@ hingga	O
 saat	O
 ini	O
 .	O
-"	O
+`	O
 saya	O
 telah	O
 minta	O
@@ -50187,19 +50187,19 @@ bererai	O
 tapi	O
 dia	O
 menolaknya,	O
-"	O
+`	O
 tegasnya	O
 .	O
 
 dalam	O
 konser	O
 bertajuk	O
-"	O
+`	O
 padi	O
 reborn-welcome	B-PPL
 home	I-PPL
 concert	I-PPL
-"	O
+`	O
 ,	O
 grup	O
 band	O
@@ -50221,7 +50221,7 @@ unair	O
 )	O
 .	O
 
-"	O
+`	O
 apabila	O
 dibandingkan	O
 dengan	O
@@ -50247,7 +50247,7 @@ setiap	O
 100	O
 penduduk	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -50265,7 +50265,7 @@ angkatan	O
 darat	O
 .	O
 
-"	O
+`	O
 sangat	O
 sulit	O
 dimengerti	O
@@ -50280,7 +50280,7 @@ di	O
 luar	O
 pemerintahan	O
 ,	O
-"	O
+`	O
 ujar	O
 siswono	B-PPL
 di	O
@@ -50372,7 +50372,7 @@ planet	O
 bumi	O
 tengah	O
 mengalami	O
-"	O
+`	O
 kepunahan	O
 masal	O
 dalam	O
@@ -50380,7 +50380,7 @@ dalam	O
 juta	O
 tahun	O
 .	O
-"	O
+`	O
 
 sebelumnya	O
 kapal	O
@@ -50432,9 +50432,9 @@ paham	O
 yang	O
 dimaksud	O
 dengan	O
-"	O
+`	O
 ngrecoki	O
-"	O
+`	O
 itu	O
 .	O
 
@@ -50447,7 +50447,7 @@ regional	O
 chelsea	B-IND
 .	O
 
-"	O
+`	O
 salah	O
 satu	O
 pelaku	O
@@ -50455,7 +50455,7 @@ sudah	O
 kita	O
 ketahui	O
 identitasnya,	O
-"	O
+`	O
 kata	O
 imam	B-PPL
 saat	O
@@ -50626,7 +50626,7 @@ yang	O
 mengungkapkan	O
 .	O
 
-"	O
+`	O
 jangan	O
 terulang	O
 seperti	O
@@ -50657,7 +50657,7 @@ trans	B-IND
 jakarta	I-IND
 dan	O
 bajaj	O
-"	O
+`	O
 ungkap	O
 djoko	B-PPL
 .	O
@@ -51006,10 +51006,10 @@ kpk	O
 ,	O
 keduanya	O
 bertekad	O
-"	O
+`	O
 balas	O
 budi	O
-"	O
+`	O
 dengan	O
 serius	O
 menuntaskan	O
@@ -51457,7 +51457,7 @@ kondisi	O
 kritis	O
 .	O
 
-"	O
+`	O
 sarannya	O
 ditampung	O
 .	O
@@ -51470,7 +51470,7 @@ pks	O
 -	O
 nya	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -51626,7 +51626,7 @@ jkt	O
 sel	O
 .	O
 
-"	O
+`	O
 bagi	O
 pkb	O
 ,	O
@@ -51646,7 +51646,7 @@ dan	O
 menimbulkan	O
 ketidakpastian	O
 politik,	O
-"	O
+`	O
 kata	O
 muhaimin	B-PPL
 kepada	O
@@ -52175,7 +52175,7 @@ minggu	O
 petang	O
 .	O
 
-"	O
+`	O
 sebagai	O
 menteri	O
 kabinet	O
@@ -52187,7 +52187,7 @@ untuk	O
 memutuskan	O
 posisi	O
 saya,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -52522,12 +52522,12 @@ digambarkan	O
 sebagai	O
 sensor	O
 yang	O
-"	O
+`	O
 termotivasi	O
 secara	O
 politik	O
 .	O
-"	O
+`	O
 
 yang	O
 dapat	O
@@ -52667,7 +52667,7 @@ pembuatan	O
 paspor	O
 .	O
 
-"'	O
+`'	O
 trio	B-IND
 promotor	I-IND
 ,	O
@@ -53029,7 +53029,7 @@ di	O
 beberapa	O
 daerah	O
 ,	O
-"	O
+`	O
 kata	O
 sri	B-PPL
 .	O
@@ -53382,7 +53382,7 @@ panen	O
 dihargai	O
 murah	O
 .	O
-"	O
+`	O
 dalam	O
 kondisi	O
 bagus	O
@@ -53397,7 +53397,7 @@ rp	O
 /	O
 kg	O
 ,	O
-"	O
+`	O
 kata	O
 jujun	O
 ,	O
@@ -53507,7 +53507,7 @@ tetapi	O
 mengakui	O
 bahwa	O
 dengan	O
-"	O
+`	O
 melihat	O
 tren	O
 jangka	O
@@ -53532,7 +53532,7 @@ disebabkan	O
 manusia	O
 )	O
 .	O
-"	O
+`	O
 
 percakapan	O
 dengan	O
@@ -53661,7 +53661,7 @@ kepala	O
 keluarga	O
 .	O
 
-"	O
+`	O
 melalui	O
 kegiatan	O
 mandirinya	O
@@ -53687,7 +53687,7 @@ kehidupan	O
 bangsa	O
 kita	O
 .	O
-"	O
+`	O
 
 namun	O
 kuasa	O
@@ -53901,7 +53901,7 @@ dengan	O
 israel	B-PLC
 .	O
 
-"	O
+`	O
 namun	O
 agar	O
 semua	O
@@ -53924,7 +53924,7 @@ mengetahui	O
 hal	O
 tersebut	O
 ,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
@@ -54041,7 +54041,7 @@ jadwal	O
 kami	O
 .	O
 
-"	O
+`	O
 berbeda dengan	O
 tahun	O
 lalu	O
@@ -54087,7 +54087,7 @@ belanja	O
 jelasnya	O
 .	O
 
-"	O
+`	O
 tentu	O
 ini	O
 akan	O
@@ -54105,7 +54105,7 @@ dipastikan	O
 akan	O
 terjadi	O
 ,	O
-"	O
+`	O
 ujar	O
 arie	B-PPL
 ,	O
@@ -54162,7 +54162,7 @@ asli	O
 pelanggan	O
 .	O
 
-"	O
+`	O
 seorang	O
 penyerang	O
 bunuh	O
@@ -54184,14 +54184,14 @@ setempat	O
 dan	O
 seorang	O
 pengawalnya,	O
-"	O
+`	O
 kata	O
 rasekh	B-PPL
 seperti	O
 dilansir	O
 kantor berita	O
 
-"	O
+`	O
 ini	O
 adalah	O
 keniscayaan	O
@@ -54202,7 +54202,7 @@ kualitas	O
 demokrasi	O
 kita	O
 ,	O
-"	O
+`	O
 ucap	O
 romy	B-PPL
 .	O
@@ -54367,7 +54367,7 @@ partai	O
 lain	O
 .	O
 
-"'	O
+`'	O
 agung	B-PPL
 lawerissa	I-PPL
 setiawan	I-PPL
@@ -54513,7 +54513,7 @@ ada	O
 ujian	O
 !	O
 
-"	O
+`	O
 pkb	O
 tetap	O
 merasa	O
@@ -54546,7 +54546,7 @@ dipimpin	O
 yenny	B-PPL
 wahid	I-PPL
 ,	O
-"	O
+`	O
 tambah	O
 marwan	B-PPL
 .	O
@@ -54795,7 +54795,7 @@ dan	O
 roshi	B-FNB
 .	O
 
-"	O
+`	O
 saya	O
 mundur	O
 dari	O
@@ -54810,7 +54810,7 @@ telah	O
 berpisah	O
 jalan	O
 ,	O
-"	O
+`	O
 kata	O
 walesa	B-PPL
 yang	O
@@ -54863,7 +54863,7 @@ produktif	O
 ”	O
 .	O
 
-"	O
+`	O
 kami	O
 mohon	O
 maaf	O
@@ -54873,7 +54873,7 @@ pengguna	O
 jalan	O
 akibat	O
 kemacetan,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -54981,9 +54981,9 @@ wagen	I-EVT
 ed.	I-EVT
 nov	I-EVT
 2017	I-EVT
-"	O
+`	O
 marka	B-EVT
-"	O
+`	O
 
 dari	O
 7	O
@@ -55271,7 +55271,7 @@ bahwa	O
 dia	O
 .	O
 .	O
-"	O
+`	O
 tidak	O
 pernah	O
 diperlakukan	O
@@ -55283,7 +55283,7 @@ sebelumnya	O
 .	O
 .	O
 .	O
-"	O
+`	O
 
 ternyata	O
 ini	O
@@ -55361,7 +55361,7 @@ julia	B-PPL
 gillard	I-PPL
 .	O
 
-"	O
+`	O
 jalan	O
 macet	O
 total	O
@@ -55373,7 +55373,7 @@ yang	O
 melalui	O
 tol	O
 ,	O
-"	O
+`	O
 kata	O
 mursid	B-PPL
 ,	O
@@ -55442,7 +55442,7 @@ memecahkan	O
 rekor	O
 .	O
 
-"	O
+`	O
 memang	O
 benar	O
 jk	B-PPL
@@ -55451,7 +55451,7 @@ diterima	O
 oleh	O
 presiden	O
 ,	O
-"	O
+`	O
 jelas	O
 juru	O
 bicara	O
@@ -55577,7 +55577,7 @@ jakarta	B-PLC
 selatan	I-PLC
 .	O
 
-"	O
+`	O
 saya	O
 juga	O
 ikut	O
@@ -55596,7 +55596,7 @@ ditempatkan	O
 di	O
 lapangan	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -55909,7 +55909,7 @@ atau	O
 cinemaxx	B-IND
 .	O
 
-"	O
+`	O
 pengemudi	O
 tidak	O
 mengindahkan	O
@@ -55925,9 +55925,9 @@ kanada	B-PLC
 bagian	O
 dalam	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 tersangka	O
 utamanya	O
 gito	B-PPL
@@ -55946,7 +55946,7 @@ dia	O
 sudah	O
 mengakuinya	O
 ,	O
-"	O
+`	O
 ujar	O
 kapolsek	O
 mapanget	B-PLC
@@ -56129,7 +56129,7 @@ restoran	O
 padang	B-PLC
 .	O
 
-"	O
+`	O
 ini	O
 kan	O
 sifatnya	O
@@ -56146,14 +56146,14 @@ demi	O
 kepentingan	O
 mencari	O
 jabatan,	O
-"	O
+`	O
 tegasnya	O
 rabu	O
 (	O
 4/4)	O
 .	O
 
-"	O
+`	O
 kami	O
 di	O
 sini	O
@@ -56178,7 +56178,7 @@ tidak	O
 ada	O
 kejelasan	O
 ,	O
-"	O
+`	O
 kata	O
 salah seorang	O
 aktivis	O
@@ -56188,7 +56188,7 @@ muhammad	B-PPL
 daud	I-PPL
 .	O
 
-"	O
+`	O
 jelas	O
 perlu	O
 dibuat	O
@@ -56203,7 +56203,7 @@ di	O
 malaysia	B-PLC
 saja	O
 susah,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
@@ -56285,7 +56285,7 @@ mariana	I-PLC
 utara	I-PLC
 .	O
 
-"	O
+`	O
 tapi	O
 karena	O
 kita	O
@@ -56299,7 +56299,7 @@ mereka	O
 mau	O
 masukkan	O
 
-"	O
+`	O
 pegawai	O
 dari	O
 pemadam	O
@@ -56312,9 +56312,9 @@ berada	O
 di	O
 lokasi	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 banyak	O
 hal	O
 lain	O
@@ -56326,7 +56326,7 @@ diselesaikan	O
 menjelang	O
 2014	O
 .	O
-"	O
+`	O
 
 bagaimana	O
 uwe	O
@@ -56488,7 +56488,7 @@ bukan	O
 disemprotkan	O
 .	O
 
-"	O
+`	O
 dia	O
 mencoba	O
 untuk	O
@@ -56506,15 +56506,15 @@ penembak	O
 jitu	O
 kami	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 demi	O
 allah	O
 tidak	O
 pernah	O
 ,	O
-"	O
+`	O
 sumpah	O
 susno	B-PPL
 .	O
@@ -56727,7 +56727,7 @@ diubah	O
 ada	O
 alasannya	O
 .	O
-"	O
+`	O
 ada	O
 perubahan	O
 lokasi	O
@@ -56746,7 +56746,7 @@ sebelumnya	O
 )	O
 sudah	O
 ditangani,	O
-"	O
+`	O
 terangnya	O
 .	O
 
@@ -56859,7 +56859,7 @@ akan	O
 berkelanjutan	O
 .	O
 
-"	O
+`	O
 selain	O
 kunjungan	O
 dari	O
@@ -56875,7 +56875,7 @@ benar	O
 -	O
 benar	O
 dikucilkan,	O
-"	O
+`	O
 kata	O
 keita	B-PPL
 .	O
@@ -57132,7 +57132,7 @@ pinggiran	O
 es krim	B-FNB
 .	O
 
-"	O
+`	O
 kedaulatan	O
 saat	O
 ini	O
@@ -57148,7 +57148,7 @@ harus	O
 dilakukan	O
 langsung	O
 .	O
-"	O
+`	O
 
 kpk	O
 menetapkan	O
@@ -57186,7 +57186,7 @@ rp	O
 miliar	O
 .	O
 
-"	O
+`	O
 saya	O
 mendorong	O
 siapapun	O
@@ -57209,9 +57209,9 @@ harap	O
 menghubungi	O
 kami	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 pengingkaran	O
 dan	O
 pengelakan	O
@@ -57226,7 +57226,7 @@ kami	O
 cibiran	O
 publik	O
 .	O
-"	O
+`	O
 
 ,	O
 ujar	O
@@ -57692,7 +57692,7 @@ amerika	B-PLC
 serikat	I-PLC
 .	O
 
-"	O
+`	O
 ini	O
 harus	O
 melalui	O
@@ -57712,7 +57712,7 @@ sosial	O
 ekonomi	O
 dan	O
 politik,	O
-"	O
+`	O
 papar	O
 paulus	B-PPL
 .	O
@@ -57950,14 +57950,14 @@ rusia	B-PLC
 yang	O
 akan	O
 memegang	O
-"	O
+`	O
 tidak	O
 kurang	O
 dari	O
 saham	O
 pengontrol	O
 ,	O
-"	O
+`	O
 menurut	O
 sergey	B-PPL
 kiriyenko	I-PPL
@@ -58100,7 +58100,7 @@ seluruh	O
 fraksi	O
 .	O
 
-"	O
+`	O
 korban	O
 dikeroyok	O
 oleh	O
@@ -58110,7 +58110,7 @@ dikenal	O
 hingga	O
 tewas	O
 ,	O
-"	O
+`	O
 kata	O
 kapolsek	O
 kebayoran	B-PLC
@@ -58233,7 +58233,7 @@ dengan	O
 berjihad	O
 .	O
 
-"	O
+`	O
 jadi	O
 heran	O
 juga	O
@@ -58327,13 +58327,13 @@ pada	O
 tahun	O
 ini	O
 adalah	O
-"	O
+`	O
 sehat	O
 keluargaku	O
 sehat	O
 indonesiaku	O
 .	O
-"	O
+`	O
 
 perwakilan	O
 dari	O
@@ -58351,14 +58351,14 @@ posisi	O
 mereka	O
 .	O
 
-"	O
+`	O
 api	O
 mulai	O
 berkobar	O
 di	O
 toilet	O
 ,	O
-"	O
+`	O
 kata	O
 seorang	O
 juru	O
@@ -58424,7 +58424,7 @@ transportasi	O
 djoko	B-PPL
 setijowarno	I-PPL
 .	O
-"	O
+`	O
 di	O
 samping	O
 revitalisasi	O
@@ -58445,7 +58445,7 @@ biaya	O
 subsidi	O
 bahan	O
 bakar	O
-"	O
+`	O
 ujarnya	O
 ,	O
 kamis	O
@@ -58642,7 +58642,7 @@ luar	O
 cirebon	B-PLC
 .	O
 
-"	O
+`	O
 percepatan	O
 itu	O
 semata-mata	O
@@ -58698,7 +58698,7 @@ yang	O
 legal	O
 formal	O
 ,	O
-"	O
+`	O
 kata	O
 hajriyanto	B-PPL
 .	O
@@ -58800,7 +58800,7 @@ mereka	O
 bertinju	O
 .	O
 
-"	O
+`	O
 ada	O
 10	O
 harry	B-PLC
@@ -58814,7 +58814,7 @@ silahkan	O
 tidak	O
 masalah	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -59085,7 +59085,7 @@ jcf	B-EVT
 2017	I-EVT
 .	O
 
-"	O
+`	O
 daya	O
 listrik	O
 yang	O
@@ -59113,7 +59113,7 @@ penuh	O
 tetapi	O
 bertahap	O
 ,	O
-"	O
+`	O
 ungkapnya	O
 .	O
 
@@ -59419,11 +59419,11 @@ sudah	O
 ada	O
 peraturannya	O
 ,	O
-"	O
+`	O
 ujarnya	O
 dalam	O
 diskusi	O
-"	O
+`	O
 sinkronisasi	B-EVT
 kebijakan	I-EVT
 bank	I-EVT
@@ -59433,10 +59433,10 @@ ojk	I-EVT
 mengenai	I-EVT
 perlindungan	I-EVT
 konsumen	I-EVT
-"	O
+`	O
 .	O
 
-"	O
+`	O
 kemarin	O
 kami	O
 sudah	O
@@ -59473,7 +59473,7 @@ adakan	O
 rapat	O
 lagi	O
 ,	O
-"	O
+`	O
 ujar	O
 ketua	O
 dpd	O
@@ -59690,9 +59690,9 @@ itu	O
 masing-masing	O
 ,	O
 aburizal	B-PPL
-"	O
+`	O
 ical	I-PPL
-"	O
+`	O
 bakrie	I-PPL
 ,	O
 hatta	B-PPL
@@ -59702,7 +59702,7 @@ dan	O
 wiranto	B-PPL
 .	O
 
-"	O
+`	O
 para	O
 petugas	O
 langsung	O
@@ -59722,7 +59722,7 @@ memberitahu	O
 semua	O
 napi	O
 ,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -59787,13 +59787,13 @@ selain itu	O
 ,	O
 diselenggarakan	O
 acara	O
-"	O
+`	O
 new	B-EVT
 asia	I-EVT
 africa	I-EVT
 youth	I-EVT
 conference	I-EVT
-"	O
+`	O
 yang	O
 dihadiri	O
 oleh	O
@@ -59854,7 +59854,7 @@ tahun	O
 ini	O
 .	O
 
-"	O
+`	O
 jadi	O
 amanat	O
 konstitusi	O
@@ -59870,12 +59870,12 @@ memilih	O
 kepala	O
 daerahnya	O
 ,	O
-"	O
+`	O
 ujar	O
 maruarar	B-PPL
 .	O
 
-"'	O
+`'	O
 kementerian	O
 hukum	O
 dan	O
@@ -59982,7 +59982,7 @@ terdekat	O
 pakistan	B-PLC
 .	O
 
-"	O
+`	O
 mereka	O
 memberikan	O
 kuasa	O
@@ -59994,7 +59994,7 @@ yang	O
 mereka	O
 alami	O
 .	O
-"	O
+`	O
 menurut	O
 firman	B-PPL
 ,	O
@@ -60167,7 +60167,7 @@ angeles	O
 galaxy	O
 .	O
 
-"	O
+`	O
 kami	O
 memilih	O
 mengikuti	O
@@ -60180,7 +60180,7 @@ kebijakan	O
 ketua	O
 harian	O
 ,	O
-"	O
+`	O
 lanjutnya	O
 .	O
 
@@ -60290,9 +60290,9 @@ melakukan	O
 penelitian	O
 atas	O
 karakter	O
-"	O
+`	O
 pedro	O
-"	O
+`	O
 untuk	O
 serial	O
 tv	O
@@ -60312,13 +60312,13 @@ mengatakan	O
 pengalaman	O
 nya	O
 :	O
-"	O
+`	O
 hari	O
 yang	O
 sangat	O
 panjang	O
 .	O
-"	O
+`	O
 
 menurut	O
 arya	B-PPL
@@ -60346,7 +60346,7 @@ mencontoh	O
 dpr	O
 .	O
 
-"	O
+`	O
 baru	O
 2013	O
 kita	O
@@ -60356,7 +60356,7 @@ soal	O
 kepemimpinan	O
 nasional	O
 ,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -60408,7 +60408,7 @@ berkumpul	O
 kembali	O
 .	O
 
-"	O
+`	O
 saya	O
 hanya	O
 menyiapkan	O
@@ -60436,7 +60436,7 @@ tidak	O
 gimana	O
 ?	O
 ,	O
-"	O
+`	O
 ujar	O
 sutiyoso	B-PPL
 .	O
@@ -60646,7 +60646,7 @@ theodorus	B-PPL
 kopong	I-PPL
 .	O
 
-"	O
+`	O
 saya	O
 khawatir	O
 tidak	O
@@ -60663,7 +60663,7 @@ tanggal	O
 14	O
 september	O
 .	O
-"	O
+`	O
 
 melalui	O
 kebijakan	O
@@ -60716,13 +60716,13 @@ barat	I-PLC
 menyelenggarakan	O
 acara	B-EVT
 bertajuk	O
-"	O
+`	O
 gebyar	B-EVT
 hari	I-EVT
 kesehatan	I-EVT
 nasional	I-EVT
 2017	I-EVT
-"	O
+`	O
 ,	O
 minggu	O
 (	O
@@ -61109,7 +61109,7 @@ ribu	O
 euro	O
 .	O
 
-"	O
+`	O
 allah	O
 swt	O
 sudah	O
@@ -61138,7 +61138,7 @@ saja	O
 buat	O
 apa	O
 ditakutkan,	O
-"	O
+`	O
 ujar	O
 tifatul	B-PPL
 .	O
@@ -61165,7 +61165,7 @@ ri	O
 lalu	O
 .	O
 
-"	O
+`	O
 beliau	O
 juga	O
 sudah	O
@@ -61183,7 +61183,7 @@ menggunakan	O
 fasilitas	O
 negara	O
 ,	O
-"	O
+`	O
 ujar	O
 martin	B-PPL
 .	O
@@ -61244,7 +61244,7 @@ bukan	O
 alasan	O
 .	O
 
-"	O
+`	O
 dampak	O
 yang	O
 ditimbulkan	O
@@ -61252,12 +61252,12 @@ merugikan	O
 anggota	O
 dewan	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
 
-"	O
+`	O
 saat	O
 itu	O
 ,	O
@@ -61275,7 +61275,7 @@ toko	O
 emas	O
 bernama	O
 alex	B-PPL
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -61814,7 +61814,7 @@ selesai	O
 dibahas	O
 .	O
 
-"	O
+`	O
 jawa	B-PLC
 tengah	I-PLC
 v	O
@@ -61835,7 +61835,7 @@ kursi	O
 buat	O
 ppp	O
 ,	O
-"	O
+`	O
 kata	O
 fernita	B-PPL
 seusai	O
@@ -62033,10 +62033,10 @@ tidak	O
 senonoh	O
 .	O
 
-"	O
+`	O
 semuanya	O
 oke,	O
-"	O
+`	O
 jawab	O
 lutfi	B-PPL
 singkat	O
@@ -62113,7 +62113,7 @@ kesukaan	O
 masing-masing	O
 .	O
 
-"	O
+`	O
 peluru	O
 kendali	O
 nampak	O
@@ -62123,7 +62123,7 @@ oleh	O
 pesawat	O
 tanpa	O
 awak	O
-"	O
+`	O
 ,	O
 kata	O
 pejabat	O
@@ -62146,7 +62146,7 @@ universitas	O
 indonesia	O
 .	O
 
-"	O
+`	O
 halim	B-PLC
 -	O
 cawang	B-PLC
@@ -62161,7 +62161,7 @@ kuningan	B-PLC
 .	O
 cuaca	O
 cerah,	O
-"	O
+`	O
 tutup	O
 dia	O
 .	O
@@ -62183,7 +62183,7 @@ dari	O
 kompas.com	B-IND
 .	O
 
-"	O
+`	O
 kita	O
 nggak	O
 tahu	O
@@ -62204,7 +62204,7 @@ beliau	O
 nggak	O
 kelihatan	O
 lagi,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -62327,7 +62327,7 @@ di	O
 rumah sakit	O
 .	O
 
-"	O
+`	O
 kalau	O
 tidak	O
 ada	O
@@ -62353,7 +62353,7 @@ kami	O
 serahkan	O
 kejati	O
 bengkulu	B-PLC
-"	O
+`	O
 tegasnya	O
 .	O
 
@@ -62545,7 +62545,7 @@ yang	O
 berbeda	O
 .	O
 
-"	O
+`	O
 saya	O
 belum	O
 tahu	O
@@ -62570,7 +62570,7 @@ dikirim	O
 melalui	O
 kurir	O
 ,	O
-"	O
+`	O
 kata	O
 agung	B-PPL
 yang	O
@@ -62767,7 +62767,7 @@ juta	O
 us$106	O
 )	O
 
-"	O
+`	O
 kalau	O
 mau	O
 naik	O
@@ -62778,7 +62778,7 @@ sampai	O
 ujung	O
 situ	O
 bang,	O
-"	O
+`	O
 ujar	O
 warga	O
 setempat	O
@@ -62866,7 +62866,7 @@ dengan	O
 iphone	B-IND
 .	O
 
-"	O
+`	O
 isu	O
 itu	O
 justru	O
@@ -62888,7 +62888,7 @@ pemenuhan	O
 hak	O
 serta	O
 kesejahteraan,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -63045,7 +63045,7 @@ kabupaten	O
 kota	O
 .	O
 
-"	O
+`	O
 alasan	O
 pemilik	O
 toko	O
@@ -63058,7 +63058,7 @@ ini	O
 yang	O
 sedang	O
 ditunggu,	O
-"	O
+`	O
 katanya	O
 .	O
 (	O
@@ -63111,7 +63111,7 @@ kedua	O
 2014	O
 .	O
 
-"	O
+`	O
 ya	O
 nanti	O
 kita	O
@@ -63135,7 +63135,7 @@ nanti	O
 akan	O
 ditanya	O
 ,	O
-"	O
+`	O
 kata	O
 romahurmuziy	B-PPL
 .	O
@@ -63162,7 +63162,7 @@ teleskop	O
 tres	O
 mengatakan	O
 ,	O
-"	O
+`	O
 kami	O
 terus	O
 menerus	O
@@ -63174,7 +63174,7 @@ planet	O
 raksasa	O
 ini	O
 .	O
-"	O
+`	O
 
 menteri	O
 perencanaan	O
@@ -63427,9 +63427,9 @@ inteligen	O
 di	O
 iraq	B-PLC
 telah	O
-"	O
+`	O
 diperbaiki	O
-"	O
+`	O
 agar	O
 membenarkan	O
 invasi	O
@@ -63769,7 +63769,7 @@ jeruji	O
 besi	O
 .	O
 
-"	O
+`	O
 para	O
 sipir	O
 sempat	O
@@ -63777,7 +63777,7 @@ berlari	O
 ketakutan	O
 masuk	O
 blok,	O
-"	O
+`	O
 kata	O
 tersangka	O
 jt	B-PPL
@@ -63792,7 +63792,7 @@ sabtu	O
 7/4/2012)	O
 .	O
 
-"	O
+`	O
 seluruh	O
 kegiatan	O
 itu	O
@@ -63821,7 +63821,7 @@ memilih	O
 kampus	O
 terbaik	O
 ,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
@@ -63878,7 +63878,7 @@ seribu	I-PLC
 )	O
 .	O
 
-"	O
+`	O
 makanya	O
 kami	O
 berkirim	O
@@ -63893,7 +63893,7 @@ menangani	O
 permasalah	O
 tomcat	O
 ini,	O
-"	O
+`	O
 kata	O
 firman	B-PPL
 .	O
@@ -63957,14 +63957,14 @@ maritim	O
 internasional	O
 .	O
 
-"	O
+`	O
 kita	O
 akan	O
 tetap	O
 bekerja	O
 seperti	O
 biasa,	O
-"	O
+`	O
 pungkasnya	O
 .	O
 
@@ -64039,11 +64039,11 @@ kemeja	O
 warna	O
 hitam	O
 bertuliskan	O
-"	O
+`	O
 faisal	B-PPL
 -	O
 biem	B-PPL
-"	O
+`	O
 lantas	O
 bergegas	O
 menuju	O
@@ -64147,7 +64147,7 @@ snow	I-IND
 man	I-IND
 .	O
 
-"	O
+`	O
 para	O
 pekerja	O
 selalu	O
@@ -64161,7 +64161,7 @@ mereka	O
 menggunakan	O
 masker	O
 .	O
-"	O
+`	O
 
 datang	O
 dan	O
@@ -64452,7 +64452,7 @@ soekarno	I-EVT
 putra	I-EVT
 .	O
 
-"	O
+`	O
 kalau	O
 dulu	O
 bumn	O
@@ -64476,7 +64476,7 @@ ke	O
 luar	O
 negeri	O
 ,	O
-"	O
+`	O
 kata	O
 mantan	O
 dirut	O
@@ -64614,7 +64614,7 @@ uud	O
 1945	O
 .	O
 
-"	O
+`	O
 kode	O
 warna	O
 penerbangan	O
@@ -64854,10 +64854,10 @@ juga	O
 diisi	O
 dengan	O
 acara	O
-"	O
+`	O
 asian-african	B-EVT
 carnaval	I-EVT
-"	O
+`	O
 ,	O
 di mana	O
 karnaval	O
@@ -64993,7 +64993,7 @@ el	I-PPL
 qudsi	I-PPL
 .	O
 
-"	O
+`	O
 eksekusi	O
 wali	O
 kota	B-PLC
@@ -65019,7 +65019,7 @@ kejagung	O
 harus	O
 menyampaikan	O
 segalanya,	O
-"	O
+`	O
 tegasnya	O
 .	O
 
@@ -65101,7 +65101,7 @@ loic	B-PPL
 remy	I-PPL
 .	O
 
-"	O
+`	O
 jumlah	O
 penerima	O
 dana	O
@@ -65119,7 +65119,7 @@ dan	O
 orang	O
 siswa	O
 smp/smplb.	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -65229,7 +65229,7 @@ langganan	O
 banjir	O
 .	O
 
-"	O
+`	O
 dua-duanya	O
 produk	O
 munas	B-EVT
@@ -65284,12 +65284,12 @@ jadi	O
 sudah	O
 jelas	O
 ,	O
-"	O
+`	O
 ujar	O
 ahmad	B-PPL
 .	O
 
-"	O
+`	O
 akan	O
 sangat	O
 disayangkan	O
@@ -65322,7 +65322,7 @@ di	O
 tahun	O
 2003	O
 .	O
-"	O
+`	O
 
 kelompok	O
 musik	O
@@ -65597,10 +65597,10 @@ yang	O
 bekerja	O
 di	O
 sebuah	O
-"	O
+`	O
 kantor	O
 perwakilan	O
-"	O
+`	O
 yang	O
 berlokasi	O
 di	O
@@ -65625,7 +65625,7 @@ awards	I-EVT
 2018	I-EVT
 .	O
 
-"	O
+`	O
 para	O
 menteri	O
 kerja	O
@@ -65652,7 +65652,7 @@ dikunkung	O
 ,	O
 tapi	O
 dibuka,	O
-"	O
+`	O
 kata	O
 refrizal	B-PPL
 .	O
@@ -65850,7 +65850,7 @@ nya	O
 johnson	B-PPL
 mengumumkan	O
 ,	O
-"	O
+`	O
 saya	O
 merasa	O
 terhormat	O
@@ -65863,7 +65863,7 @@ yang	O
 akan	O
 dikecewakan	O
 .	O
-"	O
+`	O
 
 disusul	O
 jepang	B-PLC
@@ -65872,7 +65872,7 @@ sebesar	O
 persen	O
 .	O
 
-"	O
+`	O
 pan	O
 se-sulawesi	B-PLC
 selatan	I-PLC
@@ -65883,7 +65883,7 @@ memenangkan	O
 pak	O
 zulkifli	B-PPL
 ,	O
-"	O
+`	O
 kata	O
 ashabul	B-PPL
 kahfi	I-PPL
@@ -66361,7 +66361,7 @@ pernah	O
 menonton	O
 .	O
 
-"	O
+`	O
 harus	O
 opoistis	O
 pelakunya	O
@@ -66388,7 +66388,7 @@ yang	O
 berniat	O
 menyusup	O
 ,	O
-"	O
+`	O
 ujar	O
 rikwanto	B-PPL
 di	O
@@ -66402,7 +66402,7 @@ rabu	O
 )	O
 .	O
 
-"	O
+`	O
 kita	O
 masih	O
 standby	O
@@ -66417,7 +66417,7 @@ anggota	O
 kita	O
 di	O
 sana,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -66522,7 +66522,7 @@ pada	O
 tv	O
 .	O
 
-"	O
+`	O
 kita	O
 punya	O
 menteri	O
@@ -66559,7 +66559,7 @@ biasa	O
 di	O
 pks	O
 ,	O
-"	O
+`	O
 lanjut	O
 dia	O
 .	O
@@ -66632,7 +66632,7 @@ mengenai	O
 pemerintahan daerah	O
 .	O
 
-"	O
+`	O
 pendampingan	O
 orang tua	O
 menjadi	O
@@ -66657,7 +66657,7 @@ menghadiri	O
 pameran-pameran	O
 pendidikan	O
 ,	O
-"	O
+`	O
 kata	O
 direktur	O
 utama	O
@@ -66716,10 +66716,10 @@ pulalah	O
 mayoritas	O
 kader	O
 berlambang	O
-"	O
+`	O
 segitiga	O
 mercy	O
-"	O
+`	O
 tersebut	O
 menginginkan	O
 agar	O
@@ -66773,14 +66773,14 @@ sutan	B-PPL
 menjawab	O
 diplomatis	O
 ,	O
-"	O
+`	O
 itu	O
 kan	O
 hak	O
 preogatif	O
 presiden	O
 .	O
-"	O
+`	O
 lagipula	O
 ,	O
 sutan	B-PPL
@@ -66910,7 +66910,7 @@ dengan	O
 mahal	O
 .	O
 
-"	O
+`	O
 setelah	O
 melakukan	O
 pemeriksaan	O
@@ -66936,7 +66936,7 @@ pejabat	O
 dispora	O
 riau	B-PLC
 ,	O
-"	O
+`	O
 tutur	O
 jubir	O
 kpk	O
@@ -67341,7 +67341,7 @@ yang	O
 datang	O
 .	O
 
-"'	O
+`'	O
 gareth	B-PPL
 h.	I-PPL
 evans	I-PPL
@@ -68058,7 +68058,7 @@ yakni	O
 mah	O
 .	O
 
-"	O
+`	O
 banjir	O
 itu	O
 multisektor	O
@@ -68082,7 +68082,7 @@ yang	O
 dibuang	O
 ke	O
 sungai,	O
-"	O
+`	O
 ucap	O
 hasan	B-PPL
 di	O
@@ -68243,14 +68243,14 @@ tangkap	O
 tangan	O
 ini	O
 .	O
-"	O
+`	O
 ada	O
 sekitar	O
 rp	O
 800	O
 juta	O
 ,	O
-"	O
+`	O
 bisik	O
 salah seorang	O
 penegak	O
@@ -68285,7 +68285,7 @@ mitologi	O
 tiongkok	B-PLC
 .	O
 
-"	O
+`	O
 ada	O
 3	O
 butir	O
@@ -68303,7 +68303,7 @@ kontrak	O
 itu	O
 dilanggar	O
 ,	O
-"	O
+`	O
 jelas	O
 ical	B-PPL
 di	O
@@ -68849,7 +68849,7 @@ mohon	O
 dimaafkan	O
 ya	O
 
-"	O
+`	O
 presiden	O
 sudah	O
 memberikan	O
@@ -68864,7 +68864,7 @@ tentu	O
 jangan	O
 dipergunakan	O
 ,	O
-"	O
+`	O
 ujar	O
 kalla	B-PPL
 di	O
@@ -69022,7 +69022,7 @@ mirip	O
 pastel	B-FNB
 .	O
 
-"	O
+`	O
 kesepakatan	O
 itu	O
 menjadi	O
@@ -69035,7 +69035,7 @@ politik	O
 akhir-akhir	O
 ini	O
 .	O
-"	O
+`	O
 kesepakatan	O
 itu	O
 berupa	O
@@ -69332,7 +69332,7 @@ rumah sakit	O
 terdekat	O
 .	O
 
-"	O
+`	O
 kami	O
 menargetkan	O
 transaksi	O
@@ -69351,7 +69351,7 @@ triliun	O
 menjadi	O
 rp10	O
 triliun,	O
-"	O
+`	O
 tutur	O
 sekretaris	O
 panitia	O
@@ -69448,13 +69448,13 @@ pro	O
 rakyat	O
 .	O
 
-"	O
+`	O
 jadi	O
 harus	O
 ditelaah	O
 dulu	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -69486,14 +69486,14 @@ dibukakan	O
 pintu	O
 .	O
 
-"	O
+`	O
 kita	O
 cari	O
 waktu	O
 yang	O
 enak	O
 ,	O
-"	O
+`	O
 tambah	O
 wiranto	B-PPL
 .	O
@@ -69623,7 +69623,7 @@ akan	O
 menjadi	O
 daya	O
 tarik	O
-"	O
+`	O
 ,	O
 terang	O
 astri	B-PPL
@@ -70082,7 +70082,7 @@ kepada	O
 washingtonpost.com	B-IND
 .	O
 
-"	O
+`	O
 karenanya	O
 penataan	O
 pedagang	O
@@ -70113,7 +70113,7 @@ tertib	O
 ,	O
 perlu	O
 ditata,	O
-"	O
+`	O
 ucapnya	O
 .	O
 
@@ -70185,7 +70185,7 @@ bacon	B-FNB
 salsa	I-FNB
 .	O
 
-"	O
+`	O
 pemerintah	O
 indonesia	B-PLC
 bersedia	O
@@ -70202,7 +70202,7 @@ laporan	O
 ab	B-PPL
 tersebut	O
 ,	O
-"	O
+`	O
 jelas	O
 pambagyo	B-PPL
 .	O
@@ -70301,7 +70301,7 @@ raihan	O
 bagus	O
 .	O
 
-"	O
+`	O
 setgab	O
 jangan	O
 membuat	O
@@ -70321,7 +70321,7 @@ hati	O
 rakyat	O
 indonesia	O
 ,	O
-"	O
+`	O
 tegas	O
 dia	O
 .	O
@@ -70489,7 +70489,7 @@ depan	O
 pintu	O
 utama	O
 .	O
-"	O
+`	O
 pak	O
 wamen	B-PPL
 sempat	O
@@ -70511,7 +70511,7 @@ mengatakan	O
 siap	O
 salah	O
 .	O
-"	O
+`	O
 
 acara	O
 resepsi	B-EVT
@@ -70678,7 +70678,7 @@ senin	O
 dinihari	O
 wamen	O
 
-"	O
+`	O
 begitu	O
 kampanye	O
 ,	O
@@ -70721,7 +70721,7 @@ atur-atur	O
 republik	O
 ini	O
 ?	O
-"	O
+`	O
 sambung	O
 dia	O
 .	O
@@ -71034,7 +71034,7 @@ mengatakan	O
 bahwa	O
 kedua	O
 negara	O
-"	O
+`	O
 berbagi	O
 tekad	O
 untuk	O
@@ -71053,7 +71053,7 @@ dalam	O
 lima	O
 tahun	O
 .	O
-"	O
+`	O
 
 sementara	O
 lampu	O
@@ -71142,7 +71142,7 @@ dikutip	O
 kompas.com	B-IND
 .	O
 
-"	O
+`	O
 pemerintah	O
 telah	O
 menghancurkan	O
@@ -71165,7 +71165,7 @@ bantuan	O
 apapun	O
 dari	O
 negara,	O
-"	O
+`	O
 tulis	O
 dimitris	B-PPL
 .	O
@@ -71289,7 +71289,7 @@ bunuh	O
 diri	O
 .	O
 
-"	O
+`	O
 mereka	O
 (	O
 desainer	O
@@ -71495,7 +71495,7 @@ rp34,5	O
 miliar	O
 .	O
 
-"	O
+`	O
 saya	O
 telah	O
 dituduh	O
@@ -71509,7 +71509,7 @@ penahanan	O
 pertama	O
 saya	O
 .	O
-"	O
+`	O
 
 jawapos	B-IND
 .	I-IND
@@ -71537,7 +71537,7 @@ tahun	O
 lalu	O
 .	O
 
-"	O
+`	O
 para	O
 menteri	O
 belum	O
@@ -71563,7 +71563,7 @@ sby	B-PPL
 belum	O
 jelaskan	O
 kok,	O
-"	O
+`	O
 ucap	O
 mahfudz	B-PPL
 saat	O
@@ -71624,14 +71624,14 @@ air+	I-IND
 min	O
 .	O
 
-"	O
+`	O
 saya	O
 serahkan	O
 sepenuhnya	O
 kepada	O
 dpp	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -71702,7 +71702,7 @@ seperti	O
 itu	O
 .	O
 
-"'	O
+`'	O
 guruh	B-PPL
 soekarno	I-PPL
 putra	I-PPL
@@ -71744,7 +71744,7 @@ jasa	O
 dan	O
 /	O
 
-"	O
+`	O
 terkait	O
 adanya	O
 gempa	O
@@ -71768,7 +71768,7 @@ dan	O
 analisa	O
 bmkb	O
 tretes,	O
-"	O
+`	O
 kata	O
 yahya	B-PPL
 maziun	I-PPL
@@ -72046,13 +72046,13 @@ peralatan	O
 militer	O
 ini	O
 dapat	O
-"	O
+`	O
 beroperasi	O
 tanpa	O
 suara	O
 .	O
 
-"	O
+`	O
 ini	O
 sengaja	O
 dilebihkan	O
@@ -72069,7 +72069,7 @@ yang	O
 tidak	O
 lolos	O
 verifikasi,	O
-"	O
+`	O
 kata	O
 christian	B-PPL
 .	O
@@ -72610,7 +72610,7 @@ international	O
 2017	O
 .	O
 
-"	O
+`	O
 pemilu	B-EVT
 2014	I-EVT
 adalah	O
@@ -72642,7 +72642,7 @@ dan	O
 lain	O
 sebagainya	O
 ,	O
-"	O
+`	O
 kata	O
 sekertaris	O
 tim	O
@@ -72877,7 +72877,7 @@ sangat	O
 impresif	O
 .	O
 
-"	O
+`	O
 ini	O
 merupakan	O
 konsekuensi	O
@@ -72889,7 +72889,7 @@ pengabaian	O
 tindakan	O
 keselamatan	O
 ,	O
-"	O
+`	O
 kata	O
 salah satu	O
 pengacara	O
@@ -73051,7 +73051,7 @@ telkomsel	B-IND
 )	O
 .	O
 
-"	O
+`	O
 tidak	O
 ada	O
 pengamanan	O
@@ -73072,12 +73072,12 @@ hanya	O
 penebalan	O
 saja	O
 ,	O
-"	O
+`	O
 kata	O
 rikwanto	B-PPL
 .	O
 
-"	O
+`	O
 km	B-IND
 bintang	I-IND
 jaya	I-IND
@@ -73092,7 +73092,7 @@ merapat	O
 di	O
 dermaga	O
 kanwil,	O
-"	O
+`	O
 kata	O
 di	O
 tanjung	B-PLC
@@ -73186,7 +73186,7 @@ hakim	O
 susno	B-PPL
 mengatakan	O
 ,	O
-"	O
+`	O
 karena	O
 kasus	O
 ini	O
@@ -73206,7 +73206,7 @@ itu	O
 permohonan	O
 saya	O
 .	O
-"	O
+`	O
 seperti	O
 diberitakan	O
 ,	O
@@ -73252,7 +73252,7 @@ perjanjian	O
 tersebut	O
 merupakan	O
 tanda	O
-"	O
+`	O
 sebuah	O
 halaman	O
 baru	O
@@ -73282,7 +73282,7 @@ juga	O
 di	O
 perjanjian	O
 .	O
-"	O
+`	O
 
 fernita	B-PPL
 percaya	O
@@ -73956,19 +73956,19 @@ sebuah	O
 replika	O
 baru	O
 dari	O
-"	O
+`	O
 dewi	O
 demokrasi	O
-"	O
+`	O
 dan	O
 pahatan	O
 yang	O
 disebut	O
-"	O
+`	O
 relief	O
 pembantaian	O
 tiananmen	B-PLC
-"	O
+`	O
 ,	O
 yang	O
 ditempatkan	O
@@ -73989,7 +73989,7 @@ insiden	B-EVT
 tiananmen	I-EVT
 .	O
 
-"	O
+`	O
 kami	O
 tidak	O
 ada	O
@@ -74004,7 +74004,7 @@ yang	O
 terkena	O
 banjir	O
 ,	O
-"	O
+`	O
 ujar	O
 rikwanto	B-PPL
 .	O
@@ -74230,7 +74230,7 @@ kali	O
 ini	O
 mengangkat	O
 tema	O
-"	O
+`	O
 antara	O
 aku	O
 ,	O
@@ -74238,10 +74238,10 @@ kita	O
 ,	O
 dan	O
 semesta	O
-"	O
+`	O
 .	O
 
-"	O
+`	O
 memiliki	O
 sepotong	O
 harta	O
@@ -74252,7 +74252,7 @@ menjadi	O
 impian	O
 saya	O
 ,	O
-"	O
+`	O
 kata	O
 pembeli	O
 tersebut	O
@@ -74262,7 +74262,7 @@ b-pplnyataan	O
 itu	O
 .	O
 
-"	O
+`	O
 kami	O
 tidak	O
 ingin	O
@@ -74272,7 +74272,7 @@ dengan	O
 lawan	O
 politik	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 saat	O
@@ -74569,7 +74569,7 @@ jumat	O
 )	O
 .	O
 
-"	O
+`	O
 kenyataan	O
 adalah	O
 kingsway	O
@@ -74581,7 +74581,7 @@ dimenangkan	O
 secara	O
 nyata	O
 ,	O
-"	O
+`	O
 kata	O
 menteri	O
 konservatif	O
@@ -74714,7 +74714,7 @@ sebagai	O
 pelanggaran	O
 .	O
 
-"	O
+`	O
 memang	O
 kita	O
 sudah	O
@@ -74730,7 +74730,7 @@ hanya	O
 ada	O
 adiknya	O
 ,	O
-"	O
+`	O
 ujar	O
 yoyol	B-PPL
 .	O
@@ -75140,7 +75140,7 @@ rabu	O
 )	O
 .	O
 
-"	O
+`	O
 kita	O
 perlu	O
 melihat	O
@@ -75174,7 +75174,7 @@ partispasi	O
 masyarakat	O
 luas	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -75395,7 +75395,7 @@ mall	I-PLC
 
 dia	O
 mencatat	O
-"	O
+`	O
 kampanye	O
 informasi	O
 untuk	O
@@ -75403,7 +75403,7 @@ umum	O
 tentang	O
 gantung	O
 diri	O
-"	O
+`	O
 dapat	O
 menjadi	O
 salah	O
@@ -75445,7 +75445,7 @@ tertinggi	O
 di	O
 .	O
 
-"	O
+`	O
 pengamanan	O
 lingkungan	O
 ditingkatkan	O
@@ -75458,7 +75458,7 @@ di	O
 polsek	O
 untuk	O
 patroli,	O
-"	O
+`	O
 kata	O
 rikwanto	B-PPL
 .	O
@@ -75945,7 +75945,7 @@ wakil	O
 ketua umum	O
 .	O
 
-"	O
+`	O
 insya	O
 allah	O
 tahun	O
@@ -75962,11 +75962,11 @@ iqbaal	B-PPL
 libur	O
 lagi	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
-"	O
+`	O
 bank	B-IND
 bri	I-IND
 memberikan	O
@@ -75982,7 +75982,7 @@ bri	B-IND
 transfer	I-IND
 lounge	I-IND
 ,	O
-"	O
+`	O
 ujar	O
 sekretaris	O
 b-pplusahaan	O
@@ -76405,7 +76405,7 @@ bwf	O
 )	O
 .	O
 
-"	O
+`	O
 pesawat	O
 terbang	O
 di	O
@@ -76426,7 +76426,7 @@ jatuh	O
 dapat	O
 dikesampingkan	O
 .	O
-"	O
+`	O
 
 pertama	O
 ,	O
@@ -76571,7 +76571,7 @@ teleskop	O
 tres	O
 mengatakan	O
 ,	O
-"	O
+`	O
 kami	O
 terus	O
 menerus	O
@@ -76583,7 +76583,7 @@ planet	O
 raksasa	O
 ini	O
 .	O
-"	O
+`	O
 
 pada	O
 januari	O
@@ -76624,7 +76624,7 @@ istana	B-PLC
 bogor	I-PLC
 .	O
 
-"	O
+`	O
 saya	O
 sangat	O
 kecewa	O
@@ -76639,7 +76639,7 @@ tidak	O
 lagi	O
 menghargai	O
 saya,	O
-"	O
+`	O
 kata	O
 rusdy	B-PPL
 kepada	O
@@ -76666,7 +76666,7 @@ atau	O
 hangat	O
 .	O
 
-"	O
+`	O
 justru	O
 kekisruhannya	O
 bukan	O
@@ -76708,7 +76708,7 @@ keluarga	O
 kih	O
 sendiri	O
 ,	O
-"	O
+`	O
 kata	O
 nurul	B-PPL
 dalam	O
@@ -76770,7 +76770,7 @@ buat	O
 nongkrong	O
 .	O
 
-"	O
+`	O
 demokrat	O
 memang	O
 bukan	O
@@ -76782,7 +76782,7 @@ tapi	O
 yang	O
 terakhir	O
 ,	O
-"	O
+`	O
 kata	O
 ruhut	B-PPL
 ketika	O
@@ -77085,7 +77085,7 @@ ke	O
 mesir	B-PLC
 .	O
 
-"	O
+`	O
 ini	O
 adalah	O
 perampokan	O
@@ -77102,7 +77102,7 @@ membantu	O
 perampok	O
 lolos	O
 .	O
-"	O
+`	O
 
 tapi	O
 sebagai	O
@@ -77138,7 +77138,7 @@ cukup	O
 signifikan	O
 .	O
 
-"	O
+`	O
 kami	O
 melarang	O
 sahur	O
@@ -77170,7 +77170,7 @@ lebih	O
 banyak	O
 mudharat-nya	O
 ,	O
-"	O
+`	O
 ujar	O
 djarot	B-PPL
 di	O
@@ -77297,7 +77297,7 @@ amp	I-IND
 johnson	I-IND
 .	O
 
-"	O
+`	O
 mudah-mudahan	O
 kita	O
 mendapatkan	O
@@ -77315,7 +77315,7 @@ menjadi	O
 bangsa	O
 jaya	O
 ,	O
-"	O
+`	O
 imbuh	O
 bibit	B-PPL
 yang	O
@@ -77539,7 +77539,7 @@ juta	O
 pengunjung	O
 .	O
 
-"	O
+`	O
 risiko	O
 terkena	O
 penyakit	O
@@ -77559,7 +77559,7 @@ dan	O
 air	O
 yang	O
 terbatas	O
-"	O
+`	O
 ,	O
 kata	O
 rustan	B-PPL
@@ -77993,7 +77993,7 @@ bumi	O
 '	O
 .	O
 
-"	O
+`	O
 keberadaan	O
 negara	O
 palestina	B-PLC
@@ -78011,7 +78011,7 @@ sudah	O
 lama	O
 ada	O
 ,	O
-"	O
+`	O
 demikian	O
 kutipan	O
 pesan	O
@@ -78054,7 +78054,7 @@ cepat	O
 tertidur	O
 .	O
 
-"	O
+`	O
 kita	O
 siapkan	O
 strategi	O
@@ -78064,7 +78064,7 @@ bukan	O
 ganti	O
 capresnya	O
 ,	O
-"	O
+`	O
 ucapnya	O
 .	O
 
@@ -78107,7 +78107,7 @@ komitmen	O
 anggaran	O
 .	O
 
-"	O
+`	O
 masih	O
 ada	O
 yang	O
@@ -78151,7 +78151,7 @@ mau	O
 jadi	O
 capres	O
 ,	O
-"	O
+`	O
 kata	O
 ruhut	B-PPL
 kepada	O
@@ -78492,11 +78492,11 @@ yang	O
 dianggap	O
 kontroversial	O
 dan	O
-"	O
+`	O
 anti	O
 pemerintah	O
 .	O
-"	O
+`	O
 
 kabar	O
 ini	O
@@ -78564,7 +78564,7 @@ november	O
 )	O
 .	O
 
-"	O
+`	O
 kami	O
 tidak	O
 akan	O
@@ -78779,7 +78779,7 @@ di	O
 indonesia	B-PLC
 .	O
 
-"	O
+`	O
 pak	O
 ical	B-PPL
 sepertinya	O
@@ -78790,7 +78790,7 @@ dikeluarkannya	O
 pks	O
 dari	O
 koalisi,	O
-"	O
+`	O
 ujar	O
 sumber	O
 detikcom	B-IND
@@ -78804,7 +78804,7 @@ kamis	O
 )	O
 .	O
 
-"	O
+`	O
 tingginya	O
 tingkat	O
 ketidakpastian	O
@@ -78828,12 +78828,12 @@ makro	O
 terhadap	O
 investor	O
 ,	O
-"	O
+`	O
 ujar	O
 dia	O
 .	O
 
-"	O
+`	O
 memang	O
 ada	O
 tiga	O
@@ -78856,7 +78856,7 @@ pks	O
 sudah	O
 berakhir	O
 ,	O
-"	O
+`	O
 ujarnya	O
 
 selain	O
@@ -79153,7 +79153,7 @@ pada	O
 1986	O
 .	O
 
-"	O
+`	O
 partai	O
 demokrat	O
 memilih	O
@@ -79177,16 +79177,16 @@ prabowo	B-PPL
 -	O
 hatta	B-PPL
 ,	O
-"	O
+`	O
 kata	O
 rachlan	B-PPL
 nasidik	I-PPL
 usai	O
 diskusi	O
-"	O
+`	O
 spirit	O
 demokrat	O
-"	O
+`	O
 di	O
 jakarta	B-PLC
 ,	O
@@ -79241,7 +79241,7 @@ jurubicara	O
 wanita	O
 kepolisian	O
 ,	O
-"	O
+`	O
 sejenis	O
 bahan	O
 peledak	O
@@ -79259,7 +79259,7 @@ dipindahkan	O
 dari	O
 pelaku	O
 .	O
-"	O
+`	O
 
 lima	O
 operator	O
@@ -79294,7 +79294,7 @@ telecom	I-IND
 (smartfren)	B-IND
 .	O
 
-"	O
+`	O
 beberapa	O
 hal	O
 yang	O
@@ -79315,7 +79315,7 @@ dan	O
 aspek	O
 kultural	O
 ,	O
-"	O
+`	O
 kata	O
 agus	B-PPL
 suhartono	I-PPL
@@ -79363,7 +79363,7 @@ malam	O
 )	O
 .	O
 
-"	O
+`	O
 hakikat	O
 orang	O
 dipidana	O
@@ -79384,7 +79384,7 @@ hukum	O
 kolonial	O
 belanda	B-PLC
 ?	O
-"	O
+`	O
 tanya	O
 balik	O
 ofesor	O
@@ -79530,14 +79530,14 @@ april	O
 lalu	O
 .	O
 
-"	O
+`	O
 kami	O
 meminta	O
 presiden	O
 mengingatkan	O
 beliau	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -79689,7 +79689,7 @@ itu	O
 sangat	O
 personal	O
 ,	O
-"	O
+`	O
 ujar	O
 dia	O
 .	O
@@ -79883,7 +79883,7 @@ dan	O
 digoreng	O
 .	O
 
-"	O
+`	O
 studi	O
 ini	O
 menambah	O
@@ -79916,7 +79916,7 @@ inggris	B-PLC
 dan	O
 wales	B-PLC
 ,	O
-"	O
+`	O
 kata	O
 profesor	O
 stephen	B-PPL
@@ -79946,7 +79946,7 @@ liga	B-EVT
 spanyol	I-EVT
 .	O
 
-"	O
+`	O
 operasional	O
 busway	O
 koridor	O
@@ -79960,7 +79960,7 @@ melalui	O
 tol	B-PLC
 kebon	I-PLC
 jeruk	I-PLC
-"	O
+`	O
 demikian	O
 informasi	O
 yang	O
@@ -79969,7 +79969,7 @@ blu	O
 transj	O
 .	O
 
-"	O
+`	O
 kalau	O
 itu	O
 kan	O
@@ -79990,7 +79990,7 @@ dipatuhi	O
 seluruh	O
 rakyat	O
 indonesia	B-PLC
-"	O
+`	O
 ujar	O
 prof	O
 tandyo	B-PPL
@@ -80116,7 +80116,7 @@ saus	B-FNB
 tomat	I-FNB
 .	O
 
-"	O
+`	O
 seorang	O
 penembak	O
 jitu	O
@@ -80130,7 +80130,7 @@ ada	O
 di	O
 tahanan	O
 ,	O
-"	O
+`	O
 kata	O
 sheriff	O
 wilayah	O
@@ -80352,16 +80352,16 @@ bekerja	O
 sama	O
 menangani	O
 kasus	O
-"	O
+`	O
 telemarketing	O
-"	O
+`	O
 tanpa	O
 persetujuan	O
 konsumen	O
 itu	O
 .	O
 
-"	O
+`	O
 dia	O
 diduga	O
 depresi	O
@@ -80390,7 +80390,7 @@ di	O
 pelabuhan	O
 )	O
 ,	O
-"	O
+`	O
 ujar	O
 yos	B-PPL
 .	O
@@ -80567,7 +80567,7 @@ sakarya	B-PLC
 turkey	B-PLC
 .	O
 
-"	O
+`	O
 kami	O
 menyatakan	O
 kepastian	O
@@ -80591,7 +80591,7 @@ utama	O
 dream	B-IND
 theater	I-IND
 .	O
-"	O
+`	O
 
 menurut	O
 jaksa	O
@@ -80807,7 +80807,7 @@ tahun	O
 cahaya	O
 .	O
 
-"	O
+`	O
 informasi	O
 tersebut	O
 belum	O
@@ -80816,7 +80816,7 @@ dan	O
 tidak	O
 benar	O
 ,	O
-"	O
+`	O
 kata	O
 johan	B-PPL
 .	O
@@ -81032,7 +81032,7 @@ saat	O
 mengemudi	O
 .	O
 
-"	O
+`	O
 edukasi	O
 (	O
 jasa	O
@@ -81042,7 +81042,7 @@ merupakan	O
 investasi	O
 .	O
 
-"	O
+`	O
 tapi	O
 partai	O
 meminta	O
@@ -81052,7 +81052,7 @@ bersabar	O
 ,	O
 menunggu	O
 sby	B-PPL
-"	O
+`	O
 terang	O
 sumber	O
 internal	O
@@ -81091,7 +81091,7 @@ rorotan	B-PLC
 km	I-PLC
 43	I-PLC
 .	O
-"	O
+`	O
 ada	O
 kecelakaan	O
 truk	O
@@ -81105,7 +81105,7 @@ kepadatan	O
 km	O
 menjelang	O
 tkp,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -81383,7 +81383,7 @@ jogjarockarta	I-PPL
 juga	O
 menjelaskan	O
 ,	O
-"	O
+`	O
 panggung	O
 sengaja	O
 akan	O
@@ -81429,7 +81429,7 @@ baru	O
 juga	O
 di	O
 novelnya	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -81635,7 +81635,7 @@ ke	O
 depan	O
 .	O
 
-"	O
+`	O
 alhamdulillah	O
 ,	O
 jawa	B-PLC
@@ -81657,7 +81657,7 @@ sukses	O
 dan	O
 meriah	O
 ,	O
-"	O
+`	O
 ujar	O
 gubernur	O
 aher	B-PPL
@@ -81777,7 +81777,7 @@ oleh	O
 pengacara	O
 nya	O
 ,	O
-"	O
+`	O
 saya	O
 merasa	O
 gembira	O
@@ -81796,7 +81796,7 @@ telah	O
 saya	O
 sangkal	O
 .	O
-"	O
+`	O
 
 hamas	O
 ,	O
@@ -81894,7 +81894,7 @@ rp	O
 23.119.278.000	O
 .	O
 
-"	O
+`	O
 wanita	O
 aborigin	O
 yang	O
@@ -81912,7 +81912,7 @@ dari	O
 wanita	O
 lain	O
 .	O
-"	O
+`	O
 
 dari	O
 empat	O
@@ -81938,7 +81938,7 @@ baru	O
 bergabung	O
 .	O
 
-"	O
+`	O
 segera	O
 setelah	O
 tiba	O
@@ -81966,7 +81966,7 @@ formasi	O
 baru	O
 kabinetnya	O
 ,	O
-"	O
+`	O
 kata	O
 staf	O
 khusus	O
@@ -82154,7 +82154,7 @@ creatively	O
 ”	O
 .	O
 
-"	O
+`	O
 ini	O
 saja	O
 masih	O
@@ -82192,7 +82192,7 @@ dan	O
 mie	B-FNB
 instan	I-FNB
 ,	O
-"	O
+`	O
 jelas	O
 syamsul	B-PPL
 .	O
@@ -82275,7 +82275,7 @@ kering	O
 dan	O
 mati	O
 .	O
-"	O
+`	O
 gabah	O
 yang	O
 sebelumnya	O
@@ -82286,7 +82286,7 @@ gabug	O
 atau	O
 kosong	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -82884,7 +82884,7 @@ calon	O
 presiden	O
 .	O
 
-"	O
+`	O
 jenazahnya	O
 ditemukan	O
 di	O
@@ -82903,7 +82903,7 @@ dari	O
 atas	O
 kapal	O
 ,	O
-"	O
+`	O
 kata	O
 kapolsek	O
 pelabuhan	B-PLC
@@ -83144,12 +83144,12 @@ adalah	O
 single	O
 pertama	O
 nya	O
-"	O
+`	O
 here	B-IND
 in	I-IND
 my	I-IND
 heart	I-IND
-"	O
+`	O
 yang	O
 menjadi	O
 single	O
@@ -83296,7 +83296,7 @@ dari	O
 sultan	O
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 akan	O
@@ -83321,12 +83321,12 @@ dan	O
 saya	O
 telah	O
 melakukannya,	O
-"	O
+`	O
 ucap	O
 galloway	B-PPL
 .	O
 
-"	O
+`	O
 buat	O
 apa	O
 terus	O
@@ -83343,7 +83343,7 @@ solid	O
 dan	O
 tidak	O
 percaya?	O
-"	O
+`	O
 gugat	O
 bima	B-PPL
 .	O
@@ -83384,7 +83384,7 @@ junimart	B-PPL
 girsang	I-PPL
 .	O
 
-"	O
+`	O
 kita	O
 hanya	O
 menemuka	O
@@ -83400,7 +83400,7 @@ melakukan	O
 penyelidikan	O
 terlebih	O
 dahulu,	O
-"	O
+`	O
 pungkasnya	O
 .	O
 
@@ -83423,7 +83423,7 @@ menampung	O
 penonton	O
 .	O
 
-"	O
+`	O
 aku	O
 mengalir	O
 saja	O
@@ -83445,11 +83445,11 @@ sudah	O
 minta	O
 jabatan	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
-"'	O
+`'	O
 mandala	B-IND
 airlines	I-IND
 menambah	O
@@ -83502,7 +83502,7 @@ karena	O
 tertabrak	O
 .	O
 
-"	O
+`	O
 jadi	O
 sebetulnya	O
 itu	O
@@ -83540,7 +83540,7 @@ orang	O
 berseberangan	O
 .	O
 
-"	O
+`	O
 ini	O
 adalah	O
 kebijakan	O
@@ -83555,7 +83555,7 @@ otoritas	O
 nasional	O
 yang	O
 relevan,	O
-"	O
+`	O
 kata	O
 pernyataan	O
 itu	O
@@ -83736,7 +83736,7 @@ musim	O
 ini	O
 .	O
 
-"	O
+`	O
 bahkan	O
 terjadi	O
 jika	O
@@ -83756,7 +83756,7 @@ siswa	O
 dinyatakan	O
 gugur	O
 ,	O
-"	O
+`	O
 kata	O
 asih	B-PPL
 .	O
@@ -83814,7 +83814,7 @@ media	O
 elektronik	O
 .	O
 
-"	O
+`	O
 rencananya	O
 atau	O
 dijadwalkan	O
@@ -83843,7 +83843,7 @@ di	O
 gedung	B-PLC
 sabuga	I-PLC
 ,	O
-"	O
+`	O
 
 selain	O
 dipandang	O
@@ -83949,13 +83949,13 @@ selebat	O
 itu	O
 .	O
 
-"	O
+`	O
 itu	O
 pesawat	O
 operasional	O
 bnn	O
 ,	O
-"	O
+`	O
 jelas	O
 politisi	O
 senior	O
@@ -83974,7 +83974,7 @@ pemerintahan	O
 jokowi	B-PPL
 .	O
 
-"	O
+`	O
 inilah	O
 masalahnya	O
 .	O
@@ -83992,7 +83992,7 @@ dengan	O
 300	O
 euro	O
 ?	O
-"	O
+`	O
 cetus	O
 seorang	O
 demonstran	O
@@ -84223,7 +84223,7 @@ bahwa	O
 keputusan	O
 tersebut	O
 adalah	O
-"	O
+`	O
 sebuah	O
 kemunduran	O
 atas	O
@@ -84239,7 +84239,7 @@ anda	O
 tonton	O
 di	O
 youtube	B-IND
-"	O
+`	O
 kata	O
 kurt	B-PPL
 opshal	I-PPL
@@ -84251,7 +84251,7 @@ di	O
 eff	O
 .	O
 
-"	O
+`	O
 sby	B-PPL
 itu	O
 dipilih	O
@@ -84285,7 +84285,7 @@ dampak	O
 kenaikan	O
 harga-harga	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -84369,7 +84369,7 @@ di	O
 eropa	B-PLC
 .	O
 
-"	O
+`	O
 apabila	O
 belum	O
 ada	O
@@ -84392,7 +84392,7 @@ melalui	O
 sidang	O
 paripurna	O
 ,	O
-"	O
+`	O
 agun	B-PPL
 menjelaskan	O
 .	O
@@ -84499,7 +84499,7 @@ turnamen	O
 tersebut	O
 .	O
 
-"	O
+`	O
 ditanya	O
 pak	O
 ketua	O
@@ -84518,7 +84518,7 @@ dekat	O
 dengan	O
 islam	O
 ,	O
-"	O
+`	O
 ujar	O
 fernita	B-PPL
 .	O
@@ -84707,7 +84707,7 @@ g.	I-PPL
 verghese	I-PPL
 mengatakan	O
 ,	O
-"	O
+`	O
 ini	O
 bisa	O
 dijalankan	O
@@ -84740,9 +84740,9 @@ pendidikan	O
 atau	O
 kesehatan	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 kecenderungan	O
 saya	O
 pada	O
@@ -84755,7 +84755,7 @@ sesuatu	O
 seperti	O
 itu	O
 ,	O
-"	O
+`	O
 kata	O
 conters	B-PPL
 ,	O
@@ -85122,7 +85122,7 @@ di	O
 serbia	B-PLC
 .	O
 
-"	O
+`	O
 demokrat	O
 calonnya	O
 2014	O
@@ -85156,7 +85156,7 @@ legislatif	O
 2014	O
 selesai	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -85183,7 +85183,7 @@ dieng	O
 pandawa	O
 .	O
 
-"	O
+`	O
 setelah	O
 kami	O
 selidiki	O
@@ -85205,7 +85205,7 @@ sejak	O
 tahun	O
 lalu	O
 ,	O
-"	O
+`	O
 kata	O
 ahmad	B-PPL
 ramadhan	I-PPL
@@ -85280,7 +85280,7 @@ di	O
 tiongkok	B-PLC
 .	O
 
-"	O
+`	O
 sebaiknya	O
 yang	O
 ganti	O
@@ -85294,7 +85294,7 @@ yang	O
 profesional	O
 saja	O
 ,	O
-"	O
+`	O
 jelas	O
 ical	B-PPL
 ,	O
@@ -85385,7 +85385,7 @@ januari	O
 2018	O
 .	O
 
-"	O
+`	O
 saya	O
 serahkan	O
 masalah	O
@@ -85404,7 +85404,7 @@ menjalankan	O
 tanggung	O
 jawabnya	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -85454,7 +85454,7 @@ ini	O
 ujarnya	O
 .	O
 
-"	O
+`	O
 bantuan	O
 besok	O
 baru	O
@@ -85471,7 +85471,7 @@ obat	O
 obatan	O
 dari	O
 puskesmas,	O
-"	O
+`	O
 terang	O
 ketua	O
 rt	O
@@ -85585,7 +85585,7 @@ ini	O
 butuh	O
 waktu	O
 .	O
-"	O
+`	O
 beri	O
 saya	O
 dulu	O
@@ -85594,7 +85594,7 @@ untuk	O
 menjernihkan	O
 masalah	O
 ini,	O
-"	O
+`	O
 tegasnya	O
 .	O
 
@@ -85797,7 +85797,7 @@ mbp	B-IND
 )	O
 retina	B-IND
 13	O
-"	O
+`	O
 sekaligus	O
 memutakhirkan	O
 prosesor	O
@@ -85851,7 +85851,7 @@ rp16	O
 juta	O
 .	O
 
-"	O
+`	O
 soal	O
 capres	O
 saya	O
@@ -85860,7 +85860,7 @@ mau	O
 komentar	O
 dulu	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -86193,17 +86193,17 @@ hardiknas	O
 2017	O
 mengusung	O
 tema	O
-"	O
+`	O
 percepat	O
 pendidikan	O
 yang	O
 merata	O
 dan	O
 berkualitas	O
-"	O
+`	O
 .	O
 
-"	O
+`	O
 seluruh	O
 operasi	O
 produksi	O
@@ -86219,7 +86219,7 @@ operasi	O
 secara	O
 normal	O
 .	O
-"	O
+`	O
 
 anugerah	B-EVT
 musik	I-EVT
@@ -86369,7 +86369,7 @@ minggu	O
 8/4	O
 )	O
 .	O
-"	O
+`	O
 ya	O
 ,	O
 terpaksa	O
@@ -86387,7 +86387,7 @@ harus	O
 masuk	O
 kantor	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 (	O
@@ -86444,7 +86444,7 @@ december	O
 ,	O
 2013	O
 
-"	O
+`	O
 tapi	O
 dari	O
 kacamata	O
@@ -86479,7 +86479,7 @@ luar	O
 biasa	O
 dampaknya	O
 ,	O
-"	O
+`	O
 kata	O
 didik	B-PPL
 .	O
@@ -86509,7 +86509,7 @@ kuliner	O
 kekinian	O
 .	O
 
-"	O
+`	O
 belum	O
 ada	O
 dapur	O
@@ -86528,7 +86528,7 @@ biasanya	O
 dikirimi	O
 nasi	B-FNB
 bungkus	I-FNB
-"	O
+`	O
 kata	O
 ketua	O
 rt	O
@@ -86685,7 +86685,7 @@ miliar	O
 biden	B-PPL
 mengatakan	O
 ,	O
-"	O
+`	O
 saya	O
 percaya	O
 bahwa	O
@@ -86715,7 +86715,7 @@ untuk	O
 melakukan	O
 nya	O
 .	O
-"	O
+`	O
 
 pembelian	O
 tiket	O
@@ -86726,7 +86726,7 @@ bulan	O
 desember	O
 .	O
 
-"	O
+`	O
 kalau	O
 melihat	O
 dari	O
@@ -86755,7 +86755,7 @@ mendasar	O
 nasionalis	O
 kebangsaan	O
 ,	O
-"	O
+`	O
 ujar	O
 agung	B-PPL
 ,	O
@@ -87172,7 +87172,7 @@ menambah	O
 prestasi	O
 .	O
 
-"	O
+`	O
 jika	O
 ada	O
 partai politik	O
@@ -87200,7 +87200,7 @@ di	O
 dalam	O
 koalisi	O
 ,	O
-"	O
+`	O
 katanya	O
 dalam	O
 pidato	O
@@ -87266,7 +87266,7 @@ dan	O
 asam	O
 .	O
 
-"	O
+`	O
 seorang	O
 lelaki	O
 berpakaian	O
@@ -87290,7 +87290,7 @@ dan	O
 menyikut	O
 khoyril	B-PPL
 ,	O
-"	O
+`	O
 tutur	O
 sipir	O
 yang	O
@@ -87700,7 +87700,7 @@ william	I-PPL
 keltjes	I-PPL
 .	O
 
-"	O
+`	O
 tapi	O
 kita	O
 semua	O
@@ -87724,7 +87724,7 @@ pemberantasan	O
 narkoba	O
 kita	O
 dukung	O
-"	O
+`	O
 tegas	O
 julian	B-PPL
 .	O
@@ -87742,15 +87742,15 @@ mengatakan	O
 pengalaman	O
 nya	O
 :	O
-"	O
+`	O
 hari	O
 yang	O
 sangat	O
 panjang	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 selama	O
 kurang	O
 lebih	O
@@ -87768,12 +87768,12 @@ kurangnya	O
 di	O
 mana	O
 ,	O
-"	O
+`	O
 kata	O
 agung	B-PPL
 .	O
 
-"	O
+`	O
 kami	O
 pilih	O
 mereka	O
@@ -87793,7 +87793,7 @@ nelayan	O
 seperti	O
 yang	O
 dijanjikan,	O
-"	O
+`	O
 tutur	O
 hitler	B-PPL
 .	O
@@ -88167,7 +88167,7 @@ dari	O
 kepolisian	O
 hertfordshire	B-PLC
 :	O
-"	O
+`	O
 keselamatan	O
 anggota	O
 masyarakat	O
@@ -88183,7 +88183,7 @@ dari	O
 lokasi	O
 terdekat	O
 .	O
-"	O
+`	O
 
 program	O
 nissan	B-EVT
@@ -88436,7 +88436,7 @@ universitas	B-PLC
 indonesia	I-PLC
 .	O
 
-"	O
+`	O
 soal	O
 respon	O
 kan	O
@@ -88454,11 +88454,11 @@ kesalahpahaman	O
 ya	O
 itu	O
 misalnya,	O
-"	O
+`	O
 paparnya	O
 .	O
 
-"	O
+`	O
 untunglah	O
 sekarang	O
 kantor	O
@@ -88479,7 +88479,7 @@ sebagai	O
 tempat	O
 tinggal	O
 ,	O
-"	O
+`	O
 ujar	O
 hakim	O
 yang	O
@@ -88490,13 +88490,13 @@ sejak	O
 ini	O
 .	O
 
-"	O
+`	O
 masih	O
 terus	O
 dilakukan	O
 proses	O
 penyelidikan,	O
-"	O
+`	O
 ujar	O
 kabag	O
 penum	O
@@ -88541,7 +88541,7 @@ philippe	B-PPL
 vansilliette	I-PPL
 .	O
 
-"	O
+`	O
 kalau	O
 obyektif	O
 banyak	O
@@ -88571,7 +88571,7 @@ ada	O
 pencapaian	O
 kita	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -88595,7 +88595,7 @@ indonesia	O
 hebat	O
 .	O
 
-"	O
+`	O
 dpr	O
 tidak	O
 perlu	O
@@ -88615,7 +88615,7 @@ sudut	O
 yang	O
 positif	O
 ,	O
-"	O
+`	O
 kata	O
 anas	B-PPL
 dalam	O
@@ -88656,7 +88656,7 @@ manahan	I-PLC
 solo	B-PLC
 .	O
 
-"	O
+`	O
 bagi	O
 saya	O
 ,	O
@@ -88671,12 +88671,12 @@ saudara	O
 saya	O
 sendiri	O
 ,	O
-"	O
+`	O
 kata	O
 isidoro	B-PPL
 .	O
 
-"	O
+`	O
 politik	O
 perimbangan	O
 membuat	O
@@ -88686,7 +88686,7 @@ betul	O
 dengan	O
 suara	O
 pks,	O
-"	O
+`	O
 kata	O
 pengamat	O
 politik	O
@@ -89086,7 +89086,7 @@ memimpin	O
 2-mar	O
 .	O
 
-"	O
+`	O
 jangan	O
 membakar	O
 massa	O
@@ -89106,7 +89106,7 @@ adalah	O
 sikap	O
 kekanak-kanakan	O
 ,	O
-"	O
+`	O
 ujar	O
 tedjo	B-PPL
 .	O
@@ -89147,7 +89147,7 @@ dibukakan	O
 pintu	O
 .	O
 
-"	O
+`	O
 ini	O
 masih	O
 pertemuan	O
@@ -89166,7 +89166,7 @@ mengenai	O
 langkah-langkah	O
 ini	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -89329,7 +89329,7 @@ ini	O
 f5	O
 .	O
 
-"	O
+`	O
 alhamdulillah	O
 negatif	O
 .	O
@@ -89364,7 +89364,7 @@ sesuai	O
 uu	O
 berlaku	O
 ,	O
-"	O
+`	O
 ungkapnya	O
 .	O
 
@@ -89440,7 +89440,7 @@ tahun	O
 2008	O
 .	O
 
-"	O
+`	O
 tidak	O
 ada	O
 ,	O
@@ -89452,7 +89452,7 @@ itu	O
 cuma	O
 isu	O
 saja,	O
-"	O
+`	O
 tegas	O
 agung	B-PPL
 di	O
@@ -89551,7 +89551,7 @@ akibatnya	O
 ia	O
 menegaskan	O
 ,	O
-"	O
+`	O
 kita	O
 tidak	O
 menjadi	O
@@ -89567,15 +89567,15 @@ kuli	O
 bangsa-bangsa	O
 lain	O
 .	O
-"	O
+`	O
 
 salah satu	O
 modalnya	O
 adalah	O
-"	O
+`	O
 jam	O
 terbang	O
-"	O
+`	O
 selama	O
 berkarier	O
 di	O
@@ -89771,7 +89771,7 @@ rabu	O
 4/4/2012)	O
 .	O
 
-"	O
+`	O
 tagline	O
 celebrate	O
 jazz	O
@@ -89843,7 +89843,7 @@ tomat	O
 segar	O
 .	O
 
-"	O
+`	O
 itu	O
 pemberitaan	O
 miss	O
@@ -89876,7 +89876,7 @@ membuka	O
 muktamar	B-EVT
 ppp	I-EVT
 ,	O
-"	O
+`	O
 ujar	O
 ketua	O
 dpp	O
@@ -89961,7 +89961,7 @@ bulan	O
 penuh	O
 .	O
 
-"	O
+`	O
 melalui	O
 plaza	B-EVT
 indonesia	I-EVT
@@ -90062,12 +90062,12 @@ bahwa	O
 pekerja	O
 protes	O
 terhadap	O
-"	O
+`	O
 ventilasi	O
 ruangan	O
 buruk	O
 .	O
-"	O
+`	O
 
 pada	O
 saatnya	O
@@ -90203,7 +90203,7 @@ seberat	O
 ton	O
 .	O
 
-"	O
+`	O
 partai-partai	O
 anggota	O
 koalisi	O
@@ -90221,7 +90221,7 @@ mengambil	O
 keputusan	O
 terbaik	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -90342,9 +90342,9 @@ menilai	O
 ,	O
 pks	O
 sudah	O
-"	O
+`	O
 berkeringat	O
-"	O
+`	O
 bersama-sama	O
 demokrat	O
 sejak	O
@@ -90432,7 +90432,7 @@ plus	I-IND
 nya	O
 .	O
 
-"	O
+`	O
 kalau	O
 di	O
 indonesia	B-PLC
@@ -90466,7 +90466,7 @@ besar	O
 karena	O
 sby	B-PPL
 ,	O
-"	O
+`	O
 ujar	O
 nurhayati	B-PPL
 ,	O
@@ -90545,7 +90545,7 @@ tahun	O
 lalu	O
 .	O
 
-"	O
+`	O
 wah	O
 ,	O
 saya	O
@@ -90560,7 +90560,7 @@ tadi	O
 cuaca	O
 sangat	O
 cerah,	O
-"	O
+`	O
 ujar	O
 ayu	B-PPL
 ,	O
@@ -90682,7 +90682,7 @@ di	O
 pasaran	O
 .	O
 
-"	O
+`	O
 menindaklanjuti	O
 kasus	O
 dan	O
@@ -90704,7 +90704,7 @@ pejabat	O
 irak	B-PLC
 kurdistan	I-PLC
 .	O
-"	O
+`	O
 
 bermodal	O
 uu	O
@@ -90733,7 +90733,7 @@ gap	I-PLC
 kontroversial	O
 .	O
 
-"	O
+`	O
 sebaiknya	O
 yang	O
 ganti	O
@@ -90746,7 +90746,7 @@ cari	O
 yang	O
 ofesional	O
 saja,	O
-"	O
+`	O
 jelas	O
 ketua	O
 umum	O
@@ -90772,7 +90772,7 @@ rabu	O
 )	O
 .	O
 
-"	O
+`	O
 saatnya	O
 berkarya	O
 ,	O
@@ -90843,11 +90843,11 @@ ivanov	I-PPL
 mengatakan	O
 bahwa	O
 dia	O
-"	O
+`	O
 menjanjikan	O
 kepala	O
 nya	O
-"	O
+`	O
 untuk	O
 pangkalan	O
 rusia	B-PLC
@@ -90857,7 +90857,7 @@ moldova	B-PLC
 dan	O
 menjamin	O
 bahwa	O
-"	O
+`	O
 tidak	O
 ada	O
 persenjataan	O
@@ -90867,7 +90867,7 @@ yang	O
 telah	O
 dikirim	O
 .	O
-"	O
+`	O
 
 sepuluh	O
 tahun	O
@@ -90967,7 +90967,7 @@ pilpres	B-EVT
 nanti	O
 .	O
 
-"	O
+`	O
 kalau	O
 ada	O
 yang	O
@@ -90996,7 +90996,7 @@ lagi	O
 di	O
 pdi-p	O
 ,	O
-"	O
+`	O
 ujar	O
 wakil	O
 sekretaris	O
@@ -91072,7 +91072,7 @@ dokter	O
 hewan	O
 .	O
 
-"	O
+`	O
 tidak	O
 seperti	O
 yang	O
@@ -91092,7 +91092,7 @@ ini	O
 kan	O
 omongan	O
 orang,	O
-"	O
+`	O
 tegas	O
 lutfi	B-PPL
 di	O
@@ -91154,9 +91154,9 @@ golkar	O
 pun	O
 tidak	O
 akan	O
-"	O
+`	O
 mengganggu	O
-"	O
+`	O
 kadernya	O
 yang	O
 di	O
@@ -91373,7 +91373,7 @@ keluarga	O
 jelasnya	O
 .	O
 
-"	O
+`	O
 tapi	O
 jika	O
 kami	O
@@ -91405,7 +91405,7 @@ dan	O
 pembentukan	O
 nya	O
 .	O
-"	O
+`	O
 
 badan	O
 kehormatan	O
@@ -91428,7 +91428,7 @@ anggota	O
 dpr	O
 .	O
 
-"	O
+`	O
 tidak	O
 dinaikkannya	O
 harga	O
@@ -91442,7 +91442,7 @@ program	O
 penghematan	O
 luar	O
 biasa,	O
-"	O
+`	O
 ujar	O
 kalla	B-PPL
 mengemukakan	O
@@ -91886,7 +91886,7 @@ pada	O
 pertandingan	O
 ini	O
 :	O
-"	O
+`	O
 ini	O
 adalah	O
 hari	O
@@ -91909,7 +91909,7 @@ kelompok	O
 pemain	O
 ini	O
 .	O
-"	O
+`	O
 
 ragam	O
 lauk	O
@@ -92092,7 +92092,7 @@ apresiasi	O
 budaya	O
 .	O
 
-"	O
+`	O
 mempelajari	O
 rekaman-rekaman	O
 gambar	O
@@ -92121,7 +92121,7 @@ itu	O
 untuk	O
 dijadikan	O
 petunjuk	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -92400,7 +92400,7 @@ desember	O
 1957	O
 .	O
 
-"	O
+`	O
 kepentingan	O
 bangsa	O
 ke	O
@@ -92411,7 +92411,7 @@ dari	O
 kepentingan	O
 sesaat	O
 .	O
-"	O
+`	O
 didi	B-PPL
 mengatakan	O
 partainya	O
@@ -92441,7 +92441,7 @@ penonton	O
 bahwa	O
 itu	O
 merupakan	O
-"	O
+`	O
 konser	O
 terakhir	O
 di	O
@@ -92449,7 +92449,7 @@ dalam	O
 hidup	O
 nya	O
 ,	O
-"	O
+`	O
 dan	O
 meninggalkan	O
 panggung	O
@@ -92477,10 +92477,10 @@ itb	B-PLC
 mengukuhkan	O
 diri	O
 sebagai	O
-"	O
+`	O
 tim	O
 cimol	O
-"	O
+`	O
 .	O
 
 melalui	O
@@ -92533,7 +92533,7 @@ di	O
 tol	O
 ini	O
 .	O
-"	O
+`	O
 tadinya	O
 yang	O
 bisa	O
@@ -92546,7 +92546,7 @@ saja	O
 kini	O
 bisa	O
 semua,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
@@ -92617,7 +92617,7 @@ secara	O
 gratis	O
 .	O
 
-"	O
+`	O
 hari	O
 ini	O
 saya	O
@@ -92749,14 +92749,14 @@ kutai	B-IND
 timur	I-IND
 .	O
 
-"	O
+`	O
 kata	O
 abbas	B-PPL
 di	O
 kairo	B-PLC
 .	O
 
-"	O
+`	O
 semuanya	O
 berlangsung	O
 dalam	O
@@ -92769,7 +92769,7 @@ kedipan	O
 mata	O
 evolusi	O
 ,	O
-"	O
+`	O
 kata	O
 myers	B-PPL
 .	O
@@ -92856,7 +92856,7 @@ ajak	O
 pengunjung	O
 belanja	O
 
-"	O
+`	O
 peluru	O
 kendali	O
 nampak	O
@@ -92866,7 +92866,7 @@ oleh	O
 pesawat	O
 tanpa	O
 awak	O
-"	O
+`	O
 ,	O
 kata	O
 pejabat	O
@@ -93026,7 +93026,7 @@ isse	I-PPL
 adow	B-PPL
 mengatakan	O
 :	O
-"	O
+`	O
 kami	O
 sudah	O
 menyusun	O
@@ -93059,14 +93059,14 @@ seluruh	O
 indonesia	B-PLC
 .	O
 
-"	O
+`	O
 tetapi	O
 situasi	O
 pastinya	O
 tidak	O
 diketahui	O
 ,	O
-"	O
+`	O
 ujar	O
 kapsis	B-PPL
 .	O
@@ -93099,7 +93099,7 @@ juru	O
 bicara	O
 mengatakan	O
 :	O
-"	O
+`	O
 wanita	O
 yang	O
 meninggal	O
@@ -93118,7 +93118,7 @@ dalam	O
 kejadian	O
 itu	O
 .	O
-"	O
+`	O
 
 pasalnya	O
 ,	O
@@ -93253,7 +93253,7 @@ borders	O
 merilis	O
 pernyataan	O
 ,	O
-"	O
+`	O
 reporter	O
 without	O
 borders	O
@@ -93277,7 +93277,7 @@ mereka	O
 ke	O
 pengadilan	O
 .	O
-"	O
+`	O
 
 kemenangan	O
 ini	O
@@ -93354,14 +93354,14 @@ dini	O
 hari	O
 itu	O
 .	O
-"	O
+`	O
 sama	O
 sekali	O
 tidak	O
 ada	O
 pemukulan	O
 ,	O
-"	O
+`	O
 jelas	O
 kusno	B-PPL
 .	O
@@ -93928,11 +93928,11 @@ ui	I-PPL
 )	O
 dengan	O
 tema	O
-"	O
+`	O
 jazzing	O
 through	O
 decades	O
-"	O
+`	O
 .	O
 
 islamofobia	O
@@ -93993,7 +93993,7 @@ dari	O
 penalti	O
 .	O
 
-"	O
+`	O
 sejumlah	O
 kader	O
 pd	O
@@ -94232,7 +94232,7 @@ haposan	B-PPL
 hutagalung	I-PPL
 .	O
 
-"	O
+`	O
 baiknya	O
 memakai	O
 istilah-istilah	O
@@ -94241,7 +94241,7 @@ lebih	O
 sesuai	O
 lah	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -94492,7 +94492,7 @@ perubahan	O
 #amovementforindonesia	O
 #ami2018	O
 
-"'	O
+`'	O
 timnas	B-IND
 indonesia	I-IND
 u-19	I-IND
@@ -94905,7 +94905,7 @@ dan	O
 disantuni	O
 .	O
 
-"	O
+`	O
 pak	O
 suhardi	B-PPL
 itu	O
@@ -94916,7 +94916,7 @@ tenanglah	O
 pak	O
 suhardi	B-PPL
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 usai	O
@@ -94955,7 +94955,7 @@ truk	O
 masuk	O
 parit	O
 .	O
-"	O
+`	O
 tapi	O
 sudah	O
 selesai	O
@@ -94966,7 +94966,7 @@ mencair	O
 dan	O
 normal	O
 ,	O
-"	O
+`	O
 tutur	O
 winda	B-PPL
 .	O
@@ -94994,7 +94994,7 @@ dioduksi	O
 tahun	O
 ini	O
 .	O
-"	O
+`	O
 jika	O
 respondnya	O
 baik	O
@@ -95003,7 +95003,7 @@ ditambah	O
 lagi	O
 kartunya	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 (	O
@@ -95087,7 +95087,7 @@ la	B-EVT
 liga	I-EVT
 .	O
 
-"	O
+`	O
 otoritas	O
 pengawas	O
 pasar	O
@@ -95106,7 +95106,7 @@ akuisisi	O
 danamon	B-IND
 oleh	O
 dbs	B-IND
-"	O
+`	O
 tukasnya	O
 .	O
 (	O
@@ -95222,7 +95222,7 @@ ariadna	B-PPL
 gutiérrez	I-PPL
 .	O
 
-"	O
+`	O
 tidak	O
 perlu	O
 ekspansi	O
@@ -95248,7 +95248,7 @@ yang	O
 siap	O
 melakukannya	O
 ,	O
-"	O
+`	O
 katanya	O
 didampingi	O
 dirut	O
@@ -95491,7 +95491,7 @@ dari	O
 organisasi	O
 .	O
 
-"	O
+`	O
 intinya	O
 ,	O
 bbm	O
@@ -95504,7 +95504,7 @@ karena	O
 ingin	O
 menyejahterakan	O
 rakyat,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -95544,7 +95544,7 @@ batik	O
 banyuwangi	B-PLC
 .	O
 
-"	O
+`	O
 semua	O
 tidak	O
 ada	O
@@ -95574,7 +95574,7 @@ ekspresi	O
 bukan	O
 substansi	O
 ,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -95893,7 +95893,7 @@ sanggar	B-IND
 seblang	I-IND
 .	O
 
-"	O
+`	O
 saya	O
 datang	O
 dengan	O
@@ -95913,7 +95913,7 @@ wanita	O
 yang	O
 sukses	O
 .	O
-"	O
+`	O
 
 namun	O
 ,	O
@@ -96059,12 +96059,12 @@ berlangsung	O
 di	O
 gaza	B-PLC
 sebagai	O
-"	O
+`	O
 pembantaian	O
 oleh	O
 israel	B-PLC
 .	O
-"	O
+`	O
 
 adik	O
 chris	B-PPL
@@ -96120,7 +96120,7 @@ armada	O
 kapal	O
 yang	O
 baru	O
-"	O
+`	O
 induk	O
 dari	O
 semua	O
@@ -96128,7 +96128,7 @@ armada	O
 kapal	O
 kecil	O
 .	O
-"	O
+`	O
 
 selain	O
 itu	O
@@ -96343,7 +96343,7 @@ ke	O
 indonesia	B-PLC
 .	O
 
-"	O
+`	O
 hari	O
 ini	O
 pukul	O
@@ -96369,7 +96369,7 @@ vascular	O
 yang	O
 memburuk	O
 ,	O
-"	O
+`	O
 kata	O
 juru	O
 bicara	O
@@ -96843,7 +96843,7 @@ fondazione	B-IND
 prada	I-IND
 .	O
 
-"	O
+`	O
 kami	O
 melarang	O
 sahur	B-EVT
@@ -96875,7 +96875,7 @@ lebih	O
 banyak	O
 mudharat-nya	O
 ,	O
-"	O
+`	O
 ujar	O
 djarot	B-PPL
 di	O
@@ -97188,7 +97188,7 @@ dan	O
 afrika	B-PLC
 .	O
 
-"	O
+`	O
 saya	O
 sempat	O
 menyiramnya	O
@@ -97207,16 +97207,16 @@ api	O
 terus	O
 membesar	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
-"	O
+`	O
 tidak boleh	O
 boleh	O
 diingkari	O
 ,	O
-"	O
+`	O
 kata	O
 irawadi	B-PPL
 .	O
@@ -97297,7 +97297,7 @@ adalah	O
 tiongkok	B-PLC
 .	O
 
-"	O
+`	O
 saya	O
 peduli	O
 tentang	O
@@ -97316,7 +97316,7 @@ kepada	O
 rakyat	O
 afganistan	B-PLC
 ,	O
-"	O
+`	O
 dia	O
 berkata	O
 .	O
@@ -97732,7 +97732,7 @@ empedu	O
 dan	O
 batu	O
 
-"	O
+`	O
 artinya	O
 sby	B-PPL
 jangan	O
@@ -97877,7 +97877,7 @@ kedaulatan	O
 energi	O
 .	O
 
-"'	O
+`'	O
 karen	B-PPL
 ,	O
 shaun	B-PPL
@@ -97980,14 +97980,14 @@ di	O
 singapura	B-PLC
 .	O
 
-"	O
+`	O
 kalau	O
 itu	O
 tanya	O
 ppp	O
 saja	O
 ,	O
-"	O
+`	O
 ujar	O
 nasir	B-PPL
 sambil	O
@@ -98002,7 +98002,7 @@ kelompok	O
 dpd	O
 .	O
 
-"	O
+`	O
 tidak	O
 empat	O
 tahun	O
@@ -98011,7 +98011,7 @@ saat	O
 menerima	O
 uang	O
 ,	O
-"	O
+`	O
 tanya	O
 tjahjo	B-PPL
 .	O
@@ -98162,9 +98162,9 @@ bahwa	O
 guncangan	O
 tersebut	O
 tidak	O
-"	O
+`	O
 kuat	O
-"	O
+`	O
 namun	O
 cukup	O
 membuat	O
@@ -98231,13 +98231,13 @@ pong	B-PPL
 secara	O
 mengejutkan	O
 menuliskan	O
-"	O
+`	O
 jujur	O
 ,	O
 adil	O
 ,	O
 tegas	O
-"	O
+`	O
 dengan	O
 cat	O
 semprot	O
@@ -98271,7 +98271,7 @@ utama	O
 liverpool	B-IND
 .	O
 
-"	O
+`	O
 yang	O
 punya	O
 duit	O
@@ -98307,7 +98307,7 @@ tidak	O
 punya	O
 uang	O
 ,	O
-"	O
+`	O
 kata	O
 marwan	B-PPL
 di	O
@@ -98439,7 +98439,7 @@ partai	O
 dinas	O
 .	O
 
-"	O
+`	O
 tapi	O
 yamg	O
 jelas	O
@@ -98461,7 +98461,7 @@ mensejahterakan	O
 rakyat	O
 .	O
 
-"	O
+`	O
 sampai	O
 saat	O
 ini	O
@@ -98478,7 +98478,7 @@ bisa	O
 dua	O
 digit	O
 ,	O
-"	O
+`	O
 ujar	O
 sekretaris	O
 fraksi	O
@@ -98554,7 +98554,7 @@ lapis	I-FNB
 talas	I-FNB
 .	O
 
-"	O
+`	O
 daftarnya	O
 saya	O
 ambil	O
@@ -98562,16 +98562,16 @@ dari	O
 beberapa	O
 sumber	O
 ,	O
-"	O
+`	O
 ujarnya	O
 dalam	O
 diskusi	O
 di	O
-"	O
+`	O
 alibaba	B-PLC
 steak	I-PLC
 ,	O
-"	O
+`	O
 jl.	B-PLC
 wahid	I-PLC
 hasyim	I-PLC
@@ -98586,7 +98586,7 @@ selasa	O
 )	O
 .	O
 
-"	O
+`	O
 saya	O
 langsung	O
 melaporkan	O
@@ -98596,7 +98596,7 @@ kepada	O
 ketua	O
 rt	O
 setempat,	O
-"	O
+`	O
 kata	O
 ujang	B-PPL
 .	O
@@ -98768,7 +98768,7 @@ jumat	O
 )	O
 .	O
 
-"	O
+`	O
 jika	O
 ada	O
 statement	O
@@ -98787,7 +98787,7 @@ atas	O
 nama	O
 partai	O
 ,	O
-"	O
+`	O
 kata	O
 agung	B-PPL
 .	O
@@ -98936,7 +98936,7 @@ penjualan	O
 itu	O
 .	O
 
-"	O
+`	O
 kalaupun	O
 mentok	O
 ,	O
@@ -98944,7 +98944,7 @@ baru	O
 voting	O
 dilakukan	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -98993,7 +98993,7 @@ dan	O
 sebagainya	O
 .	O
 
-"'	O
+`'	O
 the	B-EVT
 66th	I-EVT
 iaa	I-EVT
@@ -99086,7 +99086,7 @@ strategi	O
 baru	O
 .	O
 
-"	O
+`	O
 harus	O
 ada	O
 pelembagaan	O
@@ -99094,7 +99094,7 @@ komunikasi	O
 politik	O
 di	O
 setgab,	O
-"	O
+`	O
 kata	O
 pengamat	O
 politik	O
@@ -99227,7 +99227,7 @@ pengambilan	O
 putusan	O
 .	O
 
-"	O
+`	O
 tahun	O
 ini	O
 kita	O
@@ -99252,7 +99252,7 @@ kurang	O
 memiliki	O
 nama	O
 ,	O
-"	O
+`	O
 paparnya	O
 .	O
 
@@ -99579,7 +99579,7 @@ hugo	B-PPL
 iloris	I-PPL
 .	O
 
-"	O
+`	O
 kami	O
 masih	O
 menikah	O
@@ -99587,7 +99587,7 @@ di	O
 bawah	O
 hukum	O
 islam,	O
-"	O
+`	O
 tegas	O
 rima	B-PPL
 seperti	O
@@ -99801,7 +99801,7 @@ polres	O
 bengkulu	B-PLC
 .	O
 
-"	O
+`	O
 saya	O
 berharap	O
 pemilik	O
@@ -99824,7 +99824,7 @@ membahayakan	O
 setiap	O
 orang	O
 .	O
-"	O
+`	O
 
 akses	O
 tanpa	O
@@ -100049,7 +100049,7 @@ pantai	O
 somalia	B-PLC
 .	O
 
-"	O
+`	O
 kalau	O
 hanya	O
 satu	O
@@ -100065,7 +100065,7 @@ diatur	O
 seperti	O
 itu	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -100193,7 +100193,7 @@ kebun	O
 binatang	O
 .	O
 
-"	O
+`	O
 untuk	O
 mengantisipasi	O
 kepadatan	O
@@ -100214,7 +100214,7 @@ bisa	O
 membeli	O
 secara	O
 online,	O
-"	O
+`	O
 kilahnya	O
 .	O
 
@@ -100785,7 +100785,7 @@ terhadap	O
 pasar tradisional	O
 .	O
 
-"	O
+`	O
 pdip	O
 saja	O
 enggak	O
@@ -100825,7 +100825,7 @@ kota	O
 bupati	O
 bisa	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -101034,7 +101034,7 @@ pejabat	O
 tersebut	O
 mengatakan	O
 ,	O
-"	O
+`	O
 kami	O
 berharap	O
 pemerintah	O
@@ -101059,7 +101059,7 @@ atas	O
 tindakan	O
 nya	O
 .	O
-"	O
+`	O
 
 gm	O
 strategi	O
@@ -101112,7 +101112,7 @@ kampung	B-PLC
 pulo	I-PLC
 .	O
 
-"	O
+`	O
 kami	O
 ingin	O
 sby	B-PPL
@@ -101145,7 +101145,7 @@ masyarakat	O
 pada	O
 demokrat	O
 ,	O
-"	O
+`	O
 kata	O
 nurhayati	B-PPL
 .	O
@@ -101245,7 +101245,7 @@ sabtu	O
 )	O
 siang	O
 
-"'	O
+`'	O
 kementerian	O
 perhubungan	O
 (	O
@@ -101355,7 +101355,7 @@ untuk	O
 diberhentikan	O
 .	O
 
-"	O
+`	O
 tidak	O
 benar	O
 ,	O
@@ -101379,7 +101379,7 @@ ini	O
 tampang	O
 suka	O
 nampar,	O
-"	O
+`	O
 tutur	O
 denny	B-PPL
 .	O
@@ -101403,7 +101403,7 @@ jj	B-PPL
 rizal	I-PPL
 .	O
 
-"	O
+`	O
 sesuai	O
 uu	O
 pasti	O
@@ -101412,7 +101412,7 @@ dan	O
 dipecat	O
 kalau	O
 terbukti,	O
-"	O
+`	O
 kata	O
 amir	B-PPL
 saat	O
@@ -101641,7 +101641,7 @@ kandang	O
 lawan	O
 .	O
 
-"	O
+`	O
 sistem	O
 presidensial	O
 telah	O
@@ -101659,7 +101659,7 @@ politik	O
 di	O
 parlemen	O
 ,	O
-"	O
+`	O
 kata	O
 ari	B-PPL
 .	O
@@ -102003,7 +102003,7 @@ sekolah	O
 ”	O
 .	O
 
-"	O
+`	O
 pertama	O
 ,	O
 bali	B-PLC
@@ -102049,7 +102049,7 @@ bagi	O
 partai	O
 kami	O
 ,	O
-"	O
+`	O
 kata	O
 made	B-PPL
 .	O
@@ -102066,7 +102066,7 @@ cek	O
 sekarang	O
 .	O
 
-"	O
+`	O
 kita	O
 punya	O
 hak	O
@@ -102099,7 +102099,7 @@ tersebut	O
 apa	O
 urgensinya	O
 ,	O
-"	O
+`	O
 kata	O
 didik	B-PPL
 di	O
@@ -102130,7 +102130,7 @@ akun	O
 @kyufujibaya	O
 .	O
 
-"	O
+`	O
 apapun	O
 yang	O
 diputuskan	O
@@ -102150,7 +102150,7 @@ oleh	O
 semua	O
 kader	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -102433,7 +102433,7 @@ beberapa	O
 saat	O
 .	O
 
-"	O
+`	O
 ini	O
 adalah	O
 latihan	O
@@ -102449,7 +102449,7 @@ di	O
 depan	O
 publik	O
 ,	O
-"	O
+`	O
 kata	O
 presiden	O
 pks	O
@@ -102475,14 +102475,14 @@ kamis	O
 )	O
 .	O
 
-"	O
+`	O
 bidikan	O
 kami	O
 sekarang	O
 ke	O
 asia	B-PLC
 tengah	I-PLC
-"	O
+`	O
 kata	O
 direktur	O
 investasi	O
@@ -102615,7 +102615,7 @@ hak	O
 itu	O
 .	O
 
-"	O
+`	O
 kalau	O
 cuma	O
 pemangkasan	O
@@ -102640,7 +102640,7 @@ diperlukan	O
 pengusaha	O
 ritel	O
 ,	O
-"	O
+`	O
 kata	O
 foke	B-PPL
 ,	O
@@ -102658,14 +102658,14 @@ sampai	O
 persen	O
 .	O
 
-"	O
+`	O
 kami	O
 hanya	O
 menjadi	O
 vote	O
 getter	O
 ,	O
-"	O
+`	O
 kata	O
 amir	B-PPL
 .	O
@@ -102715,7 +102715,7 @@ masih	O
 tinggi	O
 .	O
 
-"	O
+`	O
 tindak	O
 pidana	O
 umum	O
@@ -102745,7 +102745,7 @@ dipenuhi	O
 tapi	O
 belum	O
 dipenuhi,	O
-"	O
+`	O
 kata	O
 jaksa	O
 agung	O
@@ -103296,7 +103296,7 @@ keyakinan	O
 masing-masing	O
 .	O
 
-"'	O
+`'	O
 merlin	B-IND
 ,	O
 lembaga	O
@@ -103553,7 +103553,7 @@ sensasi	O
 berbeda	O
 .	O
 
-"	O
+`	O
 ada	O
 sebanyak	O
 6	O
@@ -103570,7 +103570,7 @@ adalah	O
 dari	O
 bank	B-IND
 mandiri	I-IND
-"	O
+`	O
 ucapnya	O
 .	O
 
@@ -103603,7 +103603,7 @@ pertemuan	O
 puncak	O
 ,	O
 sebab	O
-"	O
+`	O
 hubungan	O
 dengan	O
 dalam	O
@@ -103614,9 +103614,9 @@ rusia	B-PLC
 sangat	O
 penting	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 ada	O
 langkah	O
 -	O
@@ -103635,7 +103635,7 @@ kami	O
 tunggu	O
 kejati	O
 bengkulu	B-PLC
-"	O
+`	O
 tandas	O
 adi	B-PPL
 .	O
@@ -103688,7 +103688,7 @@ kejadian	O
 kejahatan	O
 .	O
 
-"	O
+`	O
 saya	O
 tinggal	O
 di	O
@@ -103698,7 +103698,7 @@ selama	O
 3,5	O
 tahun	O
 ,	O
-"	O
+`	O
 tutur	O
 doni	B-PPL
 saat	O
@@ -103811,7 +103811,7 @@ pada	O
 2013	O
 .	O
 
-"	O
+`	O
 perjuangan	O
 itu	O
 bukan	O
@@ -103823,11 +103823,11 @@ jatim	B-PPL
 bukan	O
 kapitalis	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
-"	O
+`	O
 marah	O
 tidak	O
 menolong	O
@@ -103846,7 +103846,7 @@ pilihan	O
 yang	O
 terbaik	O
 ,	O
-"	O
+`	O
 kata	O
 mantan	O
 ketua	O
@@ -103889,7 +103889,7 @@ toko	I-IND
 sebelah	I-IND
 .	O
 
-"	O
+`	O
 upaya	O
 airlangga	B-PPL
 serius	O
@@ -103911,7 +103911,7 @@ pun	O
 jalan	O
 moderat	O
 ,	O
-"	O
+`	O
 kata	O
 arie	B-PPL
 .	O
@@ -104133,7 +104133,7 @@ yang	O
 jarang	O
 terjadi	O
 ,	O
-"	O
+`	O
 kami	O
 mengutuk	O
 tindakan	O
@@ -104147,7 +104147,7 @@ dari	O
 konstitusi	O
 kami	O
 ,	O
-"	O
+`	O
 saat	O
 merespons	O
 pertanyaan	O
@@ -104267,7 +104267,7 @@ olahraga	O
 lain	O
 .	O
 
-"	O
+`	O
 karena	O
 di	O
 30	O
@@ -104303,7 +104303,7 @@ baik	O
 di	O
 kemenkum	O
 ham,	O
-"	O
+`	O
 tutur	O
 gatot	B-PPL
 .	O
@@ -104357,7 +104357,7 @@ jakarta	I-PLC
 selatan	I-PLC
 .	O
 
-"	O
+`	O
 partai-partai	O
 tersebut	O
 sejak	O
@@ -104378,7 +104378,7 @@ tetap	O
 saya	O
 undang	O
 ,	O
-"	O
+`	O
 katanya	O
 yang	O
 lebih	O
@@ -104758,7 +104758,7 @@ ada	O
 artinya	O
 .	O
 
-"	O
+`	O
 pdi-p	O
 punya	O
 aturan	O
@@ -104781,7 +104781,7 @@ di	O
 luar	O
 pdi-p	O
 ,	O
-"	O
+`	O
 imbuh	O
 hasto	B-PPL
 .	O
@@ -104807,7 +104807,7 @@ anaknya	O
 dih	B-PPL
 .	O
 
-"	O
+`	O
 pemerintah	O
 lambat	O
 ,	O
@@ -104824,7 +104824,7 @@ pemerintah	O
 mengambil	O
 keputusan	O
 ,	O
-"	O
+`	O
 kata	O
 fadil	B-PPL
 zon	I-PPL
@@ -104969,7 +104969,7 @@ habis	O
 terjual	O
 .	O
 
-"	O
+`	O
 mereka	O
 check	O
 in	O
@@ -104996,7 +104996,7 @@ hasil	O
 tes	O
 urinenya	O
 negatif,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -105023,7 +105023,7 @@ november	O
 2014	O
 .	O
 
-"	O
+`	O
 sabu	O
 itu	O
 dilemparkan	O
@@ -105045,7 +105045,7 @@ sipir	O
 dibuat	O
 tutup	O
 mulut,	O
-"	O
+`	O
 terang	O
 sumber	O
 terpercaya	O
@@ -105398,7 +105398,7 @@ belum	O
 nih	O
 ?	O
 
-"	O
+`	O
 densus	O
 menemukan	O
 beberapa	O
@@ -105415,7 +105415,7 @@ zaini	B-PPL
 mengetahui	O
 teror	O
 tersebut,	O
-"	O
+`	O
 tanya	O
 irwandi	B-PPL
 .	O
@@ -105949,7 +105949,7 @@ isu	O
 elitis	O
 .	O
 
-"	O
+`	O
 banjir	O
 gini	O
 kan	O
@@ -105967,7 +105967,7 @@ ya	O
 mereka	O
 narik	O
 gerobak	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -106356,7 +106356,7 @@ kata	O
 militer	O
 .	O
 
-"	O
+`	O
 tapi	O
 jika	O
 kami	O
@@ -106388,7 +106388,7 @@ dan	O
 pembentukan	O
 nya	O
 .	O
-"	O
+`	O
 
 keterlambatan	O
 kedatangan	O
@@ -106429,7 +106429,7 @@ kamis	O
 )	O
 .	O
 
-"	O
+`	O
 yang	O
 mengaku	O
 ditampar	O
@@ -106456,7 +106456,7 @@ saleh	I-PPL
 pada	O
 tahun	O
 1986	O
-"	O
+`	O
 kata	O
 amir	B-PPL
 .	O
@@ -106551,7 +106551,7 @@ pada	O
 maret	O
 2012	O
 
-"	O
+`	O
 untuk	O
 tingkat	O
 aceh	B-PLC
@@ -106572,7 +106572,7 @@ juta	O
 setiap	O
 tahunnya	O
 ,	O
-"	O
+`	O
 papar	O
 pria	O
 asal	O
@@ -106708,11 +106708,11 @@ ciputat	I-PLC
 jakarta	B-PLC
 selatan	I-PLC
 .	O
-"	O
+`	O
 tertangkapnya	O
 sore	O
 tadi,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -106889,7 +106889,7 @@ tempuh	O
 50	O
 .	O
 
-"	O
+`	O
 semua	O
 terserah	O
 presiden	O
@@ -106915,7 +106915,7 @@ koalisi	O
 harus	O
 solid	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -107197,7 +107197,7 @@ premier	O
 2017	O
 .	O
 
-"	O
+`	O
 pks	O
 sudah	O
 menyampaikan	O
@@ -107226,7 +107226,7 @@ yang	O
 kita	O
 ambil	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -107334,7 +107334,7 @@ sebagai	O
 saksi	O
 .	O
 
-"	O
+`	O
 dpp	O
 telah	O
 melakukan	O
@@ -107365,7 +107365,7 @@ dari	O
 33	O
 dpd	O
 ,	O
-"	O
+`	O
 ujar	O
 ahmad	B-PPL
 di	O
@@ -107442,7 +107442,7 @@ status	O
 persyaratannya	O
 .	O
 
-"	O
+`	O
 mereka	O
 memiliki	O
 kemampuan	O
@@ -107451,7 +107451,7 @@ meregenerasi	O
 dan	O
 mengganti	O
 ini	O
-"	O
+`	O
 kata	O
 pejabat	O
 intelijen	O
@@ -107673,7 +107673,7 @@ tinggi	O
 di	O
 skotlandia	B-PLC
 adalah	O
-"	O
+`	O
 merupakan	O
 kekhawatiran	O
 tersendiri	O
@@ -107694,9 +107694,9 @@ dalam	O
 lingkungan	O
 institusional	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 salah satunya	O
 ,	O
 bambang	B-PPL
@@ -107708,7 +107708,7 @@ fraksi	O
 yang	O
 keberatan	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -107831,23 +107831,23 @@ bahwa	O
 ancaman	O
 tersebut	O
 adalah	O
-"	O
+`	O
 cukup	O
 serius	O
-"	O
+`	O
 dan	O
 pelancong	O
 udara	O
 agar	O
-"	O
+`	O
 menjaga	O
 kewaspadaan	O
 setiap	O
 saat	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 saya	O
 ingin	O
 bu	O
@@ -107864,7 +107864,7 @@ calon	O
 ketua	O
 umum	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -107928,7 +107928,7 @@ kata	O
 eurocontrol	O
 .	O
 
-"	O
+`	O
 kita	O
 sudah	O
 memiliki	O
@@ -107958,7 +107958,7 @@ rapat	O
 koordinasi	O
 daerah	O
 ,	O
-"	O
+`	O
 papar	O
 yuddy	B-PPL
 .	O
@@ -108375,7 +108375,7 @@ tetapi	O
 dia	O
 mengatakan	O
 :	O
-"	O
+`	O
 kami	O
 tetap	O
 berkomitmen	O
@@ -108398,7 +108398,7 @@ lingkungan	O
 sekitar	O
 nya	O
 .	O
-"	O
+`	O
 
 bangkok	B-PLC
 ,	O
@@ -109151,7 +109151,7 @@ yang	O
 aktif	O
 mengatakan	O
 bahwa	O
-"	O
+`	O
 saya	O
 meragukan	O
 ini	O
@@ -109166,7 +109166,7 @@ upacara	O
 penutupan	O
 olimpiade	B-EVT
 .	O
-"	O
+`	O
 
 kane	O
 netted	O
@@ -109250,13 +109250,13 @@ heart	I-IND
 makes	I-IND
 .	O
 
-"	O
+`	O
 kita	O
 serahkan	O
 ke	O
 bnn	O
 ,	O
-"	O
+`	O
 kata	O
 sihabudin	B-PPL
 di	O
@@ -109462,7 +109462,7 @@ melakukan	O
 panen	O
 dini	O
 .	O
-"	O
+`	O
 padahal	O
 padi	O
 baru	O
@@ -109476,7 +109476,7 @@ panen	O
 setelah	O
 100	O
 hari,	O
-"	O
+`	O
 kata	O
 aan	B-PPL
 .	O
@@ -109669,7 +109669,7 @@ saya	O
 jadi	O
 bekerja	O
 ,	O
-"	O
+`	O
 ucapnya	O
 dalam	O
 tweet	B-IND
@@ -109848,7 +109848,7 @@ tahun	O
 ini	O
 .	O
 
-"	O
+`	O
 ada	O
 poin	O
 -	O
@@ -109874,7 +109874,7 @@ rp	O
 1	O
 juta	O
 ,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
@@ -110074,7 +110074,7 @@ jawa	B-PLC
 barat	I-PLC
 .	O
 
-"	O
+`	O
 jika	O
 kami	O
 membayar	O
@@ -110093,7 +110093,7 @@ menghadapi	O
 tantangan	O
 nya	O
 ,	O
-"	O
+`	O
 kata	O
 pegawai	O
 pemerintah	O
@@ -110410,7 +110410,7 @@ sam	O
 ratulangi	O
 .	O
 
-"	O
+`	O
 jadi	O
 ,	O
 tidak	O
@@ -110426,7 +110426,7 @@ semua	O
 akan	O
 dirapatkan	O
 ,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -110520,7 +110520,7 @@ menonaktifkan	O
 ahok	B-PPL
 .	O
 
-"	O
+`	O
 jika	O
 dup	O
 tidak	O
@@ -110545,7 +110545,7 @@ pada	O
 akhir	O
 juni	O
 ,	O
-"	O
+`	O
 kata	O
 martin	B-PPL
 mcguinnes	I-PPL
@@ -110592,7 +110592,7 @@ mengakibatkan	O
 luka	O
 .	O
 
-"	O
+`	O
 tidak	O
 ada	O
 halangan	O
@@ -110608,7 +110608,7 @@ yang	O
 tidak	O
 produktif	O
 ,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
@@ -110644,7 +110644,7 @@ dan	I-IND
 4	I-IND
 .	O
 
-"	O
+`	O
 sekitar	O
 70	O
 persen	O
@@ -110662,7 +110662,7 @@ undang-undang	O
 yang	O
 merugikan	O
 ,	O
-"	O
+`	O
 ucapnya	O
 .	O
 
@@ -110843,7 +110843,7 @@ place	I-PLC
 jakarta	B-PLC
 .	O
 
-"	O
+`	O
 kita	O
 temukan	O
 barang	O
@@ -110852,7 +110852,7 @@ senilai	O
 rp	O
 900	O
 juta,	O
-"	O
+`	O
 ujar	O
 jubir	O
 kpk	O
@@ -110923,7 +110923,7 @@ di	O
 dalamnya	O
 .	O
 
-"	O
+`	O
 saya	O
 khawatir	O
 tentang	O
@@ -110942,7 +110942,7 @@ menghapus	O
 cela	O
 jilbab	O
 .	O
-"	O
+`	O
 
 dari	O
 catatan	O
@@ -110959,7 +110959,7 @@ dianggap	O
 kontroverisal	O
 .	O
 
-"	O
+`	O
 korban	O
 dan	O
 para	O
@@ -110975,7 +110975,7 @@ tersinggung	O
 sehingga	O
 terjadi	O
 perkelahian,	O
-"	O
+`	O
 terang	O
 tadung	B-PPL
 didampingi	O
@@ -111018,7 +111018,7 @@ menghalangi	O
 polisi	O
 .	O
 
-"	O
+`	O
 ujar	O
 apollo	B-PPL
 .	O
@@ -111146,7 +111146,7 @@ waktu	O
 dekat	O
 .	O
 
-"	O
+`	O
 kami	O
 akan	O
 melihat	O
@@ -111164,7 +111164,7 @@ berakibat	O
 pendakwaan	O
 atau	O
 tidak	O
-"	O
+`	O
 ,	O
 kata	O
 john	B-PPL
@@ -111283,7 +111283,7 @@ biru	O
 dan	O
 ditanda	O
 tangani	O
-"	O
+`	O
 a	O
 .	O
 q	O
@@ -111294,7 +111294,7 @@ s	O
 .	O
 a	O
 .	O
-"	O
+`	O
 
 berikut	O
 spesifikasi	O
@@ -111513,7 +111513,7 @@ atas	O
 liverpool	B-IND
 .	O
 
-"	O
+`	O
 membuka	O
 kesempatan	O
 berusaha	O
@@ -111540,7 +111540,7 @@ membantu	O
 hidup	O
 mereka	O
 ,	O
-"	O
+`	O
 tandas	O
 didik	B-PPL
 .	O
@@ -111612,7 +111612,7 @@ setelah	O
 berteriak	O
 -	O
 teriak	O
-"	O
+`	O
 saya	O
 punya	O
 utang	O
@@ -111621,7 +111621,7 @@ saya	O
 tak	O
 sanggup	O
 lagi.	O
-"	O
+`	O
 
 inilah	O
 sinopsisnya	O
@@ -111801,7 +111801,7 @@ target	O
 bagi	O
 kami	O
 ,	O
-"	O
+`	O
 kata	O
 netanyahu	B-PPL
 dalam	O
@@ -111953,7 +111953,7 @@ the	B-IND
 matrix	I-IND
 .	O
 
-"	O
+`	O
 enggak	O
 (	O
 ditinggalkan	O
@@ -111972,7 +111972,7 @@ masih	O
 optimistis	O
 maju	O
 ,	O
-"	O
+`	O
 katanya	O
 setelah	O
 menghadiri	O
@@ -112090,7 +112090,7 @@ liga	B-EVT
 2018	O
 .	O
 
-"	O
+`	O
 kami	O
 memilih	O
 sicc	B-PLC
@@ -112108,7 +112108,7 @@ di	O
 las	B-PLC
 vegas	I-PLC
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -112238,7 +112238,7 @@ semuanya	O
 masih	O
 berjalan	O
 .	O
-"	O
+`	O
 kita	O
 belum	O
 bisa	O
@@ -112247,7 +112247,7 @@ sampaikan	O
 karena	O
 masih	O
 diproses	O
-"	O
+`	O
 tandas	O
 boy	B-PPL
 .	O
@@ -112789,7 +112789,7 @@ oleh	O
 daerah	O
 .	O
 
-"	O
+`	O
 saya	O
 kan	O
 orang	O
@@ -112802,7 +112802,7 @@ ke	O
 partai	O
 lain	O
 ,	O
-"	O
+`	O
 ujarnya	O
 sembari	O
 menyatakan	O
@@ -112851,7 +112851,7 @@ kpk	O
 kekanak-kanakan	O
 .	O
 
-"	O
+`	O
 kami	O
 ini	O
 berbeda	O
@@ -112862,7 +112862,7 @@ tidak	O
 berbeda	O
 dalam	O
 substansi,	O
-"	O
+`	O
 ungkap	O
 luthfi	B-PPL
 ,	O
@@ -112927,7 +112927,7 @@ model	O
 ini	O
 .	O
 
-"	O
+`	O
 khusus	O
 kejadian	O
 di	O
@@ -112972,7 +112972,7 @@ saat	O
 kejadian	O
 kemarin	O
 ,	O
-"	O
+`	O
 kata	O
 menko	O
 polhukam	O
@@ -113095,7 +113095,7 @@ sutowo	I-PPL
 tersebut	O
 .	O
 
-"	O
+`	O
 adegan	O
 di	O
 dilan	B-IND
@@ -113128,7 +113128,7 @@ saja	O
 melecehkan	O
 rakyat	O
 .	O
-"	O
+`	O
 rakyat	O
 jakarta	B-PLC
 adalah	O
@@ -113148,11 +113148,11 @@ direndahkan	O
 dengan	O
 politik	O
 ,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
-"	O
+`	O
 kalau	O
 enggak	O
 diundang	O
@@ -113185,7 +113185,7 @@ diundang	O
 saya	O
 datang	O
 ,	O
-"	O
+`	O
 katanya	O
 sambil	O
 tertawa	O
@@ -113300,7 +113300,7 @@ tersebut	O
 murah	O
 .	O
 
-"	O
+`	O
 saya	O
 dibiarkan	O
 kelaparan	O
@@ -113328,7 +113328,7 @@ saya	O
 lebih	O
 baik	O
 mati,	O
-"	O
+`	O
 cetusnya	O
 .	O
 
@@ -113384,7 +113384,7 @@ penangguhan	O
 penahanan	O
 .	O
 
-"	O
+`	O
 belum	O
 ada	O
 .	O
@@ -113402,7 +113402,7 @@ blsm	O
 yang	O
 akan	O
 dijalankan,	O
-"	O
+`	O
 ujar	O
 salim	B-PPL
 .	O
@@ -113550,7 +113550,7 @@ musim	O
 lalu	O
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 ingin	O
@@ -113562,7 +113562,7 @@ pertandingan	O
 seperti	O
 ini	O
 .	O
-"	O
+`	O
 
 pada	O
 dasarnya	O
@@ -113686,7 +113686,7 @@ perolehan	O
 gelar	O
 .	O
 
-"	O
+`	O
 senin	O
 (	O
 2/4	O
@@ -113708,7 +113708,7 @@ pusat	O
 sini	O
 dulu	O
 ,	O
-"	O
+`	O
 kata	O
 humas	O
 ditjen	O
@@ -113745,7 +113745,7 @@ dari	O
 bandung	B-PLC
 ke	O
 
-"	O
+`	O
 kesepakatan	O
 bulan	O
 oktober	O
@@ -113777,7 +113777,7 @@ tentang	O
 partai	O
 golkar	O
 ,	O
-"	O
+`	O
 ujar	O
 sekjen	O
 partai	O
@@ -113897,7 +113897,7 @@ sulit	O
 ditundukkan	O
 .	O
 
-"	O
+`	O
 kalau	O
 kita	O
 mengelola	O
@@ -113925,7 +113925,7 @@ jadi	O
 bangsa	O
 yang	O
 melow,	O
-"	O
+`	O
 tutupnya	O
 .	O
 
@@ -114329,7 +114329,7 @@ deutsche	B-IND
 telekom	I-IND
 .	O
 
-"	O
+`	O
 kita	O
 akan	O
 undang	O
@@ -114358,7 +114358,7 @@ dari	O
 sulawesi	B-PLC
 selatan	I-PLC
 ,	O
-"	O
+`	O
 jelas	O
 bayu	B-PPL
 .	O
@@ -114495,7 +114495,7 @@ anggota	O
 paskibraka	O
 .	O
 
-"	O
+`	O
 yang	O
 penting	O
 adalah	O
@@ -114521,7 +114521,7 @@ entry	O
 point	O
 di	O
 sana,	O
-"	O
+`	O
 ujar	O
 bayu	B-PPL
 .	O
@@ -114893,7 +114893,7 @@ kegundahan	O
 itu	O
 .	O
 
-"	O
+`	O
 ini	O
 tertulis	O
 ,	O
@@ -114901,7 +114901,7 @@ bukan	O
 hanya	O
 tersirat	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -115145,7 +115145,7 @@ sebesar	O
 persen	O
 .	O
 
-"	O
+`	O
 kepada	O
 seluruh	O
 masyarakat	O
@@ -115167,7 +115167,7 @@ melporkan	O
 ke	O
 fppb	O
 ,	O
-"	O
+`	O
 saran	O
 asih	B-PPL
 .	O
@@ -115267,7 +115267,7 @@ pencabut	O
 nyawa	O
 .	O
 
-"	O
+`	O
 saya	O
 melihat	O
 bahwa	O
@@ -115290,7 +115290,7 @@ transparan	O
 dan	O
 terbuka	O
 .	O
-"	O
+`	O
 
 saat	O
 ini	O
@@ -115575,10 +115575,10 @@ pendeteksi	O
 hoax	O
 yang	O
 dinamai	O
-"	O
+`	O
 hoax	B-IND
 analyzer	I-IND
-"	O
+`	O
 dengan	O
 dimentori	O
 sang	O
@@ -115588,7 +115588,7 @@ ayu	B-PPL
 purwarianti	I-PPL
 .	O
 
-"	O
+`	O
 hal	O
 ini	O
 menjadi	O
@@ -115612,7 +115612,7 @@ diapresiasi	O
 dengan	O
 baik	O
 ,	O
-"	O
+`	O
 kata	O
 ernest	B-PPL
 prakasa	I-PPL
@@ -115651,7 +115651,7 @@ di	O
 singapura	B-PLC
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 tahu	O
@@ -115680,7 +115680,7 @@ ini	O
 menurut	O
 kami	O
 ,	O
-"	O
+`	O
 ucap	O
 nurul	B-PPL
 yang	O
@@ -115943,7 +115943,7 @@ di	O
 dalamnya	O
 .	O
 
-"	O
+`	O
 ramping	O
 tapi	O
 kaya	O
@@ -115964,7 +115964,7 @@ cocok	O
 dengan	O
 indonesia	B-PLC
 ,	O
-"	O
+`	O
 ujar	O
 sutiyoso	B-PPL
 .	O
@@ -115985,9 +115985,9 @@ di	O
 cina	B-PLC
 atau	O
 disingkat	O
-"	O
+`	O
 aliansi	O
-"	O
+`	O
 ,	O
 telah	O
 gagal	O
@@ -116232,7 +116232,7 @@ sebelum	O
 dilaksanakan	O
 .	O
 
-"	O
+`	O
 kesehatan	O
 dan	O
 pendidikan	O
@@ -116251,7 +116251,7 @@ dan	O
 kabupaten	O
 /	O
 kota,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -116275,14 +116275,14 @@ rp4.000	O
 triliun	O
 .	O
 
-"	O
+`	O
 ini	O
 adalah	O
 sebuah	O
 tanda	O
 perubahan	O
 ,	O
-"	O
+`	O
 dia	O
 berkata	O
 .	O
@@ -116507,7 +116507,7 @@ asinan	B-FNB
 rambutan	I-FNB
 .	O
 
-"	O
+`	O
 soal	O
 perpanjangan	O
 jabatan	O
@@ -116529,7 +116529,7 @@ sebelum	O
 oktober	O
 2011	O
 ,	O
-"	O
+`	O
 ujar	O
 mendagri	O
 .	O
@@ -116556,7 +116556,7 @@ pada	O
 juni	O
 .	O
 
-"	O
+`	O
 jadi	O
 ,	O
 komunikasi	O
@@ -116571,7 +116571,7 @@ cikeas	B-PLC
 tapi	O
 di	O
 pemerintahan,	O
-"	O
+`	O
 kata	O
 hinca	B-PPL
 .	O
@@ -117103,7 +117103,7 @@ dewi	O
 sandra	B-PPL
 dll.	I-PPL
 
-"	O
+`	O
 persoalannya	O
 bukan	O
 restu	O
@@ -117160,7 +117160,7 @@ besar	O
 menjadi	O
 alternatif	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -117333,7 +117333,7 @@ ke	O
 ngarai	O
 .	O
 
-"	O
+`	O
 barang	O
 bukti	O
 yakni	O
@@ -117360,7 +117360,7 @@ dan	O
 didapat	O
 dari	O
 mana,	O
-"	O
+`	O
 terang	O
 rikwanto	B-PPL
 .	O
@@ -117583,7 +117583,7 @@ pertokoan	O
 juga	O
 sepi	O
 .	O
-"	O
+`	O
 biasanya	O
 banyak	O
 motor	O
@@ -117596,7 +117596,7 @@ sepi	O
 gara-gara	O
 tawuran	O
 ,	O
-"	O
+`	O
 seorang	O
 juru	O
 parkir	O
@@ -117707,7 +117707,7 @@ pertandingan	O
 terakhir	O
 .	O
 
-"	O
+`	O
 tersangka	O
 berinisial	O
 aa	B-PPL
@@ -117719,7 +117719,7 @@ tertangkap	O
 dia	O
 pelajar	O
 smk,	O
-"	O
+`	O
 kata	O
 kapolres	O
 jakarta	O
@@ -117758,7 +117758,7 @@ oktober	O
 lalu	O
 .	O
 
-"	O
+`	O
 penghasilan	O
 memang	O
 harus	O
@@ -117772,7 +117772,7 @@ mana	O
 semua	O
 wajib	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -118156,7 +118156,7 @@ pasar	O
 berkembang	O
 .	O
 
-"	O
+`	O
 tentara	O
 isaf	O
 kanada	B-PLC
@@ -118171,7 +118171,7 @@ peraturan	O
 pertempuran	O
 kami	O
 .	O
-"	O
+`	O
 
 tidak	O
 hanya	O
@@ -118254,7 +118254,7 @@ triliun	O
 )	O
 .	O
 
-"	O
+`	O
 saya	O
 melihat	O
 api	O
@@ -118278,7 +118278,7 @@ di	O
 atas	O
 karpet	O
 ,	O
-"	O
+`	O
 kata	O
 ali	B-PPL
 usman	I-PPL
@@ -118566,7 +118566,7 @@ oleh	O
 netizen	O
 .	O
 
-"	O
+`	O
 di	O
 undang	O
 -	O
@@ -118583,7 +118583,7 @@ yang	O
 membahayakan	O
 keselamatan	O
 umum,	O
-"	O
+`	O
 terang	O
 mantan	O
 kadensus	O
@@ -118860,7 +118860,7 @@ melakukan	O
 investigasi	O
 ,	O
 mengatakan	O
-"	O
+`	O
 seluruh	O
 operasi	O
 di	O
@@ -118890,7 +118890,7 @@ menunggu	O
 hasil	O
 investigasi	O
 .	O
-"	O
+`	O
 
 dikatakan	O
 jika	O
@@ -119278,7 +119278,7 @@ memberikan	O
 kesejahteraan	O
 juga	O
 ,	O
-"	O
+`	O
 lanjutnya	O
 .	O
 
@@ -119600,7 +119600,7 @@ di	O
 singapura	B-PLC
 .	O
 
-"	O
+`	O
 belum	O
 ada	O
 ,	O
@@ -119611,7 +119611,7 @@ waktu	O
 usai	O
 lebaran	B-EVT
 ,	O
-"	O
+`	O
 kata	O
 wiranto	B-PPL
 di	O
@@ -119813,7 +119813,7 @@ yang	O
 dimaksudkan	O
 .	O
 
-"	O
+`	O
 dari	O
 pemeriksaan	O
 itu	O
@@ -119842,7 +119842,7 @@ zat	O
 kimia	O
 itu	O
 ,	O
-"	O
+`	O
 tandas	O
 rikwanto	B-PPL
 .	O
@@ -120459,7 +120459,7 @@ kebijakan	O
 luar	O
 negeri	O
 monopolistik	O
-"	O
+`	O
 amerika	B-PPL
 dan	O
 menyatakan	O
@@ -120474,7 +120474,7 @@ bagi	O
 rusia	B-PLC
 .	O
 
-"	O
+`	O
 gugatan	O
 itu	O
 dilayangkan	O
@@ -120489,7 +120489,7 @@ yang	O
 dilakukan	O
 kpu	O
 ,	O
-"	O
+`	O
 kata	O
 firman	B-PPL
 .	O
@@ -120728,14 +120728,14 @@ abdul	B-PPL
 ghani	I-PPL
 .	O
 
-"	O
+`	O
 begitu	O
 masuk	O
 saya	O
 langsung	O
 ditampar	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -120906,7 +120906,7 @@ rp	O
 juta	O
 .	O
 
-"	O
+`	O
 dpr	O
 akan	O
 memperhatikan	O
@@ -120923,7 +120923,7 @@ harus	O
 memperhatikan	O
 kesejahteraan	O
 hakim,	O
-"	O
+`	O
 papar	O
 politikus	O
 partai	O
@@ -121000,7 +121000,7 @@ usa	B-IND
 today	I-IND
 .	O
 
-"	O
+`	O
 pekan	O
 depan	O
 kita	O
@@ -121029,7 +121029,7 @@ kami	O
 di	O
 lapangan	O
 ini,	O
-"	O
+`	O
 ungkap	O
 ridha	B-PPL
 .	O
@@ -121039,7 +121039,7 @@ bg/ol	O
 10	O
 )	O
 
-"	O
+`	O
 tapi	O
 kalau	O
 nyebut	O
@@ -121064,7 +121064,7 @@ terganggu	O
 kritik	O
 orang	O
 ,	O
-"	O
+`	O
 kata	O
 mahfudz	B-PPL
 .	O
@@ -121605,7 +121605,7 @@ mendirikan	O
 purelifi	B-IND
 .	O
 
-"	O
+`	O
 persoalannya	O
 kemudian	O
 adalah	O
@@ -121624,7 +121624,7 @@ ekonomi	O
 nasional	O
 secara	O
 riil,	O
-"	O
+`	O
 ucapnya	O
 ,	O
 jumat	O
@@ -122037,7 +122037,7 @@ dan	O
 berhati-hati	O
 .	O
 
-"	O
+`	O
 kepolisian	O
 juga	O
 mengerahkan	O
@@ -122048,7 +122048,7 @@ untuk	O
 membantu	O
 masyarakat	O
 ,	O
-"	O
+`	O
 kata	O
 kepala	O
 bidang	O
@@ -122141,7 +122141,7 @@ layar	O
 inci	O
 .	O
 
-"	O
+`	O
 pertama	O
 karena	O
 ini	O
@@ -122170,7 +122170,7 @@ bukan	O
 dibebankan	O
 kepada	O
 negara,	O
-"	O
+`	O
 tegas	O
 ilyas	B-PPL
 .	O
@@ -122407,7 +122407,7 @@ lizasuain	B-PPL
 dia	O
 menambahkan	O
 :	O
-"	O
+`	O
 ini	O
 seperti	O
 kehilangan	O
@@ -122418,7 +122418,7 @@ saya	O
 sangat	O
 sedih	O
 .	O
-"	O
+`	O
 
 indosiar	B-IND
 selaku	O
@@ -122503,7 +122503,7 @@ apache	B-IND
 200	I-IND
 .	O
 
-"	O
+`	O
 saat	O
 ini	O
 mungkin	O
@@ -122532,7 +122532,7 @@ posisi	O
 kepala	O
 distarkim	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -122706,7 +122706,7 @@ kedalaman	O
 km	O
 .	O
 
-"	O
+`	O
 kami	O
 di	O
 sini	O
@@ -122717,7 +122717,7 @@ tangki	O
 jika	O
 diserang	O
 ,	O
-"	O
+`	O
 kata	O
 bajak	O
 laut	O
@@ -122941,7 +122941,7 @@ menyisirnya	O
 saja	O
 .	O
 
-"	O
+`	O
 sejak	O
 awal	O
 kami	O
@@ -122962,7 +122962,7 @@ kali	O
 mengikuti	O
 pemilu	O
 ,	O
-"	O
+`	O
 ujar	O
 sekretaris	O
 jenderal	O
@@ -122977,7 +122977,7 @@ minggu	O
 malam	O
 .	O
 
-"	O
+`	O
 kakanwil	O
 riau	B-PLC
 dan	O
@@ -122986,7 +122986,7 @@ pekanbaru	B-PLC
 juga	O
 harus	O
 dievaluasi,	O
-"	O
+`	O
 tambah	O
 gatot	B-PPL
 .	O
@@ -123147,7 +123147,7 @@ dari	O
 pemerintah	O
 .	O
 
-"	O
+`	O
 batas	O
 waktu	O
 10	O
@@ -123170,12 +123170,12 @@ alasan	O
 bagi	O
 berlanjutnya	O
 pembunuhan,	O
-"	O
+`	O
 tambah	O
 ban	B-PPL
 .	O
 
-"	O
+`	O
 yang	O
 jelas	O
 pimpinan	O
@@ -123198,7 +123198,7 @@ surat	O
 ketika	O
 diminta	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -123327,7 +123327,7 @@ jakarta	B-PLC
 pusat	I-PLC
 .	O
 
-"	O
+`	O
 kan	O
 bagus	O
 sama	O
@@ -123346,7 +123346,7 @@ itu	O
 harus	O
 dicapai	O
 ,	O
-"	O
+`	O
 kata	O
 jk	B-PPL
 ,	O
@@ -123740,7 +123740,7 @@ kemudian	O
 datang	O
 melerai	O
 .	O
-"	O
+`	O
 semua	O
 kocar	O
 -	O
@@ -123763,7 +123763,7 @@ tidak	O
 ada	O
 yang	O
 ditangkap,	O
-"	O
+`	O
 ujar	O
 dia	O
 .	O
@@ -123786,7 +123786,7 @@ babal	B-PLC
 semifinal	O
 .	O
 
-"	O
+`	O
 kongres	O
 belum	O
 berlangsung	O
@@ -123794,7 +123794,7 @@ tapi	O
 sudah	O
 selesai	O
 ,	O
-"	O
+`	O
 kata	O
 arbi	B-PPL
 saat	O
@@ -124133,7 +124133,7 @@ resmi	O
 instagram	B-IND
 .	O
 
-"	O
+`	O
 ini	O
 supaya	O
 ada	O
@@ -124325,7 +124325,7 @@ ke	O
 pemakaman	O
 .	O
 
-"	O
+`	O
 jadi	O
 ,	O
 jakarta	B-PLC
@@ -124342,7 +124342,7 @@ dki	B-PLC
 belum	O
 punya	O
 ,	O
-"	O
+`	O
 kata	O
 pasangan	O
 didik	B-PPL
@@ -124607,7 +124607,7 @@ budi	B-PPL
 tersebut	O
 .	O
 
-"	O
+`	O
 saya	O
 bangga	O
 karena	O
@@ -124638,7 +124638,7 @@ harus	O
 nonton	O
 ya	O
 ,	O
-"	O
+`	O
 ungkap	O
 iqbaal	B-PPL
 .	O
@@ -124684,7 +124684,7 @@ keseluruhan	O
 pertandingan	O
 .	O
 
-"	O
+`	O
 dugderan	O
 adalah	O
 tradisi	O
@@ -124702,7 +124702,7 @@ awal	O
 bulan	O
 puasa	O
 ,	O
-"	O
+`	O
 kata	O
 wali	O
 kota	O
@@ -124717,7 +124717,7 @@ selasa	O
 )	O
 .	O
 
-"	O
+`	O
 memang	O
 keluarga	O
 besar	O
@@ -124734,7 +124734,7 @@ membaca	O
 lagi	O
 esensi	O
 kontrak,	O
-"	O
+`	O
 kata	O
 priyo	B-PPL
 .	O
@@ -124769,7 +124769,7 @@ ancol	I-PLC
 jakarta	B-PLC
 .	O
 
-"	O
+`	O
 tidak	O
 usah	O
 khawatir	O
@@ -124785,7 +124785,7 @@ setiap-tiap	O
 kementerian	O
 berjalan	O
 ,	O
-"	O
+`	O
 dia	O
 tegaskan	O
 .	O
@@ -124978,7 +124978,7 @@ band	O
 ini	O
 .	O
 
-"	O
+`	O
 ada	O
 sejumlah	O
 orang	O
@@ -125012,11 +125012,11 @@ disitu	O
 isu	O
 reshuflle	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
-"	O
+`	O
 menurut	O
 wto	O
 ,	O
@@ -125036,7 +125036,7 @@ adil	O
 (	O
 less	O
 favourable),	O
-"	O
+`	O
 ujar	O
 iman	B-PPL
 .	O
@@ -125124,7 +125124,7 @@ dipikirkan	O
 orang	O
 .	O
 
-"	O
+`	O
 rentan	O
 terhadap	O
 kekerasan	O
@@ -125136,7 +125136,7 @@ mengakhiri	O
 hidup	O
 nya	O
 .	O
-"	O
+`	O
 
 kecelakaan	O
 ini	O
@@ -125434,7 +125434,7 @@ dmeasia	B-IND
 munkee@dmeasia.com	O
 0818612202	O
 
-"	O
+`	O
 saya	O
 yakin	O
 montenegro	B-PLC
@@ -125466,7 +125466,7 @@ dalam	O
 proses	O
 nya	O
 ,	O
-"	O
+`	O
 kata	O
 perdana	O
 menteri	O
@@ -125513,7 +125513,7 @@ the	B-IND
 challenge	I-IND
 .	O
 
-"	O
+`	O
 sby	B-PPL
 saya	O
 kira	O
@@ -125546,7 +125546,7 @@ umum	O
 partai	O
 politik	O
 ,	O
-"	O
+`	O
 kata	O
 anggota	O
 dewan	O
@@ -125575,7 +125575,7 @@ memiliki	O
 hikmah	O
 .	O
 
-"	O
+`	O
 saya	O
 enggak	O
 tahu	O
@@ -125585,7 +125585,7 @@ tahu	O
 soal	O
 itu	O
 ,	O
-"	O
+`	O
 jawab	O
 ruhut	B-PPL
 saat	O
@@ -125880,7 +125880,7 @@ berbuka	O
 puasa	O
 .	O
 
-"	O
+`	O
 ya	O
 ,	O
 ketimbang	O
@@ -125896,7 +125896,7 @@ anda	O
 sendiri	O
 yang	O
 ngomong,	O
-"	O
+`	O
 tutupnya	O
 .	O
 
@@ -126028,7 +126028,7 @@ memilih	O
 bungkam	O
 .	O
 
-"	O
+`	O
 tentu	O
 harus	O
 juga	O
@@ -126037,7 +126037,7 @@ keterangan	O
 wakil	O
 gubernur	O
 ,	O
-"	O
+`	O
 kata	O
 gamawan	B-PPL
 di	O
@@ -126064,9 +126064,9 @@ paregreg	O
 daerah	O
 wirabhumi	B-PLC
 seperti	O
-"	O
+`	O
 terlepas	O
-"	O
+`	O
 dari	O
 kontrol	O
 majapahit	O
@@ -127047,7 +127047,7 @@ dan	O
 lain-lain	O
 .	O
 
-"	O
+`	O
 saya	O
 mendukung	O
 semen	O
@@ -127070,7 +127070,7 @@ beberapa	O
 tahun	O
 silam	O
 ,	O
-"	O
+`	O
 ujar	O
 dahlan	B-PPL
 .	O
@@ -127126,7 +127126,7 @@ sebelum	O
 menyerangnya	O
 .	O
 
-"	O
+`	O
 kita	O
 di	O
 komisi	O
@@ -127148,7 +127148,7 @@ mohon	O
 dukungan	O
 dan	O
 sarannya,	O
-"	O
+`	O
 ujar	O
 anggota	O
 panja	O
@@ -127191,7 +127191,7 @@ nan	O
 cantik	O
 .	O
 
-"	O
+`	O
 kami	O
 memastikan	O
 3	O
@@ -127203,9 +127203,9 @@ dan	O
 orang	O
 terluka	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 pada	O
 makalah	O
 tambahan	O
@@ -127228,7 +127228,7 @@ diri	O
 di	O
 scotlandia	B-PLC
 .	O
-"	O
+`	O
 
 es teler	B-FNB
 adalah	O
@@ -127263,7 +127263,7 @@ lembar	O
 ktp	O
 .	O
 
-"	O
+`	O
 berita	O
 mengenai	O
 penemuan	O
@@ -127378,7 +127378,7 @@ asasi	O
 manusia	O
 .	O
 
-"	O
+`	O
 sebagai	O
 perekat	O
 ,	O
@@ -127386,7 +127386,7 @@ bu	O
 ani	B-PPL
 cocok	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -127413,7 +127413,7 @@ undangan	O
 yang	O
 hadir	O
 .	O
-"	O
+`	O
 masih	O
 ada	O
 waktu	O
@@ -127423,7 +127423,7 @@ saja	O
 masukan	O
 dikirim	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -127558,7 +127558,7 @@ akhir	O
 april	O
 2012	O
 
-"	O
+`	O
 kalau	O
 mau	O
 membuat	O
@@ -127586,7 +127586,7 @@ peredaran	O
 narkoba	O
 ditingkatkan	O
 ,	O
-"	O
+`	O
 dorongnya	O
 .	O
 
@@ -127784,7 +127784,7 @@ beberapa	O
 alasan	O
 .	O
 
-"	O
+`	O
 kasus	O
 agusrin	B-PPL
 semakin	O
@@ -127798,7 +127798,7 @@ demokrat	O
 semakin	O
 terpenjara	O
 ,	O
-"	O
+`	O
 ujar	O
 wakil	O
 ketua	O
@@ -127869,7 +127869,7 @@ dan	O
 cafjazz	O
 .	O
 
-"	O
+`	O
 memang	O
 ,	O
 keb-pplcayaan	O
@@ -127895,7 +127895,7 @@ yang	O
 lebih	O
 besar	O
 ,	O
-"	O
+`	O
 kata	O
 gillard	B-PPL
 .	O
@@ -127952,7 +127952,7 @@ pulau	B-PLC
 borneo	I-PLC
 .	O
 
-"	O
+`	O
 kalau	O
 itu	O
 ormas	O
@@ -127989,7 +127989,7 @@ dengan	O
 ormas	O
 nasdem	O
 ,	O
-"	O
+`	O
 katanya	O
 kepada	O
 wartawan	O
@@ -128075,7 +128075,7 @@ secara	O
 menyeluruh	O
 .	O
 
-"	O
+`	O
 prinsipnya	O
 tidak	O
 boleh	O
@@ -128095,7 +128095,7 @@ mereka	O
 perlu	O
 ditata	O
 ,	O
-"	O
+`	O
 lanjut	O
 didik	B-PPL
 .	O
@@ -128300,11 +128300,11 @@ surat	O
 kabar	O
 menyatakan	O
 :	O
-"	O
+`	O
 goldman	O
 sachs	O
 .	O
-"	O
+`	O
 
 puncak	O
 peringatan	O
@@ -128445,7 +128445,7 @@ marylin	B-PPL
 monroe	I-PPL
 .	O
 
-"	O
+`	O
 saya	O
 lepas	O
 jaket	O
@@ -128462,7 +128462,7 @@ selamat	O
 tinggal	O
 selamanya	O
 .	O
-"	O
+`	O
 
 ketua umum	O
 partai	O
@@ -128609,13 +128609,13 @@ tempat	O
 kejadian	O
 .	O
 
-"	O
+`	O
 situasi	O
 di	O
 lapangan	O
 terus	O
 memburuk,	O
-"	O
+`	O
 tambahnya	O
 .	O
 
@@ -128663,7 +128663,7 @@ kivlan	B-PPL
 zein	I-PPL
 .	O
 
-"	O
+`	O
 saya	O
 tahu	O
 beberapa	O
@@ -128688,7 +128688,7 @@ kita	O
 tak	O
 tahu	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -128756,7 +128756,7 @@ itu	O
 )	O
 .	O
 
-"	O
+`	O
 pks	O
 bilang	O
 kaya	O
@@ -128767,7 +128767,7 @@ juga	O
 harus	O
 siap	O
 ,	O
-"	O
+`	O
 tandasnya	O
 .	O
 
@@ -128942,7 +128942,7 @@ untuk	O
 pensiun	O
 .	O
 
-"	O
+`	O
 ppp	O
 tidak	O
 dalam	O
@@ -128963,7 +128963,7 @@ pimpinan	O
 semalam	O
 hasilnya	O
 demikian,	O
-"	O
+`	O
 kata	O
 sekretaris	O
 jenderal	O
@@ -129238,12 +129238,12 @@ mengikuti	O
 reuni	B-EVT
 akbar	I-EVT
 bertajuk	O
-"	O
+`	O
 reinventing	B-EVT
 lima	I-EVT
 expo	I-EVT
 2017	I-EVT
-"	O
+`	O
 di	O
 kampus	B-PLC
 sman	B-PLC
@@ -129311,7 +129311,7 @@ amerika	B-PLC
 serikat	I-PLC
 .	O
 
-"	O
+`	O
 kita	O
 perlu	O
 pelihara	O
@@ -129328,7 +129328,7 @@ di	O
 masa	O
 depan	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -129903,7 +129903,7 @@ tahun	O
 ini	O
 .	O
 
-"	O
+`	O
 saya	O
 telah	O
 melihat	O
@@ -129917,7 +129917,7 @@ untuk	O
 bunuh	O
 diri	O
 ,	O
-"	O
+`	O
 dia	O
 menyatakan	O
 .	O
@@ -130207,7 +130207,7 @@ harga	O
 bbm	O
 naik	O
 .	O
-"	O
+`	O
 sementara	O
 ogram	O
 blsm	O
@@ -130226,7 +130226,7 @@ sampai	O
 bbm	O
 naik	O
 ,	O
-"	O
+`	O
 yakinnya	O
 .	O
 
@@ -130259,7 +130259,7 @@ per	O
 dekade	O
 .	O
 
-"	O
+`	O
 aparat	O
 kepolisian	O
 adalah	O
@@ -130286,7 +130286,7 @@ di	O
 menko	O
 polhukam	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -130587,7 +130587,7 @@ di	O
 hanoi	B-PLC
 .	O
 
-"	O
+`	O
 saya	O
 berterima kasih	O
 kepada	O
@@ -130634,7 +130634,7 @@ kepada	O
 keluarga	O
 saya	O
 .	O
-"	O
+`	O
 
 lagu	O
 secara	O
@@ -130736,7 +130736,7 @@ berusia	O
 tahun	O
 .	O
 
-"	O
+`	O
 keputusan	O
 presiden	O
 tersebut	O
@@ -130759,7 +130759,7 @@ kebijakan	O
 presiden	O
 jokowi	B-PPL
 ,	O
-"	O
+`	O
 kata	O
 ahmad	B-PPL
 basarah	I-PPL
@@ -130838,7 +130838,7 @@ tahun	O
 .	O
 
 ,	O
-"	O
+`	O
 ujar	O
 presiden	O
 pks	O
@@ -130966,7 +130966,7 @@ waktu	O
 dekat	O
 .	O
 
-"	O
+`	O
 sikap	O
 dan	O
 pendirian	O
@@ -130989,7 +130989,7 @@ cukup	O
 dua	O
 periode	O
 ,	O
-"	O
+`	O
 kata	O
 anas	B-PPL
 dalam	O
@@ -131008,7 +131008,7 @@ rabu	O
 
 bleacherreport.com	B-IND
 
-"	O
+`	O
 ia	O
 mulai	O
 tertidur	O
@@ -131030,7 +131030,7 @@ pasir	O
 di	O
 kilometer	O
 3,600.00	O
-"	O
+`	O
 terang	O
 rikwanto	B-PPL
 .	O
@@ -131161,13 +131161,13 @@ selain itu	O
 ,	O
 diselenggarakan	O
 acara	O
-"	O
+`	O
 new	B-PLC
 asia	B-PLC
 africa	O
 youth	O
 conference	O
-"	O
+`	O
 yang	O
 dihadiri	O
 oleh	O
@@ -131341,7 +131341,7 @@ pemberantasan	O
 korupsi	O
 .	O
 
-"	O
+`	O
 nota	O
 kesepakatan	O
 itu	O
@@ -131351,7 +131351,7 @@ pimpinan	O
 partai	O
 politik	O
 ,	O
-"	O
+`	O
 kata	O
 yudhoyono	B-PPL
 .	O
@@ -131435,7 +131435,7 @@ ini	O
 berkembang	O
 .	O
 
-"	O
+`	O
 saya	O
 sangat	O
 menikmati	O
@@ -131451,7 +131451,7 @@ untuk	O
 musim	O
 berikutnya	O
 .	O
-"	O
+`	O
 
 warga	O
 tidak	O
@@ -131471,7 +131471,7 @@ dari	O
 beritasatu.com	B-IND
 .	O
 
-"	O
+`	O
 benar	O
 ,	O
 jaksa	O
@@ -131484,7 +131484,7 @@ pagi	O
 keputusannya	O
 )	O
 ,	O
-"	O
+`	O
 kata	O
 andi	B-PPL
 kepada	O
@@ -131538,7 +131538,7 @@ coupe	O
 tersebut	O
 .	O
 
-"	O
+`	O
 pameran	B-EVT
 batik	I-EVT
 yang	O
@@ -131597,7 +131597,7 @@ oleh	O
 penonton	O
 .	O
 
-"	O
+`	O
 telah	O
 berob-pplasional	O
 pada	O
@@ -131629,12 +131629,12 @@ prioritas	O
 bank	B-IND
 bri	I-IND
 ,	O
-"	O
+`	O
 papar	O
 ali	B-PPL
 .	O
 
-"	O
+`	O
 kuda	O
 memang	O
 butuh	O
@@ -131669,11 +131669,11 @@ lebih	O
 memberi	O
 keuntungan	O
 ,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
-"	O
+`	O
 sejauh	O
 ini	O
 tidak	O
@@ -131686,7 +131686,7 @@ partai	O
 yaitu	O
 munaslub	O
 ,	O
-"	O
+`	O
 ujar	O
 ahmad	B-PPL
 .	O
@@ -132600,7 +132600,7 @@ volume	O
 lebih	O
 banyak	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -132684,7 +132684,7 @@ masalah	O
 tersebut	O
 .	O
 
-"	O
+`	O
 tapi	O
 ,	O
 sebelum	O
@@ -132720,7 +132720,7 @@ tidak	O
 lolos	O
 verifikasi	O
 ,	O
-"	O
+`	O
 tukas	O
 marwan	B-PPL
 .	O
@@ -132903,10 +132903,10 @@ juga	O
 diisi	O
 dengan	O
 acara	O
-"	O
+`	O
 asian-african	B-PPL
 carnaval	I-PPL
-"	O
+`	O
 ,	O
 di mana	O
 karnaval	O
@@ -133211,7 +133211,7 @@ yang	O
 mengutip	O
 laman	O
 mengatakan	O
-"	O
+`	O
 wikimedia	B-IND
 versi	O
 bahasa	O
@@ -133219,7 +133219,7 @@ china	B-PLC
 tidak	O
 diblok	O
 .	O
-"	O
+`	O
 
 bukan hanya	O
 itu	O
@@ -133273,11 +133273,11 @@ wib	O
 )	O
 .	O
 
-"	O
+`	O
 kami	O
 terkejut	O
 ,	O
-"	O
+`	O
 kata	O
 didi	B-PPL
 dalam	O
@@ -133333,7 +133333,7 @@ market	O
 museum	O
 .	O
 
-"	O
+`	O
 karena	O
 itu	O
 ,	O
@@ -133346,7 +133346,7 @@ tidak	O
 ada	O
 gangguan	O
 suara,	O
-"	O
+`	O
 papar	O
 bachtiar	B-PPL
 disela	O
@@ -133451,7 +133451,7 @@ tapi	O
 malah	O
 dia	O
 berkata	O
-"	O
+`	O
 penonton	O
 semua	O
 ,	O
@@ -133472,7 +133472,7 @@ bisa	O
 lagi	O
 meneruskan	O
 .	O
-"	O
+`	O
 
 java	O
 karam	O
@@ -133552,9 +133552,9 @@ mengatakan	O
 ,	O
 partainya	O
 sengaja	O
-"	O
+`	O
 menjual	O
-"	O
+`	O
 kejayaan	O
 orde baru	O
 di	O
@@ -133563,7 +133563,7 @@ kepemimpinan	O
 soeharto	B-PPL
 .	O
 
-"	O
+`	O
 biar	O
 pks	O
 yang	O
@@ -133572,7 +133572,7 @@ mikir	O
 jangan	O
 saya	O
 dong,	O
-"	O
+`	O
 terangnya	O
 .	O
 
@@ -133643,7 +133643,7 @@ mandushev	B-PPL
 terus	O
 mengatakan	O
 ,	O
-"	O
+`	O
 karena	O
 planet	O
 cukup	O
@@ -133662,7 +133662,7 @@ ekor	O
 menyerupai	O
 komet	O
 .	O
-"	O
+`	O
 
 menurut	O
 irgan	B-PPL
@@ -133708,7 +133708,7 @@ pergerakan	O
 matahari	O
 .	O
 
-"	O
+`	O
 oyek	O
 10	O
 megawatt	O
@@ -133735,7 +133735,7 @@ masih	O
 pakai	O
 bbm	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -133908,7 +133908,7 @@ botol	O
 anggur	O
 .	O
 
-"	O
+`	O
 saya	O
 berharap	O
 pemerintah	O
@@ -133939,7 +133939,7 @@ munas	B-EVT
 rekonsiliasi	I-EVT
 .	O
 
-"	O
+`	O
 bukan	O
 tidak	O
 mungkin	O
@@ -133970,7 +133970,7 @@ bisnis	O
 asing	O
 lainnya	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -134031,7 +134031,7 @@ bisa	O
 mencairkan	O
 kepadatan	O
 .	O
-"	O
+`	O
 sudah	O
 ada	O
 petugas	O
@@ -134041,7 +134041,7 @@ gak	O
 bisa	O
 menolong	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -134174,7 +134174,7 @@ mengambil	O
 keputusan	O
 .	O
 
-"	O
+`	O
 kami	O
 ingin	O
 mempercepat	O
@@ -134188,7 +134188,7 @@ peringatan	O
 secara	O
 tepat	O
 ,	O
-"	O
+`	O
 ujar	O
 nya	O
 seperti	O
@@ -134196,7 +134196,7 @@ dikutip	O
 ap	O
 .	O
 
-"	O
+`	O
 sebaiknya	O
 yang	O
 ganti	O
@@ -134209,7 +134209,7 @@ cari	O
 yang	O
 profesional	O
 saja,	O
-"	O
+`	O
 jelas	O
 ical	B-PPL
 di	O
@@ -134334,7 +134334,7 @@ thaksin	B-PPL
 shinawatra	I-PPL
 .	O
 
-"	O
+`	O
 kalau	O
 tahu	O
 pasar	B-PLC
@@ -134358,7 +134358,7 @@ wali	O
 kota	O
 saat	O
 pilkada,	O
-"	O
+`	O
 ujar	O
 tugiran	B-PPL
 ,	O
@@ -134648,7 +134648,7 @@ kepada	O
 beritagar	B-IND
 .	I-IND
 
-"'	O
+`'	O
 johnson	B-IND
 &	O
 amp	O
@@ -134673,7 +134673,7 @@ jackie	B-PPL
 fox	I-PPL
 .	O
 
-"	O
+`	O
 denny	B-PPL
 ini	O
 wamen	O
@@ -134693,7 +134693,7 @@ saya	O
 bela	O
 denny	B-PPL
 ,	O
-"	O
+`	O
 tegas	O
 amir	B-PPL
 di	O
@@ -134776,11 +134776,11 @@ fest	O
 akan	O
 mengangkat	O
 tema	O
-"	O
+`	O
 under	O
 the	B-IND
 sea	O
-"	O
+`	O
 yang	O
 akan	O
 dilaksanakan	O
@@ -134970,7 +134970,7 @@ cinta	I-IND
 kasih	I-IND
 .	O
 
-"	O
+`	O
 jadi	O
 sebetulnya	O
 sudah	O
@@ -134979,7 +134979,7 @@ kesimpulkan	O
 tidak	O
 perlu	O
 dikatakan,	O
-"	O
+`	O
 papar	O
 politisi	O
 senior	O
@@ -135029,7 +135029,7 @@ balik	O
 penjara	O
 .	O
 
-"	O
+`	O
 tidak	O
 benar	O
 ,	O
@@ -135053,7 +135053,7 @@ ini	O
 tampang	O
 suka	O
 nampar,	O
-"	O
+`	O
 tutur	O
 denny	B-PPL
 kepada	O
@@ -135062,7 +135062,7 @@ di	O
 kantornya	O
 .	O
 
-"	O
+`	O
 hasil	O
 analisa	O
 dari	O
@@ -135077,7 +135077,7 @@ atau	O
 pada	O
 akhir	O
 april,	O
-"	O
+`	O
 kata	O
 sekretaris	O
 lembaga	O
@@ -135176,7 +135176,7 @@ yang	O
 berperan	O
 tetapi	O
 mengeluh	O
-"	O
+`	O
 masalah	O
 utama	O
 nya	O
@@ -135190,7 +135190,7 @@ menyimpan	O
 data	O
 nya	O
 .	O
-"	O
+`	O
 
 lebih	O
 dari	O
@@ -135244,7 +135244,7 @@ ke	O
 depan	O
 .	O
 
-"	O
+`	O
 kita	O
 akan	O
 segera	O
@@ -135255,7 +135255,7 @@ wamenkum	O
 dan	O
 bnn	O
 ,	O
-"	O
+`	O
 kata	O
 ridha	B-PPL
 .	O
@@ -135378,7 +135378,7 @@ bahwa	O
 dia	O
 .	O
 .	O
-"	O
+`	O
 tidak	O
 pernah	O
 diperlakukan	O
@@ -135390,7 +135390,7 @@ sebelumnya	O
 .	O
 .	O
 .	O
-"	O
+`	O
 
 rencananya	O
 ,	O
@@ -135549,14 +135549,14 @@ gedung	O
 yang	O
 diserang	O
 adalah	O
-"	O
+`	O
 bukan	O
 sebuah	O
 gedung	O
 konsulat	O
 maupun	O
 pemerintah	O
-"	O
+`	O
 ,	O
 yang	O
 sepertinya	O
@@ -135668,7 +135668,7 @@ daftar	O
 undangan	O
 .	O
 
-"	O
+`	O
 masyarakat	O
 internasional	O
 tetap	O
@@ -135689,7 +135689,7 @@ selama	O
 puluhan	O
 tahun	O
 .	O
-"	O
+`	O
 
 tepat	O
 di	O
@@ -136182,7 +136182,7 @@ monica	I-PLC
 california	B-PLC
 .	O
 
-"	O
+`	O
 nanti	O
 ke	O
 depan	O
@@ -136204,7 +136204,7 @@ menikmatinya	O
 hari	O
 ini	O
 ,	O
-"	O
+`	O
 ucap	O
 dia	O
 .	O
@@ -136394,13 +136394,13 @@ indonesia	I-IND
 )	O
 .	O
 
-"	O
+`	O
 saya	O
 keberatan	O
 yang	O
 mulia	O
 ,	O
-"	O
+`	O
 ujar	O
 neneng	B-PPL
 ,	O
@@ -136448,7 +136448,7 @@ dipukul	O
 rahmad	B-PPL
 .	O
 
-"	O
+`	O
 setelah	O
 diperiksa	O
 nanti	O
@@ -136461,7 +136461,7 @@ penyebab	O
 kecelakaan	O
 itu	O
 apa,	O
-"	O
+`	O
 tandas	O
 sigit	B-PPL
 .	O
@@ -136833,7 +136833,7 @@ rajasthan	B-PLC
 india	B-PLC
 .	O
 
-"	O
+`	O
 ketika	O
 pekerja	O
 membuka	O
@@ -136849,9 +136849,9 @@ oleh	O
 debu	O
 aluminium	O
 .	O
-"	O
+`	O
 
-"	O
+`	O
 saya	O
 terlibat	O
 langsung	O
@@ -136872,7 +136872,7 @@ bicara	O
 soal	O
 itu	O
 ,	O
-"	O
+`	O
 tukasnya	O
 .	O
 
@@ -136924,7 +136924,7 @@ masyarakat	O
 miskin	O
 .	O
 
-"	O
+`	O
 kami	O
 menyatakan	O
 kepastian	O
@@ -136948,7 +136948,7 @@ utama	O
 dream	O
 theater	O
 .	O
-"	O
+`	O
 
 es	B-FNB
 santan	I-FNB
@@ -137165,7 +137165,7 @@ area	O
 pantai	O
 .	O
 
-"	O
+`	O
 urusan-urusan	O
 seperti	O
 itu	O
@@ -137176,7 +137176,7 @@ diputuskan	O
 oleh	O
 pengurus pusat	O
 ,	O
-"	O
+`	O
 kata	O
 zulkifli	B-PPL
 .	O
@@ -137234,7 +137234,7 @@ tahun	O
 2005-2006	O
 .	O
 
-"	O
+`	O
 ini	O
 sangat	O
 berkaitan	O
@@ -137248,7 +137248,7 @@ jasa	O
 keuangan	O
 itu	O
 ,	O
-"	O
+`	O
 ujar	O
 dia	O
 .	O
@@ -137662,7 +137662,7 @@ di	O
 jakarta	B-PLC
 .	O
 
-"	O
+`	O
 kalau	O
 presiden	O
 sampai	O
@@ -137686,7 +137686,7 @@ tidak	O
 meledak	O
 -	O
 ledak,	O
-"	O
+`	O
 ucap	O
 tifatul	B-PPL
 .	O
@@ -137730,7 +137730,7 @@ paling	O
 akhir	O
 .	O
 
-"	O
+`	O
 jadi	O
 bagi	O
 saya	O
@@ -137750,7 +137750,7 @@ mulai	O
 menyerukan	O
 kebenaran	O
 ,	O
-"	O
+`	O
 kata	O
 nya	O
 .	O
@@ -137812,7 +137812,7 @@ pernyataan	O
 tertulis	O
 nya	O
 ,	O
-"	O
+`	O
 merupakan	O
 pencapaian	O
 fantastis	O
@@ -137828,7 +137828,7 @@ paralimpik	O
 kelas	O
 dunia	O
 .	O
-"	O
+`	O
 
 gol	O
 tunggal	O
@@ -137853,7 +137853,7 @@ mu	B-IND
 )	O
 .	O
 
-"	O
+`	O
 saya	O
 belum	O
 bisa	O
@@ -137881,7 +137881,7 @@ memilih	O
 saya	O
 gimana	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -138129,7 +138129,7 @@ klub	O
 calderwood	B-PPL
 membalas	O
 :	O
-"	O
+`	O
 saya	O
 akan	O
 melihat	O
@@ -138137,7 +138137,7 @@ ada	O
 ide	O
 apa	O
 .	O
-"	O
+`	O
 
 wali	O
 kota	O
@@ -138298,18 +138298,18 @@ di	O
 dalam	O
 nya	O
 seperti	O
-"	O
+`	O
 long	B-IND
 time	I-IND
-"	O
+`	O
 dan	O
-"	O
+`	O
 more	B-IND
 than	I-IND
 a	I-IND
 feeling	I-IND
 .	O
-"	O
+`	O
 
 lewis	B-PPL
 hamilton	I-PPL
@@ -138361,7 +138361,7 @@ partai	O
 golkar	O
 .	O
 
-"	O
+`	O
 sekitar	O
 pukul	O
 3	O
@@ -138383,7 +138383,7 @@ bahwa	O
 wamen	O
 datang	O
 ,	O
-"	O
+`	O
 ungkap	O
 warga	O
 tanjung	B-PLC
@@ -138500,7 +138500,7 @@ partai	O
 politik	O
 .	O
 
-"	O
+`	O
 anda	O
 juga	O
 membayar	O
@@ -138516,7 +138516,7 @@ terbakar	O
 atau	O
 tidak	O
 .	O
-"	O
+`	O
 
 dalam	O
 kesempatan	O
@@ -138676,7 +138676,7 @@ diakses	O
 nsa	B-IND
 .	O
 
-"	O
+`	O
 hal	O
 itu	O
 urusan	O
@@ -138693,7 +138693,7 @@ membantu	O
 presiden	O
 sby	B-PPL
 sepenuhnya	O
-"	O
+`	O
 jelas	O
 salim	B-PPL
 saat	O
@@ -138782,7 +138782,7 @@ geneva	B-PLC
 ,	O
 swi	B-PLC
 
-"	O
+`	O
 biskuit	B-FNB
 biasanya	O
 mengandung	O
@@ -138801,7 +138801,7 @@ baik	O
 di	O
 dalamnya	O
 ,	O
-"	O
+`	O
 kata	O
 susie	B-PPL
 .	O
@@ -138944,7 +138944,7 @@ bumbu	B-FNB
 kecap	I-FNB
 .	O
 
-"	O
+`	O
 ada	O
 salah satu	O
 menteri	O
@@ -138957,7 +138957,7 @@ tahu	O
 isinya	O
 apa	O
 ,	O
-"	O
+`	O
 jelasnya	O
 .	O
 
@@ -139040,12 +139040,12 @@ turut	O
 pula	O
 menghadirkan	O
 kegiatan	O
-"	O
+`	O
 art	O
 &	O
 sensory	B-PPL
 festivity	I-PPL
-"	O
+`	O
 hasil	O
 kerjasama	O
 antara	O
@@ -139452,7 +139452,7 @@ dari	O
 spanyol	B-PLC
 .	O
 
-"	O
+`	O
 kalau	O
 itu	O
 dikomunikasikan	O
@@ -139494,7 +139494,7 @@ maupun	O
 non	O
 struktural	O
 ,	O
-"	O
+`	O
 kata	O
 hajriyanto	B-PPL
 di	O
@@ -139535,7 +139535,7 @@ di	O
 beijing	B-PLC
 .	O
 
-"'	O
+`'	O
 bank	B-IND
 indonesia	I-IND
 merilis	O
@@ -139550,7 +139550,7 @@ uln	O
 indonesia	B-PLC
 .	O
 
-"	O
+`	O
 para	O
 menteri	O
 belum	O
@@ -139576,7 +139576,7 @@ sby	B-PPL
 belum	O
 jelaskan	O
 kok,	O
-"	O
+`	O
 jawab	O
 mahfudz	B-PPL
 saat	O
@@ -139720,11 +139720,11 @@ bahwa	O
 bumi	O
 sedang	O
 mengalami	O
-"	O
+`	O
 kepunahan	O
 keenam	O
 .	O
-"	O
+`	O
 
 piala	B-EVT
 presiden	I-EVT
@@ -139857,7 +139857,7 @@ kuliner	O
 internasional	O
 .	O
 
-"	O
+`	O
 selama	O
 ini	O
 memang	O
@@ -139879,7 +139879,7 @@ komunikasi	O
 -	O
 komunikasi	O
 saja,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -139927,7 +139927,7 @@ dijadikan	O
 uu	O
 .	O
 
-"	O
+`	O
 (	O
 saif	B-PPL
 al	I-PPL
@@ -139945,7 +139945,7 @@ ditahan	O
 di	O
 libia	B-PLC
 ,	O
-"	O
+`	O
 kata	O
 xaiver	B-PPL
 -	O
@@ -139967,7 +139967,7 @@ surat	O
 elektronik	O
 .	O
 
-"	O
+`	O
 sebaiknya	O
 semua	O
 pihak	O
@@ -139975,7 +139975,7 @@ sedapat	O
 mungkin	O
 menahan	O
 diri,	O
-"	O
+`	O
 kata	O
 amir	B-PPL
 saat	O
@@ -140498,7 +140498,7 @@ demna	B-PPL
 gvasalia	I-PPL
 .	O
 
-"	O
+`	O
 forum	O
 ini	O
 adalah	O
@@ -140514,7 +140514,7 @@ mereka	O
 jadi	O
 bahan	O
 pertimbangan,	O
-"	O
+`	O
 jelas	O
 lutfi	B-PPL
 .	O
@@ -140857,12 +140857,12 @@ pdi	O
 perjuangan	O
 .	O
 
-"	O
+`	O
 penembak	O
 nya	O
 telah	O
 ditahan	O
-"	O
+`	O
 juru	O
 bicara	O
 universitas	O
@@ -141166,7 +141166,7 @@ dekat	O
 nya	O
 .	O
 
-"	O
+`	O
 hingga	O
 10	O
 april	O
@@ -141195,7 +141195,7 @@ telah	O
 habis	O
 dipesan	O
 ,	O
-"	O
+`	O
 kata	O
 wakil	O
 kepala	O
@@ -141214,7 +141214,7 @@ mengatakan	O
 tentang	O
 paus	B-PPL
 :	O
-"	O
+`	O
 saya	O
 pikir	O
 dia	O
@@ -141225,7 +141225,7 @@ memang	O
 harus	O
 dilakukan	O
 .	O
-"	O
+`	O
 
 tas	O
 berwarna	O
@@ -141363,7 +141363,7 @@ para	O
 undangan	O
 .	O
 
-"	O
+`	O
 dalam	O
 proses	O
 ,	O
@@ -141378,7 +141378,7 @@ mengambang	O
 di	O
 udara	O
 .	O
-"	O
+`	O
 
 salah satu	O
 temuan	O
@@ -141429,7 +141429,7 @@ triliun	O
 
 ditambahkannya	O
 ,	O
-"	O
+`	O
 ketika	O
 saya	O
 ingin	O
@@ -141452,7 +141452,7 @@ dilantik	O
 jauh	O
 lebih	O
 siap	O
-"	O
+`	O
 .	O
 
 kami	O
@@ -141464,7 +141464,7 @@ menghadapi	O
 persekongkolan	O
 musuh	O
 ,	O
-"	O
+`	O
 katanya	O
 dalam	O
 pidato	O
@@ -141573,7 +141573,7 @@ edisi	I-EVT
 desember	I-EVT
 2017	I-EVT
 
-"	O
+`	O
 rencananya	O
 atau	O
 dijadwalkan	O
@@ -141602,9 +141602,9 @@ di	O
 gedung	B-PLC
 sabuga	O
 ,	O
-"	O
+`	O
 
-"	O
+`	O
 saya	O
 senang	O
 sekali	O
@@ -141634,7 +141634,7 @@ dari	O
 asia	B-PLC
 tenggara	I-PLC
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -141674,7 +141674,7 @@ badmintonindonesia.org	B-IND
 )	O
 .	O
 
-"	O
+`	O
 dalam	O
 sikap	O
 dan	O
@@ -141692,7 +141692,7 @@ solid	O
 dan	O
 yakin	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -141715,7 +141715,7 @@ kasus	O
 tersebut	O
 .	O
 
-"	O
+`	O
 baru	O
 kali	O
 ini	O
@@ -141735,7 +141735,7 @@ tangerang	B-PLC
 nggak	O
 begitu	O
 ,	O
-"	O
+`	O
 kata	O
 denny	B-PPL
 di	O
@@ -142015,7 +142015,7 @@ bawah	O
 10	O
 persen	O
 ,	O
-"	O
+`	O
 paparnya	O
 .	O
 (	O
@@ -142109,7 +142109,7 @@ akan	O
 dipilih	O
 .	O
 
-"	O
+`	O
 kalau	O
 peraturan	O
 dibuat	O
@@ -142123,7 +142123,7 @@ hanya	O
 heboh	O
 sesaat	O
 ,	O
-"	O
+`	O
 imbuhnya	O
 .	O
 
@@ -142146,7 +142146,7 @@ kementerian	O
 pendidikan	O
 .	O
 
-"	O
+`	O
 pak	O
 suhardi	B-PPL
 berpantang	O
@@ -142166,7 +142166,7 @@ terbuat	O
 dari	O
 gandum	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 tanpa	O
@@ -142366,7 +142366,7 @@ getaran	O
 kecil	O
 .	O
 
-"	O
+`	O
 kami	O
 bersyukur	O
 para	O
@@ -142382,7 +142382,7 @@ fokus	O
 memenangkan	O
 pemilu	B-EVT
 ,	O
-"	O
+`	O
 pungkasnya	O
 .	O
 
@@ -142527,7 +142527,7 @@ politik	O
 yang	O
 serius	O
 .	O
-"	O
+`	O
 mari	O
 kita	O
 hentikan	O
@@ -142538,7 +142538,7 @@ dialog	O
 politik	O
 yang	O
 serius,	O
-"	O
+`	O
 tegasnya	O
 .	O
 
@@ -142580,7 +142580,7 @@ nirwanto	I-PPL
 www.	O
 beinsports.com	B-IND
 
-"	O
+`	O
 impian	O
 kita	O
 sama	O
@@ -142613,7 +142613,7 @@ bangsa	O
 siapa pun	O
 itu	O
 ,	O
-"	O
+`	O
 ujar	O
 wapres	O
 boediono	B-PPL
@@ -142955,7 +142955,7 @@ tahun	O
 terakhir	O
 ini	O
 .	O
-"	O
+`	O
 indonesia	B-PLC
 sukses	O
 dalam	O
@@ -142969,7 +142969,7 @@ belajar	O
 dari	O
 indonesia	B-PLC
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -142999,9 +142999,9 @@ sby	B-PPL
 dan	O
 pd	O
 jangan	O
-"	O
+`	O
 ngrecoki	O
-"	O
+`	O
 jokowi	B-PPL
 .	O
 
@@ -143057,7 +143057,7 @@ sejak	O
 2012	O
 .	O
 
-"	O
+`	O
 selama	O
 ini	O
 mereka	O
@@ -143083,7 +143083,7 @@ mengelola	O
 sentra	O
 bisnis	O
 baru,	O
-"	O
+`	O
 kata	O
 mantan	O
 ketua	O
@@ -143516,7 +143516,7 @@ c&ed	O
 )	O
 .	O
 
-"	O
+`	O
 meskipun	O
 kami	O
 sedih	O
@@ -143538,7 +143538,7 @@ negara	O
 dan	O
 agama	O
 .	O
-"	O
+`	O
 
 warung	O
 ini	O
@@ -143747,7 +143747,7 @@ yandri	B-PPL
 susanto	I-PPL
 .	O
 
-"	O
+`	O
 kami	O
 yakin	O
 sejak	O
@@ -143758,7 +143758,7 @@ akan	O
 meninggalkan	O
 demokrat	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -143909,7 +143909,7 @@ terjadi	O
 saat	O
 sore	O
 .	O
-"	O
+`	O
 antrian	O
 biasanya	O
 di	O
@@ -143926,7 +143926,7 @@ loket	O
 itu	O
 sudah	O
 maksimal,	O
-"	O
+`	O
 tambahnya	O
 .	O
 
@@ -144198,7 +144198,7 @@ yang	O
 dirahasiakan	O
 .	O
 
-"	O
+`	O
 ditangkap	O
 kemarin	O
 di	O
@@ -144213,7 +144213,7 @@ prima	I-PPL
 putra	I-PPL
 tuanany	I-PPL
 ,	O
-"	O
+`	O
 kata	O
 kapolres	O
 jakarta	B-PLC
@@ -144445,7 +144445,7 @@ pimpinan	O
 mpr	O
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 ingin	O
@@ -144457,7 +144457,7 @@ pertandingan	O
 seperti	O
 ini	O
 .	O
-"	O
+`	O
 
 suku	O
 sasak	O
@@ -144477,7 +144477,7 @@ bau	O
 nyale	O
 .	O
 
-"	O
+`	O
 luas	O
 lahan	O
 yang	O
@@ -144496,7 +144496,7 @@ rp5	O
 juta	O
 per	O
 meter,	O
-"	O
+`	O
 sebutnya	O
 .	O
 (	O
@@ -144624,7 +144624,7 @@ kedaulatan	O
 indonesia	B-PLC
 .	O
 
-"	O
+`	O
 semua	O
 itu	O
 yang	O
@@ -144636,7 +144636,7 @@ daerah	O
 bukan	O
 kementerian	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -144669,7 +144669,7 @@ bakti	O
 2014-2019	O
 .	O
 
-"	O
+`	O
 kalau	O
 ada	O
 masyarakat	O
@@ -144681,7 +144681,7 @@ konstitusi	O
 ya	O
 silahkan	O
 saja,	O
-"	O
+`	O
 ujarnya	O
 .	O
 (	O
@@ -144906,9 +144906,9 @@ yang	O
 buruk	O
 .	O
 
-"	O
+`	O
 belum,	O
-"	O
+`	O
 ucap	O
 ketua	O
 harian	O
@@ -145233,7 +145233,7 @@ budi	I-PPL
 santoso	I-PPL
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 ingin	O
@@ -145298,12 +145298,12 @@ digambarkan	O
 sebagai	O
 sensor	O
 yang	O
-"	O
+`	O
 termotivasi	O
 secara	O
 politik	O
 .	O
-"	O
+`	O
 
 ia	O
 menekankan	O
@@ -145419,7 +145419,7 @@ jusuf	B-PPL
 kalla	I-PPL
 .	O
 
-"	O
+`	O
 pastinya	O
 tak	O
 jauh	O
@@ -145428,7 +145428,7 @@ keluarga	O
 -	O
 lah	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -145563,7 +145563,7 @@ hilang	I-IND
 berganti	I-IND
 .	O
 
-"	O
+`	O
 apakah	O
 salah	O
 atau	O
@@ -145605,11 +145605,11 @@ dalam	O
 mengabulkan	O
 permohonan	O
 ,	O
-"	O
+`	O
 tambahnya	O
 .	O
 
-"	O
+`	O
 saya	O
 akan	O
 minta	O
@@ -145630,7 +145630,7 @@ dan	O
 disidangkan	O
 di	O
 pengadilan,	O
-"	O
+`	O
 jelas	O
 bambang	B-PPL
 .	O
@@ -145787,7 +145787,7 @@ tradisional	O
 cina	O
 .	O
 
-"	O
+`	O
 oh	O
 ,	O
 ternyata	O
@@ -145832,7 +145832,7 @@ pada	O
 kebijakan	O
 turunannya	O
 ,	O
-"	O
+`	O
 tutur	O
 effendi	B-PPL
 .	O
@@ -145877,7 +145877,7 @@ tangan	O
 israel	B-PLC
 .	O
 
-"	O
+`	O
 kontrol	O
 rusia	B-PLC
 terhadap	O
@@ -145898,7 +145898,7 @@ menyelesaikan	O
 konflik	O
 ini	O
 ,	O
-"	O
+`	O
 kata	O
 voronin	B-PPL
 menambahkan	O
@@ -145948,9 +145948,9 @@ sebelumnya	O
 masyarakat	O
 dengan	O
 tingkat	O
-"	O
+`	O
 melek	O
-"	O
+`	O
 atau	O
 literasi	O
 keuangan	O
@@ -146219,7 +146219,7 @@ a	I-IND
 boo	I-IND
 .	O
 
-"	O
+`	O
 kalau	O
 soal	O
 b-pplombakan	O
@@ -146228,7 +146228,7 @@ itu	O
 otoritatif	O
 presiden	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -146363,7 +146363,7 @@ buru	O
 red	O
 )	O
 ya,	O
-"	O
+`	O
 tambahnya	O
 .	O
 
@@ -146658,7 +146658,7 @@ mahasiswa	O
 itu	O
 .	O
 
-"	O
+`	O
 kami	O
 melihat	O
 piala	O
@@ -146683,7 +146683,7 @@ ini	O
 besar	O
 sekali	O
 ,	O
-"	O
+`	O
 kata	O
 managing	B-PPL
 director	I-PPL
@@ -146860,10 +146860,10 @@ menanggapinya	O
 ,	O
 termasuk	O
 rencana	O
-"	O
+`	O
 malaikat	O
 pelindung	O
-"	O
+`	O
 ,	O
 seorang	O
 prajurit	O
@@ -146878,7 +146878,7 @@ saat	O
 tidur	O
 .	O
 
-"	O
+`	O
 namun	O
 hal	O
 demikian	O
@@ -146900,11 +146900,11 @@ yang	O
 disengaja	O
 oleh	O
 alfi	B-PPL
-"	O
+`	O
 katanya	O
 .	O
 
-"	O
+`	O
 jangan	O
 pernah	O
 pudar	O
@@ -146920,7 +146920,7 @@ kita	O
 amanah	O
 reformasi	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -147196,9 +147196,9 @@ pesisir	O
 timur	O
 dan	O
 wilayah	O
-"	O
+`	O
 boswas	B-PLC
-"	O
+`	O
 ,	O
 karena	O
 hujan	O
@@ -147440,7 +147440,7 @@ psikiatri	O
 inggris	B-PLC
 .	O
 
-"	O
+`	O
 acaranya	O
 sederhana	O
 ,	O
@@ -147450,7 +147450,7 @@ hadirnya	O
 yang	O
 banyak	O
 ,	O
-"	O
+`	O
 kata	O
 wapres	O
 ketika	O
@@ -147818,7 +147818,7 @@ korupsi	O
 itu	O
 .	O
 
-"	O
+`	O
 kalau	O
 mau	O
 nanti	O
@@ -147830,7 +147830,7 @@ maghrib	O
 lumayan	O
 buat	O
 jajan,	O
-"	O
+`	O
 tandasnya	O
 sambil	O
 tertawa	O
@@ -148121,7 +148121,7 @@ douwes	I-PPL
 dekker	I-PPL
 .	O
 
-"	O
+`	O
 bersyukur	O
 banget	O
 karya	O
@@ -148267,7 +148267,7 @@ faktor	O
 lain	O
 .	O
 
-"	O
+`	O
 presentasi	O
 jumlah	O
 kunjungan	O
@@ -148290,7 +148290,7 @@ mencapai	O
 5	O
 %	O
 ,	O
-"	O
+`	O
 tutur	O
 humas	O
 taman	O
@@ -148307,7 +148307,7 @@ jumat	O
 )	O
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 mau	O
@@ -148322,7 +148322,7 @@ sudah	O
 ketentuannya	O
 begitu	O
 ,	O
-"	O
+`	O
 kata	O
 yasonna	B-PPL
 usai	O
@@ -148896,7 +148896,7 @@ aburizal	B-PPL
 bakrie	I-PPL
 )	O
 
-"	O
+`	O
 apapun	O
 motifnya	O
 ,	O
@@ -148914,7 +148914,7 @@ betul	O
 ya	O
 atau	O
 tidak,	O
-"	O
+`	O
 ungkapnya	O
 .	O
 
@@ -149117,7 +149117,7 @@ daging	B-FNB
 ayam	I-FNB
 .	O
 
-"	O
+`	O
 kalau	O
 saya	O
 sih	O
@@ -149145,7 +149145,7 @@ kalau	O
 orang	O
 merokok	O
 ,	O
-"	O
+`	O
 ujar	O
 vena	B-PPL
 di	O
@@ -149284,7 +149284,7 @@ b-ppllengkapan	O
 transportasi	O
 .	O
 
-"	O
+`	O
 beragam	O
 jurusan	O
 yang	O
@@ -149300,7 +149300,7 @@ permasalahan	O
 kesejahteraan	O
 sosial	O
 ,	O
-"	O
+`	O
 terang	O
 mensos	O
 .	O
@@ -149322,7 +149322,7 @@ dan	O
 sedang	O
 .	O
 
-"	O
+`	O
 beliau	O
 juga	O
 sudah	O
@@ -149342,7 +149342,7 @@ tetap	O
 mengabdi	O
 menjadi	O
 sipir,	O
-"	O
+`	O
 ujar	O
 amir	B-PPL
 .	O
@@ -149410,7 +149410,7 @@ handphone	O
 mereka	O
 masing-masing	O
 .	O
-"	O
+`	O
 ya	O
 ,	O
 disimpan	O
@@ -149425,7 +149425,7 @@ bnn	O
 juga	O
 akhirnya	O
 ,	O
-"	O
+`	O
 lanjutnya	O
 .	O
 
@@ -149498,7 +149498,7 @@ hingga	O
 2018	O
 .	O
 
-"	O
+`	O
 ini	O
 pertemuan	O
 biasa	O
@@ -149508,7 +149508,7 @@ presiden	O
 dan	O
 jk	B-PPL
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -149524,7 +149524,7 @@ lanjut	O
 fedi	B-PPL
 .	O
 
-"	O
+`	O
 jaga	O
 keselamatan	O
 .	O
@@ -149553,7 +149553,7 @@ perlu	O
 semua	O
 masuk	O
 gereja,	O
-"	O
+`	O
 kata	O
 bachtiar	B-PPL
 .	O
@@ -149691,20 +149691,20 @@ tulisan	O
 tangan	O
 warga	O
 berbunyi	O
-"	O
+`	O
 sudah	O
 cukup!	O
-"	O
+`	O
 pesan	O
 lain	O
 berbunyi	O
-"	O
+`	O
 siapa	O
 yang	O
 akan	O
 jadi	O
 korban	O
-berikut?"	O
+berikut?`	O
 .	O
 
 kemudian	O
@@ -149771,7 +149771,7 @@ oleh	O
 dpr	O
 .	O
 
-"	O
+`	O
 si	O
 pelontar	O
 ini	O
@@ -149811,7 +149811,7 @@ nama	O
 baik	O
 partai	O
 ,	O
-"	O
+`	O
 kata	O
 sekjen	O
 partai	O
@@ -150004,7 +150004,7 @@ sudah	O
 direncanakan	O
 lama	O
 .	O
-"	O
+`	O
 terlambat	O
 satu	O
 menit	O
@@ -150014,7 +150014,7 @@ menghilangkan	O
 barang	O
 bukti	O
 ,	O
-"	O
+`	O
 paparnya	O
 .	O
 
@@ -150042,7 +150042,7 @@ nasi	B-FNB
 timbel	I-FNB
 .	O
 
-"	O
+`	O
 ini	O
 langkah	O
 awal	O
@@ -150053,7 +150053,7 @@ sanksi	O
 buat	O
 pks	O
 ,	O
-"	O
+`	O
 ujar	O
 mantan	O
 pengamat	O
@@ -150088,7 +150088,7 @@ ke	I-EVT
 69	I-EVT
 .	O
 
-"	O
+`	O
 namun	O
 ternyata	O
 ada	O
@@ -150232,7 +150232,7 @@ forum	O
 klb	O
 .	O
 
-"	O
+`	O
 data	O
 itu	O
 baru	O
@@ -150241,7 +150241,7 @@ ketahui	O
 hari	O
 ini	O
 ,	O
-"	O
+`	O
 ujarnya	O
 di	O
 dpr	B-PLC
@@ -150254,7 +150254,7 @@ senin	O
 )	O
 .	O
 
-"	O
+`	O
 sudah	O
 ada	O
 ketentuan	O
@@ -150278,7 +150278,7 @@ mundur	O
 dari	O
 jabatan	O
 ,	O
-"	O
+`	O
 kata	O
 marzuki	B-PPL
 saat	O
@@ -150451,13 +150451,13 @@ untuk	O
 pssi	O
 .	O
 
-"	O
+`	O
 kursi	O
 menkominfo	O
 jadi	O
 jatah	O
 golkar,	O
-"	O
+`	O
 kata	O
 sumber	O
 detikcom	O
@@ -150524,12 +150524,12 @@ turut	O
 pula	O
 menghadirkan	O
 kegiatan	O
-"	O
+`	O
 art	O
 &	O
 sensory	B-PPL
 festivity	I-PPL
-"	O
+`	O
 hasil	O
 kerjasama	O
 antara	O
@@ -150716,12 +150716,12 @@ turut	O
 pula	O
 menghadirkan	O
 kegiatan	O
-"	O
+`	O
 art	B-EVT
 &	I-EVT
 sensory	I-EVT
 festivity	I-EVT
-"	O
+`	O
 hasil	O
 kerjasama	O
 antara	O
@@ -150863,7 +150863,7 @@ zulkifli	B-PPL
 hasan	I-PPL
 .	O
 
-"	O
+`	O
 tentu	O
 dalam	O
 lima	O
@@ -150895,7 +150895,7 @@ baik	O
 dan	O
 bersih	O
 ,	O
-"	O
+`	O
 katanya	O
 ,	O
 ahad	O
@@ -151230,7 +151230,7 @@ besar	O
 di	O
 parlemen	O
 .	O
-"	O
+`	O
 golkar	O
 akan	O
 menjadi	O
@@ -151244,7 +151244,7 @@ ujar	O
 ary	B-PPL
 .	O
 
-"	O
+`	O
 untuk	O
 kepentingan	O
 pengembangan	O
@@ -151255,7 +151255,7 @@ ditahan	O
 di	O
 polda	B-PLC
 riau	I-PLC
-"	O
+`	O
 tutur	O
 jubir	O
 kpk	O
@@ -151381,7 +151381,7 @@ dahmad	B-PPL
 ketahuan	O
 .	O
 
-"	O
+`	O
 kami	O
 ingin	O
 lingkungan	O
@@ -151397,7 +151397,7 @@ penduduk	O
 kami	O
 kembali	O
 ,	O
-"	O
+`	O
 kata	O
 nya	O
 .	O
@@ -151477,7 +151477,7 @@ akan	O
 ditempatkan	O
 .	O
 
-"	O
+`	O
 saya	O
 memang	O
 ditampar	O
@@ -151493,7 +151493,7 @@ dilakukan	O
 pak	O
 denny	B-PPL
 ,	O
-"	O
+`	O
 kata	O
 d	B-PPL
 sihombing	I-PPL
@@ -151560,7 +151560,7 @@ antropologi	O
 budaya	O
 .	O
 
-"	O
+`	O
 mereka	O
 memiliki	O
 kemampuan	O
@@ -151569,7 +151569,7 @@ meregenerasi	O
 dan	O
 mengganti	O
 ini	O
-"	O
+`	O
 kata	O
 pejabat	O
 intelijen	O
@@ -151622,12 +151622,12 @@ turut	O
 pula	O
 menghadirkan	O
 kegiatan	O
-"	O
+`	O
 art	B-EVT
 &	I-EVT
 sensory	I-EVT
 festivity	I-EVT
-"	O
+`	O
 hasil	O
 kerjasama	O
 antara	O
@@ -151984,7 +151984,7 @@ sudah	O
 mengeksekusi	O
 agusrin	B-PPL
 .	O
-"	O
+`	O
 kami	O
 berharap	O
 dalam	O
@@ -151999,7 +151999,7 @@ harus	O
 segera	O
 dieksekusi	O
 ,	O
-"	O
+`	O
 tutupnya	O
 .	O
 (	O
@@ -152010,7 +152010,7 @@ ol	B-PPL
 5	O
 )	O
 
-"	O
+`	O
 menjadi	O
 oposisi	O
 juga	O
@@ -152026,7 +152026,7 @@ menyangkut	O
 pihak	O
 lain	O
 ,	O
-"	O
+`	O
 ujar	O
 amir	B-PPL
 .	O
@@ -152040,7 +152040,7 @@ hendra	B-PPL
 bayauw	I-PPL
 .	O
 
-"	O
+`	O
 tenaga	O
 kesehatan	O
 asing	O
@@ -152156,7 +152156,7 @@ legislatif	I-EVT
 2014	I-EVT
 .	O
 
-"	O
+`	O
 pesan	O
 nya	O
 adalah	O
@@ -152177,7 +152177,7 @@ untuk	O
 melukai	O
 mereka	O
 .	O
-"	O
+`	O
 
 tribunnews	B-IND
 .	I-IND
@@ -152254,7 +152254,7 @@ lain	O
 nya	O
 .	O
 
-"	O
+`	O
 ini	O
 problem	O
 integritas	O
@@ -152267,7 +152267,7 @@ konstitusi	O
 sebagai	O
 panduan	O
 ,	O
-"	O
+`	O
 kata	O
 eva	B-PLC
 .	O
@@ -152529,17 +152529,17 @@ hanya	O
 mengamankan	O
 aa	B-PPL
 .	O
-"	O
+`	O
 tersangka	O
 lainnya	O
 kita	O
 kembangkan,	O
-"	O
+`	O
 kata	O
 nuredy	B-PPL
 .	O
 
-"	O
+`	O
 saya	O
 rasa	O
 ini	O
@@ -152557,7 +152557,7 @@ tengah	O
 kita	O
 hadapi	O
 .	O
-"	O
+`	O
 
 ia	O
 menceritakan	O
@@ -152586,7 +152586,7 @@ atau	O
 belum	O
 .	O
 
-"	O
+`	O
 saya	O
 akan	O
 bentuk	O
@@ -152603,7 +152603,7 @@ bapak	O
 sam	B-PPL
 l	I-PPL
 tobing	I-PPL
-"	O
+`	O
 kata	O
 menkum	O
 ham	O
@@ -152882,7 +152882,7 @@ dengan	O
 jakarta	B-PLC
 .	O
 
-"	O
+`	O
 oyek	O
 ini	O
 dari	O
@@ -152892,7 +152892,7 @@ ditargetkan	O
 selesai	O
 pada	O
 2014	O
-"	O
+`	O
 kata	O
 imam	B-PPL
 di	O
@@ -153177,7 +153177,7 @@ tahun	O
 ini	O
 .	O
 
-"	O
+`	O
 itu	O
 bukan	O
 masalah	O
@@ -153191,7 +153191,7 @@ tapi	O
 masalah	O
 perilaku	O
 ,	O
-"	O
+`	O
 ujar	O
 jk	B-PPL
 saat	O
@@ -153294,7 +153294,7 @@ kontrak	O
 koalisi	O
 .	O
 
-"	O
+`	O
 pelaku	O
 usaha	O
 jasa	O
@@ -153306,7 +153306,7 @@ tingkatkan	O
 literasi	O
 keuangan	O
 ,	O
-"	O
+`	O
 kata	O
 sri	B-PPL
 ,	O
@@ -153396,7 +153396,7 @@ kejaksaan	O
 agung	O
 .	O
 
-"	O
+`	O
 wilayah	O
 ini	O
 .	O
@@ -153414,7 +153414,7 @@ dampak	O
 konflik	O
 ini	O
 ,	O
-"	O
+`	O
 tambah	O
 nya	O
 .	O
@@ -153445,7 +153445,7 @@ yang	O
 berkumpul	O
 dan	O
 bersukaria	O
-"	O
+`	O
 pulanglah	O
 ke	O
 rumah	O
@@ -153454,7 +153454,7 @@ tinggal	O
 dalam	O
 damai	O
 .	O
-"	O
+`	O
 
 di	O
 penghujung	O
@@ -153561,7 +153561,7 @@ pemrograman	O
 javascript	B-IND
 .	O
 
-"	O
+`	O
 pak	O
 sultan	B-PPL
 justru	O
@@ -153595,7 +153595,7 @@ dalam	O
 setahun	O
 ini	O
 ,	O
-"	O
+`	O
 kata	O
 mendagri	O
 .	O
@@ -153693,7 +153693,7 @@ kamis	O
 )	O
 .	O
 
-"	O
+`	O
 para	O
 mahasiswa	O
 adalah	O
@@ -153703,7 +153703,7 @@ terdidik	O
 dan	O
 berpengetahuan	O
 ,	O
-"	O
+`	O
 kata	O
 mensos	O
 .	O
@@ -154391,7 +154391,7 @@ menjadi	O
 racun	O
 .	O
 
-"	O
+`	O
 kami	O
 punya	O
 kesempatan	O
@@ -154420,7 +154420,7 @@ kehilangan	O
 kesempatan	O
 penting	O
 .	O
-"	O
+`	O
 
 sehingga	O
 ,	O
@@ -154440,7 +154440,7 @@ terjadi	O
 kesepakatan	O
 .	O
 
-"	O
+`	O
 namun	O
 pertemuan	O
 presiden	O
@@ -154462,7 +154462,7 @@ pilpres	B-EVT
 yang	O
 lalu	O
 ,	O
-"	O
+`	O
 tuturnya	O
 .	O
 
@@ -154545,7 +154545,7 @@ bahwa	O
 senjata	O
 rusia	B-PLC
 adalah	O
-"	O
+`	O
 jaminan	O
 politik	O
 untuk	O
@@ -154553,7 +154553,7 @@ melindungi	O
 rezim	O
 transnistria	B-PLC
 .	O
-"	O
+`	O
 
 pesawat	O
 kepresidenan	O
@@ -154588,7 +154588,7 @@ siang	O
 tadi	O
 .	O
 
-"	O
+`	O
 dia	O
 (	O
 korea	B-PLC
@@ -154616,7 +154616,7 @@ nilai	O
 lebihnya	O
 korea	B-PLC
 ,	O
-"	O
+`	O
 jelas	O
 hidayat	B-PPL
 ,	O
@@ -154908,7 +154908,7 @@ sekitar	O
 ribu	O
 ktp	O
 .	O
-"	O
+`	O
 itu	O
 akan	O
 dicicil	O
@@ -154926,7 +154926,7 @@ hampir	O
 kali	O
 lipatnya	O
 ,	O
-"	O
+`	O
 ujar	O
 dia	O
 .	O
@@ -155001,7 +155001,7 @@ usia	O
 92	O
 tahun	O
 
-"	O
+`	O
 tersangka	O
 marini	B-PPL
 kini	O
@@ -155021,7 +155021,7 @@ kemudian	O
 siap	O
 disidangkan	O
 ,	O
-"	O
+`	O
 kata	O
 nasution	B-PPL
 .	O
@@ -155536,7 +155536,7 @@ tahun	O
 1979	O
 .	O
 
-"	O
+`	O
 saya	O
 juga	O
 bingung	O
@@ -155570,7 +155570,7 @@ satu	O
 per	O
 satu	O
 ,	O
-"	O
+`	O
 kata	O
 vena	B-PPL
 yang	O
@@ -155594,7 +155594,7 @@ jabatan	O
 notaris	O
 .	O
 
-"	O
+`	O
 situasi	O
 di	O
 gaza	B-PLC
@@ -155613,7 +155613,7 @@ tersedia	O
 di	O
 pasar	O
 ,	O
-"	O
+`	O
 kata	O
 christine	B-PPL
 van	I-PPL
@@ -155754,7 +155754,7 @@ hari	O
 berselang	O
 .	O
 
-"	O
+`	O
 teman	O
 -	O
 teman	O
@@ -155769,7 +155769,7 @@ bukan	O
 karena	O
 membawa	O
 ganja,	O
-"	O
+`	O
 ucap	O
 rezky	B-PPL
 
@@ -155841,7 +155841,7 @@ persero	B-IND
 )	O
 .	O
 
-"	O
+`	O
 kemarin	O
 malam	O
 lurah	O
@@ -155858,7 +155858,7 @@ belum	O
 datang	O
 bantuannya	O
 ,	O
-"	O
+`	O
 ujar	O
 agus	B-PPL
 yang	O
@@ -156073,14 +156073,14 @@ rp10,6	O
 juta	O
 .	O
 
-"	O
+`	O
 api	O
 mulai	O
 berkobar	O
 di	O
 toilet	O
 ,	O
-"	O
+`	O
 kata	O
 seorang	O
 juru	O
@@ -156107,7 +156107,7 @@ pernah	O
 ditekennya	O
 .	O
 
-"	O
+`	O
 ada	O
 banyak	O
 calon	O
@@ -156119,7 +156119,7 @@ di	O
 luar	O
 dpr	O
 ,	O
-"	O
+`	O
 kata	O
 dia	O
 .	O
@@ -156232,11 +156232,11 @@ tahun	O
 sebagai	O
 bagian	O
 dari	O
-"	O
+`	O
 perang	O
 melawan	O
 teror	O
-"	O
+`	O
 yang	O
 dipimpin	O
 oleh	O
@@ -156376,7 +156376,7 @@ lebih	O
 sedikit	O
 .	O
 
-"	O
+`	O
 sudah	O
 dinyatakan	O
 bahwa	O
@@ -156384,7 +156384,7 @@ yang	O
 bersangkutan	O
 tersangka	O
 ,	O
-"	O
+`	O
 ujar	O
 sumber	O
 tersebut	O
@@ -156572,12 +156572,12 @@ minggu	O
 sebelum	O
 digantikan	O
 dengan	O
-"	O
+`	O
 you	B-IND
 belong	I-IND
 to	I-IND
 me	I-IND
-"	O
+`	O
 oleh	O
 jo	B-PPL
 stafford	I-PPL
@@ -156660,12 +156660,12 @@ mengikuti	O
 reuni	O
 akbar	B-PPL
 bertajuk	O
-"	O
+`	O
 reinventing	O
 lima	O
 expo	O
 2017	O
-"	O
+`	O
 di	O
 kampus	B-PLC
 sman	O
@@ -156763,7 +156763,7 @@ ke	O
 depan	O
 .	O
 
-"	O
+`	O
 adalah	O
 sekitar	O
 rp	O
@@ -156778,7 +156778,7 @@ pada	O
 mau	O
 ngasih	O
 berapa,	O
-"	O
+`	O
 ujarnya	O
 saat	O
 berbincang	O
@@ -156832,7 +156832,7 @@ utara	I-PLC
 jakarta	B-PLC
 .	O
 
-"	O
+`	O
 kami	O
 punya	O
 kesempatan	O
@@ -156861,7 +156861,7 @@ kehilangan	O
 kesempatan	O
 penting	O
 .	O
-"	O
+`	O
 
 semua	O
 pihak	O
@@ -156963,7 +156963,7 @@ nahas	O
 tersebut	O
 .	O
 
-"	O
+`	O
 walau	O
 indonesia	B-PLC
 unggul	O
@@ -156980,7 +156980,7 @@ value	O
 added	O
 products	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 
@@ -157058,7 +157058,7 @@ handphone	O
 yang	O
 ada	O
 .	O
-"	O
+`	O
 makanya	O
 para	O
 napi	O
@@ -157066,19 +157066,19 @@ simpan	O
 hp	O
 semua	O
 ,	O
-"	O
+`	O
 ujar	O
 jt	B-PPL
 .	O
 
-"	O
+`	O
 nanti	O
 juga	O
 naik	O
 sendiri	O
 benderanya	O
 ,	O
-"	O
+`	O
 jelas	O
 mardani	B-PPL
 .	O
@@ -157449,7 +157449,7 @@ menteri	O
 pertahanan	O
 .	O
 
-"	O
+`	O
 saya	O
 memang	O
 ditampar	O
@@ -157465,7 +157465,7 @@ dilakukan	O
 pak	O
 denny	B-PPL
 ,	O
-"	O
+`	O
 kata	O
 d	B-PPL
 sihombing	I-PPL
@@ -157488,7 +157488,7 @@ lembaga	I-PLC
 pekanbaru	B-PLC
 .	O
 
-"	O
+`	O
 alat	O
 deteksi	O
 narkoba	O
@@ -157504,11 +157504,11 @@ petugas	O
 mencium	O
 (	O
 narkoba),	O
-"	O
+`	O
 jelasnya	O
 .	O
 
-"	O
+`	O
 saya	O
 kaget	O
 melihat	O
@@ -157550,7 +157550,7 @@ tembus	O
 juta	O
 penonton	O
 ,	O
-"	O
+`	O
 katanya	O
 ,	O
 belum	O
@@ -158043,11 +158043,11 @@ javajazzfestival	O
 com	O
 .	O
 
-"	O
+`	O
 pasti	O
 ada	O
 ,	O
-"	O
+`	O
 katanya	O
 .	O
 
@@ -158208,7 +158208,7 @@ nino	O
 tahun	O
 .	O
 
-,"	O
+,`	O
 ujar	O
 presiden	O
 pks	O
@@ -158363,7 +158363,7 @@ layanan	O
 lte	O
 .	O
 
-"	O
+`	O
 tidaklah	O
 sebanding	O
 antara	O
@@ -158378,7 +158378,7 @@ israel	B-PLC
 lakukan	O
 kami	O
 .	O
-"	O
+`	O
 
 komisi	O
 pemberantasan	O
@@ -158498,7 +158498,7 @@ ali	B-PPL
 mukartono	I-PPL
 .	O
 
-"	O
+`	O
 b-pplsonil	O
 polda	O
 sudah	O
@@ -158519,7 +158519,7 @@ ini	O
 juga	O
 akan	O
 ditarik,	O
-"	O
+`	O
 ujar	O
 nainggolan	B-PPL
 .	O
@@ -158693,7 +158693,7 @@ buruk	I-IND
 danilla	B-PPL
 bercerita	O
 ,	O
-"	O
+`	O
 saat	O
 itu	O
 saya	O
@@ -158723,7 +158723,7 @@ saya	O
 kenal	O
 :-	O
 (	O
-"	O
+`	O
 
 saat	O
 memakannya	O
@@ -158920,7 +158920,7 @@ tiket	O
 ka	O
 .	O
 
-"	O
+`	O
 bank	B-PLC
 bri	I-PLC
 berharap	O
@@ -158946,7 +158946,7 @@ bank	B-IND
 bri	I-IND
 ini	O
 ,	O
-"	O
+`	O
 ucap	O
 ali	B-PPL
 .	O
@@ -159021,7 +159021,7 @@ ke	O
 sawah	O
 .	O
 
-"	O
+`	O
 demokrat	O
 tak	O
 masalah	O
@@ -159033,7 +159033,7 @@ atau	O
 di	O
 luar	O
 ,	O
-"	O
+`	O
 tegasnya	O
 .	O
 
@@ -159110,7 +159110,7 @@ persib	B-IND
 bandung	I-IND
 .	O
 
-"	O
+`	O
 selama	O
 ini	O
 (	O
@@ -159132,7 +159132,7 @@ bisa	O
 jauh	O
 lebih	O
 efisien,	O
-"	O
+`	O
 katanya	O
 di	O
 jakarta	B-PLC
@@ -159298,7 +159298,7 @@ pelanggaran	O
 kekerasan	O
 .	O
 
-"	O
+`	O
 kita	O
 tunggu	O
 b-pplnyataan	O
@@ -159312,7 +159312,7 @@ sby	B-PPL
 semua	O
 bukan	O
 official,	O
-"	O
+`	O
 kata	O
 anis	B-PPL
 kepada	O
@@ -159343,7 +159343,7 @@ choice	O
 award	O
 .	O
 
-"'	O
+`'	O
 kaesang	B-PPL
 pangarep	I-PPL
 (	O
@@ -159402,7 +159402,7 @@ untuk	O
 memilih	O
 .	O
 
-"	O
+`	O
 sebenarnya	O
 sudah	O
 ada	O
@@ -159413,7 +159413,7 @@ keamanan	O
 nasabah	O
 .	O
 
-"	O
+`	O
 orang-orang	O
 yang	O
 disebut-sebut	O
@@ -159435,7 +159435,7 @@ yang	O
 menjamin	O
 keamanan	O
 ,	O
-"	O
+`	O
 kata	O
 akbar	B-PPL
 dalam	O
@@ -159574,7 +159574,7 @@ melawan	O
 palestina	B-PLC
 .	O
 
-"	O
+`	O
 pembangunan	O
 satu	O
 mother	O
@@ -159591,7 +159591,7 @@ miliar	O
 -	O
 rp120	O
 miliar,	O
-"	O
+`	O
 ujar	O
 gunung	B-PPL
 kepada	O
@@ -159704,7 +159704,7 @@ soal	O
 moral	O
 .	O
 
-"	O
+`	O
 tujuan	O
 dari	O
 sidak	O
@@ -159726,7 +159726,7 @@ paling	O
 penting	O
 sebenarnya	O
 ,	O
-"	O
+`	O
 tegasnya	O
 .	O
 
@@ -159822,7 +159822,7 @@ oktober	O
 1927	O
 .	O
 
-"	O
+`	O
 tidak	O
 ,	O
 tidak	O
@@ -159846,21 +159846,21 @@ dib-ppltegas	O
 keterangan	O
 saksi-saksi	O
 ,	O
-"	O
+`	O
 tutup	O
 yos	B-PPL
 .	O
 
-"	O
+`	O
 masih	O
 dikembangkan	O
 lagi	O
 ,	O
-"	O
+`	O
 tukasnya	O
 .	O
 
-"	O
+`	O
 nggak	O
 usah	O
 jauh-jauh	O
@@ -159879,7 +159879,7 @@ medan	B-PLC
 merdeka	I-PLC
 barat	I-PLC
 ,	O
-"	O
+`	O
 ucap	O
 djoko	B-PPL
 .	O
@@ -160224,7 +160224,7 @@ per	O
 orang	O
 .	O
 
-"'	O
+`'	O
 appleinsider	B-IND
 ,	O
 senin	O
@@ -160534,7 +160534,7 @@ tidak	O
 tulus	O
 .	O
 
-"	O
+`	O
 kami	O
 baru	O
 berkomunikasi	O
@@ -160556,7 +160556,7 @@ temu	O
 yang	O
 pas	O
 ,	O
-"	O
+`	O
 ungkap	O
 sekretaris	O
 fraksi	O
@@ -160573,7 +160573,7 @@ rabu	O
 )	O
 .	O
 
-"	O
+`	O
 ini	O
 saya	O
 lakukan	O
@@ -160601,7 +160601,7 @@ lagi	O
 akibat	O
 senapan	O
 angin	O
-"	O
+`	O
 kata	O
 kapolres	O
 palu	B-PLC
@@ -160899,7 +160899,7 @@ rp	O
 300	O
 miliar	O
 
-"	O
+`	O
 saya	O
 muslim	O
 ,	O
@@ -160915,7 +160915,7 @@ pak	O
 denny	B-PPL
 tidak	O
 memukul,	O
-"	O
+`	O
 jelas	O
 kusno	B-PPL
 saat	O
@@ -161303,7 +161303,7 @@ babak	O
 terakhir	O
 .	O
 
-"	O
+`	O
 intensitasnya	O
 iii	O
 -	O
@@ -161312,7 +161312,7 @@ mmi	O
 atau	O
 ringan	O
 ,	O
-"	O
+`	O
 papar	O
 yahya	B-PPL
 .	O
@@ -161645,7 +161645,7 @@ hasrul	B-PPL
 azwar	I-PPL
 .	O
 
-"	O
+`	O
 tentunya	O
 apa	O
 yang	O
@@ -161659,7 +161659,7 @@ ini	O
 mengejutkan	O
 kami	O
 ,	O
-"	O
+`	O
 kata	O
 salleh	B-PPL
 .	O
@@ -161743,7 +161743,7 @@ ataupun	O
 ios	B-IND
 .	O
 
-"	O
+`	O
 saat	O
 saya	O
 hamil	O
@@ -161776,7 +161776,7 @@ kapal	I-PLC
 tallo	B-PLC
 ,	O
 makassar	B-PLC
-"	O
+`	O
 tutur	O
 nh	B-PPL
 .	O
@@ -162257,7 +162257,7 @@ makin	O
 membesar	O
 .	O
 
-"	O
+`	O
 saya	O
 tidak	O
 anjurkan	O
@@ -162285,7 +162285,7 @@ sarankan	O
 pikir	O
 ulang	O
 ,	O
-"	O
+`	O
 kata	O
 priyo	B-PPL
 saat	O
@@ -162302,7 +162302,7 @@ rabu	O
 )	O
 .	O
 
-"	O
+`	O
 tidak	O
 lucu	O
 kalau	O
@@ -162311,7 +162311,7 @@ aktif	O
 di	O
 keduanya	O
 ,	O
-"	O
+`	O
 kata	O
 endriartono	B-PPL
 kepada	O
@@ -162350,7 +162350,7 @@ posisi	O
 14	O
 .	O
 
-"	O
+`	O
 gugatan	O
 ke	O
 pn	O
@@ -162360,7 +162360,7 @@ pada	O
 ranah	O
 pidana	O
 ,	O
-"	O
+`	O
 kata	O
 firman	B-PPL
 .	O
@@ -162381,7 +162381,7 @@ oleh	O
 falkirk	O
 .	O
 
-"	O
+`	O
 pengawasan	O
 dan	O
 b-pplawatan	O
@@ -162402,7 +162402,7 @@ pembangkit	O
 yang	O
 dijalankan	O
 ,	O
-"	O
+`	O
 ujarnya	O
 .	O
 (	O
@@ -162462,7 +162462,7 @@ persen	O
 )	O
 .	O
 
-"	O
+`	O
 kami	O
 tidak	O
 percaya	O
@@ -162484,7 +162484,7 @@ besar	O
 dari	O
 perlawanan	O
 itu,	O
-"	O
+`	O
 katanya	O
 .	O
 (	O
@@ -162844,7 +162844,7 @@ agustus	O
 lalu	O
 .	O
 
-"	O
+`	O
 banyak	O
 yang	O
 tidak	O
